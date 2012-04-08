@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Sauvegarde complète</string>
+    <string name="restore_confirm_title">Restauration complète</string>
+    <string name="backup_confirm_text">"Une sauvegarde complète de toutes les données vers un ordinateur connecté a été demandée. Voulez-vous l'autoriser?
+
+Si vous n'avez pas demandé la sauvegarde, n'autorisez pas l'opération."</string>
+    <string name="allow_backup_button_label">Sauvegarder mes données</string>
+    <string name="deny_backup_button_label">Ne pas sauvegarder</string>
+    <string name="restore_confirm_text">"Une restauration complète de toutes les données depuis un ordinateur connecté a été demandée. Voulez-vous l'autoriser?
+
+Si vous n'avez pas demandé la sauvegarde, n'autorisez pas l'opération. Ceci remplacera toute donnée présente actuellement sur l'appareil!"</string>
+    <string name="allow_restore_button_label">Restaurer mes données</string>
+    <string name="deny_restore_button_label">Ne pas restaurer</string>
+    <string name="current_password_text">Veuillez entrer votre mot de passe de sauvegarde actuel:</string>
+    <string name="device_encryption_restore_text">Veuillez entrer votre mot de passe de cryptage de l\'appareil:</string>
+    <string name="device_encryption_backup_text">Veuillez entrer votre mot de passe de cryptage. Ceci sera aussi utilisé pour crypter l\'archive de sauvegarde.</string>
+    <string name="backup_enc_password_text">Veuillez entrer un mot de passe de cryptage pour l\'archive de sauvegarde. Si ceci est laissé vide, votre mot de passe actuel sera utilisé:</string>
+    <string name="backup_enc_password_optional">Si vous souhaitez crypter l\'archive de la sauvegarde complète, entrez un mot de passe:</string>
+    <string name="restore_enc_password_text">Si la restauration de données est cryptée, entrez le mot de passe:</string>
+    <string name="toast_backup_started">Sauvegarde lancée...</string>
+    <string name="toast_backup_ended">Sauvegarde terminée</string>
+    <string name="toast_restore_started">Restauration lancée...</string>
+    <string name="toast_restore_ended">Restauration terminée</string>
+    <string name="toast_timeout">Temps mort atteint</string>
+</resources>

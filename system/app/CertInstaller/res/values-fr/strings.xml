@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Certificat</string>
+    <string name="pick_file_title">"Sélection d'un certificat"</string>
+    <string name="pkcs12_password_dialog_title">Récupération des clés PKCS12</string>
+    <string name="extracting_pkcs12">Récupération...</string>
+    <string name="pkcs12_file_password_dialog_title">Récupéré de %s</string>
+    <string name="name_credential_dialog_title">Nom du certificat</string>
+    <string name="credential_name">Nom du certificat:</string>
+    <string name="credential_password">Entrez le mot de passe pour récupérer le certificat.</string>
+    <string name="credential_info">Le kit comprend:</string>
+    <string name="p12_description">PKCS12 Clé du certificat PKCS12.</string>
+    <string name="one_userkey">Une clé utilisateur</string>
+    <string name="one_usercrt">"Certificat de l'utilisateur"</string>
+    <string name="one_cacrt">Certificat CA</string>
+    <string name="n_cacrts">%d certificat CA</string>
+    <string name="password_error">Mot de passe incorrect.</string>
+    <string name="password_empty_error">Mot de passe obligatoire.</string>
+    <string name="name_empty_error">Nom obligatoire.</string>
+    <string name="name_char_error">Nom obligatoire (caractères alphanumériques uniquement.)</string>
+    <string name="storage_error">"Impossible d'enregistrer le certificat. Réessayer en cliquant sur [OK]."</string>
+    <string name="unable_to_save_cert">"Impossible d'enregistrer le certificat, votre authentification n'est pas activée ou le stockage n'est pas correctement initialisé."</string>
+    <string name="cert_not_saved">"Ce certificat n'est pas installé."</string>
+    <string name="no_cert_to_saved">Aucun certificat à sauvegarder.</string>
+    <string name="invalid_cert">Le certificat est non valide.</string>
+    <string name="cert_is_added">Certificat %s installé.</string>
+    <string name="cert_too_large_error">"Echec de l'installation: le certificat est trop grand."</string>
+    <string name="cert_missing_error">"Echec de l'installation: impossible trouver le certificat."</string>
+    <string name="cert_read_error">"Echec de l'installation: Impossible de lire le certificat."</string>
+    <string name="no_cert_file_found">Impossible de trouver le certificat sur la carte SD.</string>
+    <string name="sdcard_not_present">Pas de carte SD.</string>
+</resources>
