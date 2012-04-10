@@ -70,7 +70,7 @@
     <string name="control_set_alarm_with_existing">Alarme réglée : %s</string>
     <string name="worldclock_title">Horloge mondiale</string>
     <string name="stopwatch_title">Chronomètre</string>
-    <string name="timer_title">Compte à rebours</string>
+    <string name="timer_title">Minuteur</string>
     <string name="menu_add_worldclock">Ajouter</string>
     <string name="menu_worldclock_edit">Modifier l\'horloge mondiale</string>
     <string name="menu_alarmclock_edit">Modifier le réveil</string>
