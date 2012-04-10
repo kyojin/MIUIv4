@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Panneau de contrôle MIUI</string>
+    <string name="show_battery_title">Afficher batterie</string>
+    <string name="show_battery_summary">Désactiver pour masquer la batterie</string>
+    <string name="statusbar_layout">Agencement de la barre d\'état</string>
+    <string name="misc_options">Autres options</string>
+    <string name="show_clock_title">Montrer l\'horloge</string>
+    <string name="show_clock_summary">Désactiver pour masquer l\'horloge</string>
+    <string name="notify_adb">Notification</string>
+    <string name="notify_adb_summary">Afficher une notification lorsque le débogage est activé</string>
+    <string name="show_carrier_title">Afficher l\'opérateur</string>
+    <string name="show_carrier_summary">Désactiver pour masquer le nom de l\'opérateur</string>
+    <string name="custom_carrier">Opérateur personnalisé</string>
+    <string name="custom_carrier_summary">Définir votre propre nom d\'opérateur</string>
+    <string name="custom_carrier_text">Nom d\'opérateur personnalisé</string>
+    <string name="custom_carrier_logo">Afficher le logo de l\'opérateur</string>
+    <string name="custom_carrier_logo_summary">Afficher le logo de l\'opérateur plutôt que du texte</string>
+    <string name="notification_bar_date_format">Format de la date de notification</string>
+    <string name="lockscreen_date_format">Format de la date du lockscreen</string>
+    <string name="date_format_options">Options du format de la date</string>
+    <string name="show_alarm_title">Icône de l\'alame</string>
+    <string name="show_alarm_summary">Désactiver pour cacher l\'alarme</string>
+    <string name="carrier_options">Options de l\'opérateur</string>
+    <string name="clock_colour">Choix de la couleur de l\'horloge</string>
+    <string name="battery_colour">Couleur de la batterie linéaire</string>
+    <string name="battery_indicator_style">Style de la batterie</string>
+    <string name="carrier_colour">Choisir la couleur de l\'opérateur</string>
+    <string name="title">Options barre d\'état</string>
+    <string name="battery_options">Options de la batterie</string>
+    <string name="clock_options">Options de l\'heure</string>
+    <string name="about_title">À propos</string>
+    <string name="about_summary">À propos de cette application</string>
+    <string name="clock_format">Format de l\'heure</string>
+    <string name="ui_overscroll_title">Défilement</string>
+    <string name="pref_overscroll_title">Effet de défilement</string>
+    <string name="pref_overscroll_summary">Choisir le mode de défilement</string>
+    <string name="pref_overscroll_weight_title">Poids du défilement</string>
+    <string name="pref_overscroll_weight_summary">Sélectionnez le poids du défilement</string>
+    <string name="date_help">"Voici quelques exemples de formats de date:-
+Pour le mois de Septembre:
+M -> 9
+MM -> 09
+MMM -> Sep
+MMMM -> September
+Pour les minutes (ex ici: 7 min):
+m -> 7 
+mm -> 07 
+Exemple pour le 6 Avril 2011 à 15:23
+MM/dd/yy HH:mma -> 04/06/11 15:23am
+MMM dd,yy hh:mm -> Avr 6,11 3:23
+MMMM dd,HH:mm -> Avril 6,15:23
+E,MMMM dd,yy hh:mm -> Lun,Avril 6,11 3:23
+EEEE, MMMM dd -> Lundi, Avril 6
+'Date: 'd/M/yy -> Date: 6/4/11</string>
+    <string name="choose_color">Options de couleur</string>
+    <string name="choose_wallpaper_color">Choisir couleur fond d\'écran</string>
+    <string name="use_custom_title">Choisir couleur barre d\'état</string>
+    <string name="use_custom_summary">Activer pour choisir une couleur de barre d\'état personnalisée</string>
+    <string name="choose_statusbar_color">Choisir couleur barre d\'état</string>
+    <string name="pref_key_resetSettings">pref_key_resetSettings</string>
+    <string name="pref_key_hiddenApps">pref_key_hiddenApps</string>
+    <string name="dialog_resetSettings">Ceci remettra les valeurs par défaut de tous les paramètres. Êtes-vous sûr de continuer?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="pref_key_statusBarHeight">statusBarHeight</string>
+    <string name="pref_key_root">pref_key_root</string>
+    <string name="app_drawer">Options du drawer</string>
+    <string name="app_drawer_title">Options du drawer</string>
+    <string name="pref_default_appsPerRow">4</string>
+    <string name="pref_title_hiddenApps">Applis cachées</string>
+    <string name="pref_summary_hiddenApps">Sélectionner les application à cacher du drawer</string>
+    <string name="pref_key_pulldownLocation">pref_key_pulldownLocation</string>
+    <string name="pref_title_pulldownLocation">Emplacement du drawer</string>
+    <string name="pref_summary_pulldownLocation">Sélectionner l\'emplacement du drawer</string>
+    <string name="pref_key_startonBoot">pref_key_startonBoot</string>
+    <string name="gravity_left">Gauche</string>
+    <string name="gravity_right">Droite</string>
+    <string name="gravity_center">Centre</string>
+    <string name="start">Activer</string>
+    <string name="stop">Désactiver</string>
+    <string name="done">Fait</string>
+    <string name="cancel">Annuler</string>
+    <string name="check_all">Sélec. tout</string>
+    <string name="uncheck_all">Désélec. tout</string>
+    <string name="loading_apps">Chargement des applis. Patientez SVP...</string>
+    <string name="show_headset_title">Afficher icône casque</string>
+    <string name="show_headset_summary">Désactiver pour masquer l\'icône casque</string>
+    <string name="show_signal_title">Afficher icône signal</string>
+    <string name="show_signal_summary">Désactiver pour masquer l\'icône signal</string>
+    <string name="drawer_colour">Choisir la couleur de fond du drawer</string>
+    <string name="version_help">Version 2.1.1</string>
+    <string name="startonBoot">Auto-lancement</string>
+    <string name="pref_summary_startonBoot">Cocher pour lancer le drawer au démarrage</string>
+</resources>
