@@ -4,11 +4,11 @@
         <item>"Prochaine alarme prévue dans moins d'une minute."</item>
         <item>Prochaine alarme prévue dans %1$s.</item>
         <item>Prochaine alarme prévue dans %2$s.</item>
-        <item>Prochaine alarme prévue dans %1$1$s et %2$2$s.</item>
+        <item>Prochaine alarme prévue dans %1$s et %2$s.</item>
         <item>Prochaine alarme prévue dans %3$s.</item>
-        <item>Prochaine alarme prévue dans %1$1$s et %2$3$s.</item>
-        <item>Prochaine alarme prévue dans %1$2$s et %2$3$s.</item>
-        <item>La prochaine alarme est prévue dans %1$1$s, %2$2$s et %3$3$s.</item>
+        <item>Prochaine alarme prévue dans %1$s et %3$s.</item>
+        <item>Prochaine alarme prévue dans %2$s et %3$s.</item>
+        <item>La prochaine alarme est prévue dans %1$s, %2$s et %3$s.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>5 minutes</item>
@@ -58,11 +58,11 @@
         <item>Alarme dans moins d\'une minute</item>
         <item>Alarme dans %1$s</item>
         <item>Alarme dans %2$s</item>
-        <item>Alarme dans %1$1$s %2$2$s</item>
+        <item>Alarme dans %1$s %2$s</item>
         <item>Alarme dans %3$s</item>
-        <item>Alarme dans %1$1$s %2$3$s</item>
-        <item>Alarme dans %1$2$s %2$3$s</item>
-        <item>Alarme dans %1$1$s %2$2$s %3$3$s</item>
+        <item>Alarme dans %1$s %3$s</item>
+        <item>Alarme dans %2$s %3$s</item>
+        <item>Alarme dans %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="days">
         <item>Hier</item>

@@ -119,8 +119,8 @@
     <string name="HIPS_SecurityPrompt_Caption">Avertissement de sécurité</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s essaie de %2$s</string>
     <string name="HIPS_SecurityPrompt_Remember">Retenir mon choix</string>
-    <string name="HIPS_SecurityPrompt_Accept">Autorisés (%d)</string>
-    <string name="HIPS_SecurityPrompt_Reject">Refusés (%d)</string>
+    <string name="HIPS_SecurityPrompt_Accept">Autoriser (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject">Refuser (%d)</string>
     <string name="Dashboard_Perm">Permissions</string>
     <string name="Dashboard_App">Apps</string>
     <string name="Dashboard_Log">Logs</string>
