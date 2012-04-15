@@ -5,7 +5,7 @@
     <string name="theme_changing_dialog_title">Application du thème...</string>
     <string name="theme_changed_message">Configuration réussie!</string>
     <string name="theme_changed_failed_message">Configuration échouée!</string>
-    <string name="backup_preference_title">Sauvegarder les paramètres de thème actuel</string>
+    <string name="backup_preference_title">Sauvegarder le thème actuel</string>
     <string name="backup_theme_dialog_ok">OK</string>
     <string name="backup_theme_dialog_message">Sauvegarder le thème actuel dans : \nCarte SD/MIUI/theme/backup/backup.mtz</string>
     <string name="backup_theme_progress_message">Sauvegarde...</string>
@@ -46,6 +46,7 @@
     <string name="desktop_wallpaper">Fonds d\'écran</string>
     <string name="live_wallpaper">Live wallpaper</string>
     <string name="lockscreen_wallpaper">Verrouillage</string>
+    <string name="change_wallpaper">Changer le fond d\'écran</string>
     <string name="component_settings_title">Paramètres des composants</string>
     <string name="component_select_title">Sélection module (%1$s)</string>
     <string name="component_include_title">Contient le modules (%1$s)</string>
@@ -59,4 +60,7 @@
     <string name="apply_font_tip">Le thème contient des nouvelles polices, un redémarrage est requis.</string>
     <string name="apply_font_btn_reboot">Appliquer et redémarrer</string>
     <string name="apply_font_btn_exclude">Appliquer sans police</string>
+    <string name="title_local">Local</string>
+    <string name="title_online">En ligne</string>
+    <string name="title_component">Perso</string>
 </resources>

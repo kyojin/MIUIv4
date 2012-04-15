@@ -281,7 +281,7 @@
     <string name="crypt_keeper_encrypt_title">Chiffrer le téléphone</string>
     <string name="crypt_keeper_encrypt_summary">"Exiger un code PIN ou un mot de passe numérique pour déchiffrer le téléphone à chaque fois qu'il est allumé"</string>
     <string name="crypt_keeper_encrypted_summary">Chiffré</string>
-    <string name="crypt_keeper_desc">"Vous pouvez chiffrer vos comptes, vos paramètres, vos applications téléchargées, ainsi que leurs données, supports et autres fichiers. Une fois votre téléphone chiffré, vous devez saisir un code PIN ou un mot de passe numérique pour le déchiffrer à chaque fois que vous l'allumez. Vous ne pouvez déchiffrer votre téléphone qu'en rétablissant la configuration d'usine, ce qui effacera l'ensemble de vos données
+    <string name="crypt_keeper_desc">"Vous pouvez chiffrer vos comptes, vos paramètres, vos applications téléchargées, ainsi que leurs données, supports et autres fichiers. Une fois votre téléphone chiffré, vous devez saisir un code PIN ou un mot de passe numérique pour le déchiffrer à chaque fois que vous l'allumez. Vous ne pouvez déchiffrer votre téléphone qu'en rétablissant la configuration d'usine, ce qui effacera l'ensemble de vos données
 
 Le chiffrement peut prendre une heure au minimum. La batterie doit être chargée lors du démarrage du processus et le téléphone doit rester branché jusqu'à la fin de celui-ci. Si vous l'interrompez, vous perdrez certaines de vos données, voire la totalité."</string>
     <string name="crypt_keeper_button_text">Chiffrer le téléphone</string>
@@ -788,14 +788,14 @@ Le code PIN est peut-être incorrect."</string>
 "<li>Votre compte Google</li>"
 "<li>"Les données et paramètres du système et de l'application"</li>
 "<li>Les applications téléchargées</li></string>
-    <string name="master_clear_accounts">"
+    <string name="master_clear_accounts">
 
 Vous êtes actuellement connecté aux comptes suivants 
 "</string>
     <string name="master_clear_desc_also_erases_external"><li>Musique</li>"
 "<li>Photos</li>"
 "<li>Autres données utilisateur</li></string>
-    <string name="master_clear_desc_erase_external_storage">"
+    <string name="master_clear_desc_erase_external_storage">
 
 Pour supprimer la musique, les photos et les autres données utilisateur, vous devez effacer la "<b>mémoire de stockage USB</b>.</string>
     <string name="erase_external_storage">Effacer la mémoire USB</string>
@@ -1465,7 +1465,7 @@ Vous pourrez accéder à davantage d'options utiles permettant de contrôler la 
     <string name="data_usage_warning_editor_title">Définir avertissement utilisation des données</string>
     <string name="data_usage_limit_editor_title">"Définir un quota d'utilisation des données"</string>
     <string name="data_usage_limit_dialog_title">Limitation de la consommation de données mobiles</string>
-    <string name="data_usage_limit_dialog">"Votre connexion réseau %1$s sera désactivée une fois le seuil défini atteint.
+    <string name="data_usage_limit_dialog">"Votre connexion réseau %1$s sera désactivée une fois le seuil défini atteint
 
 L’utilisation des données étant mesurée par le téléphone, celle mesurée par votre opérateur peut différer. Nous vous recommandons donc de définir un seuil plus bas."</string>
     <string name="data_usage_restrict_background_title">Limiter les données en arrière-plan ?</string>
@@ -1571,6 +1571,8 @@ L’utilisation des données étant mesurée par le téléphone, celle mesurée 
     <string name="access_control_no_back_footer">Appuyez sur [icône] pour quitter</string>
     <string name="access_control_recording_intro_header">Dessinez un schéma pour définir le verrouillage</string>
     <string name="access_control_app_entry_single">Ouvrir l\'app sélectionnée</string>
+    <string name="apn_mms">MMS</string>
+    <string name="apn_general">Point d\'accès général</string>
     <string name="access_control_app_entry_multiple">Ouvrir %s</string>
     <string name="key_settings_title">Bouton</string>
     <string name="key_settings">Bouton</string>
@@ -1617,6 +1619,11 @@ L’utilisation des données étant mesurée par le téléphone, celle mesurée 
     <string name="lock_screen_unlock_show_summary">Désactiver l\'écran de verrouillage quand la sécurité est activée</string>
     <string name="date_time_settings">Date et heure</string>
     <string name="timezone_settings">Fuseau horaire</string>
+    <string name="security_privacy_settings_title">Sécurité et confidentialité</string>
+    <string name="nearby_wifi">Sélectionner un Wi-Fi proche</string>
+    <string name="forget_wifi_message">Oublier ce réseau Wi-Fi ? Vous pourrez avoir besoin de ré-entrer le MdP en vous y connectant</string>
+    <string name="manually_add_network">Ajout manuel de réseau</string>
+    <string name="network_detail">%s détail de réseau</string>
     <string name="incoming_call_vibrate_abbreviation">Appels</string>
     <string name="notification_vibrate_abbreviation">Notification</string>
     <string name="mms_vibrate_abbreviation">MMS</string>
@@ -1633,9 +1640,13 @@ L’utilisation des données étant mesurée par le téléphone, celle mesurée 
     <string name="show_rounded_corners_summary">Un redémarrage est requis pour l\'appliquer</string>
     <string name="sim_change_failed_enable_sim_lock">Impossible de changer le PIN SIM/RUIM. Activer le verrouillage SIM/RUIM.</string>
     <string name="sim_lock_change_not_supported">Impossible de changer le verrouillage SIM/RUIM. La SIM/RUIM ne le supporte pas.</string>
+    <string name="apn_new">Nouveau point d\'accès</string>
+    <string name="apn_save">Enregistrer le point d\'accès ?</string>
+    <string name="apn_save_msg">Les paramètres ont été modifiés, voulez-vous sauvegarder ?</string>
     <string name="APKTOOL_DUMMY_0614">false</string>
     <string name="APKTOOL_DUMMY_0615">false</string>
     <string name="APKTOOL_DUMMY_0616">false</string>
+    <string name="sim_absent">Pas de SIM/RUIM</string>
     <string name="bluetooth_enter_pin_msg_hs">Entrer le PIN pour appairer \"%1$s\". [Haute sécurité activée: Nécessite une clé de 16 caractères]</string>
     <string name="bluetooth_ftp_acceptance_dialog_text" formatted="false">%1$s voudrait accéder à vos fichiers et dossiers. Accorder l\'accès à %2$s ?</string>
     <string name="bluetooth_ftp_connection_permission_request">Demande de connexion  FTP</string>

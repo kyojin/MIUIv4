@@ -181,6 +181,8 @@
     <string name="all_album">Tous</string>
     <string name="all_recent">Favoris</string>
     <string name="photos">Photo(s)</string>
+    <string name="no_recent_album">Les albums peuvent être ajoutés aux favoris pour un accès rapide</string>
+    <string name="camera_path">/DCIM/Camera</string>
     <string name="open_single_image_failure">Failed to open image file!</string>
     <string name="already_saved">Photo already saved in %s</string>
     <string name="failure_external_storage_not_writable">Failed to write to external storage.</string>
