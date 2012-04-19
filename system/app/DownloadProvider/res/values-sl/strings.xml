@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Upravitelj prenosov</string>
+    <string name="permlab_downloadManager">Dostop do upravitelja prenosov.</string>
+    <string name="permdesc_downloadManager">Omogoča aplikaciji, da dostopa do upravitelja prenosov in ga uporabi za prenos datotek. Zlonamerne aplikacije lahko uporabijo to funkcijo, da prekinejo prenose in dostopajo do zasebnih podatkov.</string>
+    <string name="permlab_downloadManagerAdvanced">Dodatne funkcije upravitelja prenosov.</string>
+    <string name="permdesc_downloadManagerAdvanced">Omogoča aplikaciji, da dostopa do dodatnih funkcij upravitelja prenosov. Zlonamerne aplikacije lahko uporabijo to funkcijo, da prekinejo prenose in dostopajo do zasebnih podatkov.</string>
+    <string name="permlab_downloadCompletedIntent">Pošlji obvestila o prenosih.</string>
+    <string name="permdesc_downloadCompletedIntent">Omogoči aplikaciji, da pošlje obvestila o dokončanih prenosih. Zlonamerne aplikacije lahko uporabijo to funkcijo, da zavedejo aplikacije, ki prenašajo datoteke.</string>
+    <string name="permlab_seeAllExternal">Prikaži vse prenose na kartico SD</string>
+    <string name="permdesc_seeAllExternal">Omogoči aplikaciji, da vidi vse prenose na kartico SD, ne glede na to, s katero aplikacijo so bile datoteke prenesene.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezerviraj prostor v predpomnilniku za prenose</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Omogoči programu prenašanje datotek v predpomnilnik za prenose, ki ga ni mogoče samodejno izbrisati, ko upravitelj prenosov potrebuje več prostora.</string>
+    <string name="permlab_downloadWithoutNotification">prenos datotek brez obvestila</string>
+    <string name="permdesc_downloadWithoutNotification">Omogoča programu prenos datotek prek upravitelja prenosov brez obvestil uporabniku.</string>
+    <string name="permlab_accessAllDownloads">Dostop do vseh sistemskih prenosov</string>
+    <string name="permdesc_accessAllDownloads">Omogoči programu ogled in spreminjanje vsega, kar je izvedel kak program v sistemu.</string>
+    <string name="download_unknown_title">&lt;Brez naslova></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" in dodatnih %d"</string>
+    <string name="notification_download_complete">Prenos dokončan</string>
+    <string name="notification_download_failed">Prenos neuspešen</string>
+    <string name="notification_need_wifi_for_size">Velikost prenosa zahteva Wi-Fi</string>
+    <string name="wifi_required_title">Prenos je prevelik za operaterjevo omrežje</string>
+    <string name="wifi_required_body" formatted="false">"Za dokončanje tega %s  velikega prenosa morate uporabiti Wi-Fi. 
+
+Kliknite %s , če želite začeti ta prenos ob naslednji povezavi v omrežje Wi-Fi."</string>
+    <string name="wifi_recommended_title">Želite postaviti v čakalno vrsto za poznejši prenos?</string>
+    <string name="wifi_recommended_body" formatted="false">"Če zaženete ta %s  velik prenos zdaj, lahko skrajšate življenjsko dobo baterije in/ali prekomerno uporabljate mobilno podatkovno povezavo, kar vam lahko mobilni operater zaračuna, odvisno od vaše naročnine.
+
+Kliknite %s spodaj, če želite začeti ta prenos ob naslednji povezavi v omrežje Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Čakalna vrsta</string>
+    <string name="button_cancel_download">Prekliči</string>
+    <string name="button_start_now">Začni zdaj</string>
+</resources>

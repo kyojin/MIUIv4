@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Θέματα</string>
+    <string name="theme_activity_lable">Θέματα</string>
+    <string name="theme_changing_dialog_title">Προτετοιμασία νέου θέματος, περιμένετε...</string>
+    <string name="theme_changed_message">Η εγκατάσταση ήταν επιτυχής!</string>
+    <string name="theme_changed_failed_message">Αποτυχία αλλαγής θέματος!</string>
+    <string name="backup_preference_title">Αποθήκευση ρυθμίσεων</string>
+    <string name="backup_theme_dialog_ok">Αντίγραφο</string>
+    <string name="backup_theme_dialog_message">"Αντιγραφή τρέχοντος θέματος στη θέση
+ SD card /MIUI/theme φάκελος
+ το όνομα είναι %1$s"</string>
+    <string name="backup_theme_progress_message">Αντιγραφή αρχείων, παρακαλώ περιμένετε...</string>
+    <string name="backup_theme_success_message">Επιτυχής αντιγραφή</string>
+    <string name="theme_description_title_default">Προεπιλεγμένο</string>
+    <string name="theme_description_title_customized">Προσωποποιημένο</string>
+    <string name="component_category_title">Επεξεργασία θέματος</string>
+    <string name="component_category_style_title">Στυλ</string>
+    <string name="component_category_wallpaper_title">Ταπετσαρίες</string>
+    <string name="component_category_ringtone_title">Ήχοι κλήσης</string>
+    <string name="theme_component_title_framework">Θέματα</string>
+    <string name="theme_component_title_mms">Μορφή κειμένου</string>
+    <string name="theme_component_title_wallpaper">Επιφ.Εργασίας</string>
+    <string name="theme_component_title_lockwallpaper">Κλειδώματος</string>
+    <string name="theme_component_title_icon">Εικονίδιο</string>
+    <string name="theme_component_title_boot_animation">Εικόνα εκκίνησης</string>
+    <string name="theme_component_title_boot_audio">Ήχος εκκίνησης</string>
+    <string name="theme_component_title_font">Γραμματοσειρές</string>
+    <string name="theme_component_title_ringtone">Ήχος κλήσης</string>
+    <string name="theme_component_title_notification">Ήχος ειδοποίησης</string>
+    <string name="theme_component_title_alarm">Αφύπνιση</string>
+    <string name="theme_component_title_contact">Τηλεφωνητής</string>
+    <string name="theme_component_title_lockstyle">Κλειδωμένη οθόνη</string>
+    <string name="theme_component_title_statusbar">Γραμμή ειδοποιήσεων</string>
+    <string name="theme_component_title_launcher">Αρχική οθόνη</string>
+    <string name="theme_component_title_others">Άλλο</string>
+    <string name="theme_component_title_all">Θέματα</string>
+    <string name="apply_theme_no_select_message">Παρακαλώ επιλέξτε ένα θέμα!</string>
+    <string name="apply_lockscreen_paper_tips">Το θέμα κλειδωμένης οθόνης είναι ήδη σε χρήση, η προεπισκόπιση ίσως να μην είναι ορατή!</string>
+    <string name="theme_import">Εισαγωγή θέματος</string>
+    <string name="theme_select_others">Εισαγωγή</string>
+    <string name="third_party_pickers_activity_title">Ορισμός %1$s</string>
+    <string name="wallpaper_settings">Ρυθμίσεις ταπετσαρίας</string>
+    <string name="desktop_wallpaper">Επιφ. εργασίας</string>
+    <string name="live_wallpaper">Κινούμενη ταπετσαρία</string>
+    <string name="lockscreen_wallpaper">Κλειδώματος</string>
+    <string name="component_settings_title">Τροποποίηση θέματος</string>
+    <string name="component_select_title">Επιλεγμένα %1$s μέρη</string>
+    <string name="component_include_title">περιέχει %1$s μέρη</string>
+    <string name="component_screen_title">Ταπετσαρία</string>
+    <string name="resource_fail_to_show">Το θέμα mtz δε περιέχει τα απαραίτητα στοιχεία</string>
+    <string name="new_format_convert">Μετατροπή του %s στο νέο φορμά</string>
+    <string name="old_format_title">Παλίο φορμά θέματος mtz</string>
+    <string name="old_format_fail">Η μετατροπή του mtz στο νέο φορμά απέτυχε, πατήσε Εφαρμογή για να ξαναδοκιμάσετε</string>
+    <string name="old_format_convert_tip1">Το πακέτο του θέματος δεν είναι στο νέο φορμά, η μετατροπή ενδέχεται να πάρει κάποια ώρα</string>
+    <string name="old_format_convert_tip2">Τα στοιχεία μπορούν να διαγραφούν και να ενημερωθούν μέσω της λήψης</string>
+</resources>

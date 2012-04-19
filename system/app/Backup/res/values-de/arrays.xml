@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wlan Daten</item>
+        <item>Alle Anwendungen</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Browser</item>
+        <item>Dateibrowser</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kontakte</item>
+        <item>Anruflisten</item>
+        <item>SMS</item>
+        <item>MMS</item>
+        <item>System</item>
+        <item>Wlan</item>
+        <item>Desktop Layout</item>
+        <item>Alarm</item>
+        <item>Notizen</item>
+        <item>Privat</item>
+        <item>Konto</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Daten</item>
+        <item>Anwendung</item>
+        <item>Anwendung und Daten</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kontakte</item>
+        <item>Telefonlisten</item>
+        <item>SMS/MMS</item>
+        <item>Wlan</item>
+        <item>Notizen</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kontakte</item>
+        <item>Wlan</item>
+        <item>Notizen</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Anruflisten</item>
+        <item>Nachrichten</item>
+    </string-array>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Kablosuz Verileri</item>
+        <item>Tüm Uygulamalar</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Galeri</item>
+        <item>Müzik</item>
+        <item>Kaydedici</item>
+        <item>Tarayıcı</item>
+        <item>Kamera</item>
+        <item>Dosya Yöneticisi</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kişiler</item>
+        <item>Çağrı Kayıtları</item>
+        <item>Mesajlar</item>
+        <item>MMSler</item>
+        <item>Sistem Ayarları</item>
+        <item>Kablosuz Ayarları</item>
+        <item>Masaüstü Görünümü</item>
+        <item>Alarm Ayarları</item>
+        <item>Notlar</item>
+        <item>BRE Ayarları</item>
+        <item>Kullanılan tema</item>
+        <item>Superuser</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>(Veri)</item>
+        <item>(Uygulama)</item>
+        <item>(Uygulama + Veri)</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kişiler</item>
+        <item>Çağrı Kayıtları</item>
+        <item>Mesajlar</item>
+        <item>Kablosuz Ayarları</item>
+        <item>Notlar</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kişiler</item>
+        <item>WLAN Ayarları</item>
+        <item>Notlar</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Arama Kayıtları</item>
+        <item>Mesajlar</item>
+    </string-array>
+</resources>

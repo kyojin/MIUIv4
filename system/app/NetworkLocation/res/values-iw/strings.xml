@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">שיתוף מיקום</string>
+    <string name="location_warning_title">הסכמה לשיתוף</string>
+    <string name="location_warning_message">מאפשר לגוגל לאסוף מידע אנונימי על מיקומך, פעולה זו תתבצע רק במצב ששום יישום לא מופעל ברקע.</string>
+    <string name="agree">מסכים</string>
+    <string name="disagree">מסרב</string>
+</resources>

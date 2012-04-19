@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Paket Yükleyicisi</string>
+    <string name="install">Yükle</string>
+    <string name="done">Tamam</string>
+    <string name="security_settings_desc">Bu uygulamaya izin ver:</string>
+    <string name="cancel">İptal</string>
+    <string name="unknown">Bilinmeyen</string>
+    <string name="installing">Yükleniyor ...</string>
+    <string name="install_done">Uygulama yüklendi</string>
+    <string name="install_confirm_question">Bu uygulamayı yüklemek istiyor musunuz?</string>
+    <string name="install_failed">Uygulama yüklenmedi</string>
+    <string name="install_failed_msg">%1$s yüklenemedi.</string>
+    <string name="launch">Aç</string>
+    <string name="unknown_apps_dlg_title">Yükleme Engellendi</string>
+    <string name="unknown_apps_dlg_text">Güvenlik için telefonunuz Android Market harici uygulamaların yüklenmesine izin vermeyecek şekilde yapılandırıldı.</string>
+    <string name="ok">Tamam</string>
+    <string name="settings">Ayarlar</string>
+    <string name="manage_applications">Uygulamaları yönet</string>
+    <string name="dlg_app_replacement_title">Uygulamayı değiştir</string>
+    <string name="dlg_app_replacement_statement">"Yüklediğiniz uygulama başka bir uygulamanın yerini alacak. 
+
+Önceki kullanıcı verileri korunur."</string>
+    <string name="dlg_sys_app_replacement_statement">"Bu sistem uygulamasıdır. Yine de değiştirmek istiyor musunuz? 
+
+Önceki kullanıcı verileri kaydedilecek."</string>
+    <string name="lift_ban">Yasağı Kaldır</string>
+    <string name="out_of_space_dlg_title">Alan yetersiz</string>
+    <string name="out_of_space_dlg_text">%1$s yüklenemedi.Boş alan açıp tekrar deneyin.</string>
+    <string name="dlg_ok">Tamam</string>
+    <string name="app_not_found_dlg_title">Uygulama bulunamadı</string>
+    <string name="app_not_found_dlg_text">Uygulama yüklenmiş uygulamalar listesinde bulunamadı.</string>
+    <string name="uninstall_application_text">Bu uygulama kaldırılacak.</string>
+    <string name="uninstall_update_text">Uygulama güncellemesi kaldırılacak.Uygulamanın orjinal sürümünü kullanabilirsiniz.</string>
+    <string name="uninstalling">Kaldırılıyor ...</string>
+    <string name="uninstall_done">Kaldırma tamamlandı</string>
+    <string name="uninstall_failed">Uygulama kaldırılamadı</string>
+    <string name="uninstall_failed_msg">%1$s kaldırılamıyor</string>
+    <string name="Parse_error_dlg_title">Çözümleme hatası</string>
+    <string name="Parse_error_dlg_text">Paket ayrıştırmada bir sorun var.</string>
+    <string name="uninstall_application_question">Uygulama kaldırılsın mı?</string>
+    <string name="uninstall_update_question">Güncelleştirmeyi kaldırın?</string>
+</resources>

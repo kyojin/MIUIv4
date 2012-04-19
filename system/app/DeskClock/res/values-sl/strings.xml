@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+    <string name="app_label">Ura</string>
+    <string name="alarm_list_title">Alarmi</string>
+    <string name="add_alarm">Dodaj alarm</string>
+    <string name="menu_desk_clock">Namizna ura</string>
+    <string name="menu_edit_alarm">Uredi alarm</string>
+    <string name="delete_alarm">Izbriši alarm</string>
+    <string name="enable_alarm">Vklopi alarm</string>
+    <string name="disable_alarm">Izklopi alarm</string>
+    <string name="delete_alarm_confirm">Alarm bo izbrisan.</string>
+    <string name="label">Oznaka</string>
+    <string name="default_label">Alarm</string>
+    <string name="set_alarm">Nastavi alarm</string>
+    <string name="alarm_vibrate">Vibriranje</string>
+    <string name="alarm_repeat">Ponovi</string>
+    <string name="alert">Zvonjenje</string>
+    <string name="time">Čas</string>
+    <string name="alarm_alert_dismiss_text">Opusti</string>
+    <string name="alarm_alert_alert_silenced">Alarm je utišan po %d minutah</string>
+    <string name="alarm_alert_snooze_text">Dremež</string>
+    <string name="alarm_alert_snooze_set">Dremež za %d minut.</string>
+    <string name="day">1 dan</string>
+    <string name="days">%s dni</string>
+    <string name="hour">1 ura</string>
+    <string name="hours">%s ur</string>
+    <string name="minute">1 minuta</string>
+    <string name="minutes">%s minut</string>
+    <string name="every_day">vsak dan</string>
+    <string name="never">Nikoli</string>
+    <string name="day_concat">", "</string>
+    <string name="analog_gadget">Analogna ura</string>
+    <string name="settings">Nastavitve</string>
+    <string name="alarm_in_silent_mode_title">Alarm v tihem načinu</string>
+    <string name="alarm_in_silent_mode_summary">Predvajaj alarm tudi, ko je telefon v tihem načinu</string>
+    <string name="snooze_duration_title">Trajanje dremeža</string>
+    <string name="done">Dokončano</string>
+    <string name="revert">Povrni</string>
+    <string name="delete">Izbriši</string>
+    <string name="alarm_volume_title">Glasnost alarma</string>
+    <string name="alarm_volume_summary">Nastavite glasnost alarmov</string>
+    <string name="silent_alarm_summary">Tiho</string>
+    <string name="alarm_notify_text">Izberite dremež ali opustite alarm.</string>
+    <string name="alarm_notify_snooze_label">%s (dremež)</string>
+    <string name="alarm_notify_snooze_text">Alarm je nastavljen za %s. Izberite, če želite preklicati.</string>
+    <string name="volume_button_setting_title">Glasnost in fotoaparat</string>
+    <string name="volume_button_dialog_title">Učinek gumba</string>
+    <string name="volume_button_setting_summary">Nastavite dejanja ob pritisku gumbov med alarmom</string>
+    <string name="alarm_button_description">Alarmi</string>
+    <string name="gallery_button_description">Galerija</string>
+    <string name="music_button_description">Glasba</string>
+    <string name="nightmode_button_description">Zatemni</string>
+    <string name="home_button_description">Zaganjalnik</string>
+    <string name="battery_charging_level">%d%%</string>
+    <string name="weather_fetch_failure">Podatki o vremenu trenutno niso na voljo.</string>
+    <string name="menu_item_dock_settings">Nastavitve stojala</string>
+    <string name="alarm_klaxon_service_desc">Storitev predvajanja zvoka za alarme, nastavljene v namizni uri.</string>
+    <item type="string" name="APKTOOL_DUMMY_0038">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0039">false</item>
+</resources>

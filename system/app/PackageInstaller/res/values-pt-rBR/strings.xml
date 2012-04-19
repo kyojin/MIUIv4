@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instalador do pacote</string>
+    <string name="install">Instalar</string>
+    <string name="done">Concluído</string>
+    <string name="security_settings_desc">Permitir que este aplicativo:</string>
+    <string name="cancel">Cancelar</string>
+    <string name="unknown">Desconhecido</string>
+    <string name="installing">Instalando...</string>
+    <string name="install_done">Aplicativo instalado</string>
+    <string name="install_confirm_question">Deseja instalar este aplicativo?</string>
+    <string name="install_failed">O aplicativo não está instalado.</string>
+    <string name="install_failed_msg">Não foi possível instalar o %1$s neste telefone.</string>
+    <string name="launch">Abrir</string>
+    <string name="unknown_apps_dlg_title">Instalação bloqueada</string>
+    <string name="unknown_apps_dlg_text">Por segurança, o seu telefone está configurado para bloquear a instalação de aplicativos que não foram obtidos a partir do Android Market.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Configurações</string>
+    <string name="manage_applications">Gerenciar aplicativos</string>
+    <string name="dlg_app_replacement_title">Substituir aplicativo</string>
+    <string name="dlg_app_replacement_statement">"O aplicativo que você está instalando substituirá outro aplicativo.
+
+Todos os dados de usuário anteriores serão salvos."</string>
+    <string name="dlg_sys_app_replacement_statement">"Este é um aplicativo do sistema. Ainda deseja substituí-lo?
+
+Todos os dados de usuário anteriores serão salvos."</string>
+    <string name="lift_ban">Alterar proibição</string>
+    <string name="out_of_space_dlg_title">Sem espaço</string>
+    <string name="out_of_space_dlg_text">Não foi possível instalar %1$s. Libere um pouco de espaço e tente novamente.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Aplicativo não encontrado</string>
+    <string name="app_not_found_dlg_text">O aplicativo não foi encontrado na lista de aplicativos instalados.</string>
+    <string name="uninstall_application_text">Este aplicativo será desinstalado.</string>
+    <string name="uninstall_update_text">A atualização do aplicativo será desinstalada. Você ainda poderá usar a versão de fábrica do aplicativo.</string>
+    <string name="uninstalling">Desinstalando...</string>
+    <string name="uninstall_done">Desinstalação concluída</string>
+    <string name="uninstall_failed">Falha na desinstalação</string>
+    <string name="uninstall_failed_msg">Não foi possível desinstalar %1$s</string>
+    <string name="Parse_error_dlg_title">Erro de análise</string>
+    <string name="Parse_error_dlg_text">Há um problema com a análise do pacote.</string>
+    <string name="uninstall_application_question">Desinstalar aplicativo?</string>
+    <string name="uninstall_update_question">Desinstalar atualização?</string>
+</resources>

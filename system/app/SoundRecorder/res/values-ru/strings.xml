@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диктофон</string>
+    <string name="recording">Запись</string>
+    <string name="recording_stopped">Запись остановлена</string>
+    <string name="storage_is_full">Память заполнена</string>
+    <string name="max_length_reached">Достигнута максимальная длина</string>
+    <string name="insert_sd_card">Вставьте SD-карту</string>
+    <string name="button_ok">ОК</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyyy_HH:mm:ss</string>
+    <string name="audio_db_artist_name">Ваши записи</string>
+    <string name="audio_db_album_name">Аудиозаписи</string>
+    <string name="audio_db_playlist_name">Мои записи</string>
+    <string name="error_sdcard_access">Не удалось получить доступ к SD-карте</string>
+    <string name="error_app_internal">Внутренняя ошибка приложения</string>
+    <string name="error_mediadb_new_record">Не удалось сохранить аудиозапись</string>
+    <string name="default_record_name">запись без названия</string>
+    <string name="menu_view_record_list">Список записей</string>
+    <string name="menu_setting">Настройки</string>
+    <string name="delete_dialog_title">Удалить текущую запись?</string>
+    <string name="overwrite_dialog_title">"%s already existed.
+Do you want to overwrite it?"</string>
+    <string name="preferences_title">Настройки</string>
+    <string name="pref_title_record_type">Формат аудио файла</string>
+    <string name="prefDialogTitle_recordType">Віберите тип файла</string>
+    <string name="prefDefault_recordType">audio/amr</string>
+    <string name="pref_title_enable_high_quality">Высокое качество</string>
+    <string name="pref_summary_enable_high_quality">Звуковой файл с высоким качеством может занимать больше места</string>
+    <string name="pref_title_enable_sound_effect">Включить звуковые эффекты</string>
+    <string name="pref_summary_enable_sound_effect">Использовать звуковые эффекты при изменении состояния</string>
+    <string name="notification_recording">Recording</string>
+    <string name="notification_stopped">Recording stopped</string>
+</resources>

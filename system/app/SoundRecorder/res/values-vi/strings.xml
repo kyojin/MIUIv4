@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghi âm</string>
+    <string name="recording">Ghi âm</string>
+    <string name="recording_stopped">Đã dừng ghi âm</string>
+    <string name="storage_is_full">Lưu trữ đã đầy</string>
+    <string name="max_length_reached">Độ dài tối đa</string>
+    <string name="insert_sd_card">Vui lòng lắp Thẻ nhớ</string>
+    <string name="button_ok">Đồng ý</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">Ghi âm nhạc</string>
+    <string name="audio_db_album_name">Album ghi âm</string>
+    <string name="audio_db_playlist_name">Ghi âm của Tôi</string>
+    <string name="error_sdcard_access">Không thể truy cập vào Thẻ nhớ</string>
+    <string name="error_app_internal">Ứng dụng bị lỗi nội bộ</string>
+    <string name="error_mediadb_new_record">Không thể lưu tập tin ghi âm</string>
+    <string name="default_record_name">untitled record</string>
+    <string name="menu_view_record_list">Xem danh mục ghi âm</string>
+    <string name="menu_setting">Thiết lập Ghi âm</string>
+    <string name="delete_dialog_title">Bạn có muốn xóa ghi âm hiện tại?</string>
+    <string name="overwrite_dialog_title">%s đã có, bạn có muốn ghi đè không?</string>
+    <string name="preferences_title">Thiết lập Ghi âm</string>
+    <string name="pref_title_record_type">Định dạng tập tin ghi âm</string>
+    <string name="prefDialogTitle_recordType">Chọn định dạng tập tin ghi âm</string>
+    <string name="prefDefault_recordType">audio/amr</string>
+    <string name="pref_title_enable_high_quality">Ghi âm chất lượng cao</string>
+    <string name="pref_summary_enable_high_quality">Dung lượng tập tin có thể lớn hơn nếu ghi âm với chất lượng cao</string>
+    <string name="pref_title_enable_sound_effect">Bật hiệu ứng âm thanh</string>
+    <string name="pref_summary_enable_sound_effect">Phát hiệu ứng âm thanh khi thao tác trên máy ghi âm</string>
+    <string name="notification_recording">Ghi âm</string>
+    <string name="notification_stopped">Đã dừng ghi âm</string>
+    <string name="record_list">Danh sách ghi âm</string>
+    <string name="sd_card_not_available">Thẻ nhớ không sẵn sàng</string>
+    <string name="call_record">Đang ghi âm cuộc gọi</string>
+    <string name="open_file_explorer">Quản lý tập tin</string>
+    <string name="no_file">Không có ghi âm</string>
+</resources>

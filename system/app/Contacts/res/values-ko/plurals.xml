@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">전화번호가 포함된 주소록 %d개 표시</item>
+        <item quantity="one">전화번호와 함께 연락처 1개 표시</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d개 연락처 표시</item>
+        <item quantity="one">연락처 1개 표시</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">연락처 %d개를 찾았습니다.</item>
+        <item quantity="one">연락처 1개를 찾았습니다.</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d개의 연락처</item>
+        <item quantity="one">1개의 연락처</item>
+    </plurals>
+    <plurals name="groupDescrip">
+        <item quantity="other">연락처 %0$d개</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">연락처 %1$1$d개, 전화가 있는 연락처 %2$2$d개</item>
+    </plurals>
+</resources>

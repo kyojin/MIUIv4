@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Chọn Hình nền động</string>
+    <string name="live_wallpaper_picker_title">Hình nền động</string>
+    <string name="live_wallpaper_preview_title">Xem trước Hình nền động</string>
+    <string name="configure_wallpaper">Đang thiết lập…</string>
+    <string name="wallpaper_instructions">Đặt Hình nền</string>
+    <string name="live_wallpaper_empty">Không có Hình nền động.</string>
+    <string name="set_live_wallpaper">Đặt Hình nền</string>
+    <string name="wallpaper_title_and_author" formatted="false">%1$s của %2$s</string>
+    <string name="live_wallpaper_loading">Đang tải Hình nền động…</string>
+</resources>

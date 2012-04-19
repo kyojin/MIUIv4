@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root ver="3">
+    <group index="a">
+        <item title="amazon" url="http://amazon.com"/>
+        <item title="aol" url="http://aol.com"/>
+        <item title="about" url="http://about.com"/>
+        <item title="ask" url="http://ask.com"/>
+    </group>
+    <group index="b">
+        <item title="bing" url="http://bing.com"/>
+        <item title="blogger" url="http://blogger.com"/>
+        <item title="BBC" url="http://bbc.co.uk"/>
+        <item title="Bestbuy" url="http://bestbuy.com"/>
+        <item title="Bank of America" url="http://bankofamerica.com"/>
+    </group>
+    <group index="c">
+        <item title="craigslist" url="http://craigslist.org"/>
+        <item title="cnn" url="http://cnn.com"/>
+        <item title="cnet" url="http://cnet.com"/>
+        <item title="comcast" url="http://comcast.net"/>
+    </group>
+    <group index="d">
+        <item title="deviantART" url="http://deviantart.com"/>
+        <item title="digg" url="http://digg.com"/>
+        <item title="delicious" url="http://del.icio.us"/>
+    </group>
+    <group index="e">
+        <item title="ebay" url="http://ebay.com"/>
+        <item title="espn" url="http://espn.go.com"/>
+    </group>
+    <group index="f">
+        <item title="Facebook" url="http://facebook.com"/>
+        <item title="Flickr" url="http://flickr.com"/>
+        <item title="Foursquare" url="http://foursquare.com"/>
+    </group>
+    <group index="g">
+        <item title="google" url="http://google.com"/>
+        <item title="Go" url="http://go.com"/>
+        <item title="godaddy " url="http://godaddy.com "/>
+    </group>
+    <group index="h">
+        <item title="hulu" url="http://hulu.com"/>
+        <item title="huffingtonpost" url="http://huffingtonpost.com "/>
+    </group>
+    <group index="i">
+        <item title="IMDB" url="http://imdb.com"/>
+    </group>
+    <group index="l">
+        <item title="live.com" url="http://live.com"/>
+        <item title="linkedin" url="http://linkedin.com"/>
+        <item title="last.fm" url="http://last.fm"/>
+    </group>
+    <group index="m">
+		<item title="MIUI Portugal" url="http://miui-pt.com"/>
+        <item title="MSN" url="http://msn.com"/>
+        <item title="MySpace" url="http://myspace.com"/>
+        <item title="MicroSoft" url="http://microsoft.com"/>
+    </group>
+    <group index="n">
+        <item title="NYTimes" url="http://m.nuomi.com"/>
+        <item title="NFL" url="http://nfl.com"/>
+        <item title="Netflix" url="http://netflix.com"/>
+    </group>
+        <group index="p">
+        <item title="paypal" url="http://paypal.com"/>
+        <item title="Pandora" url="http://Pandora.com"/>
+    </group>
+    <group index="r">
+        <item title="realtor" url="http://realtor.com"/>
+    </group>
+    <group index="t">
+        <item title="twitter" url="http://twitter.com"/>
+        <item title="target" url="http://target.com"/>
+        <item title="tumblr" url="http://tumblr.com"/>
+    </group>
+        <group index="v">
+        <item title="Viemo" url="http://viemo.com"/>
+    </group>
+    <group index="w">
+        <item title="wikipedia" url="http://wikipedia.org"/>
+        <item title="Weather" url="http://weather.com"/>
+    </group>
+    <group index="x">
+        <item title="xing" url="http://xing.com"/>
+    </group>
+    <group index="y">
+        <item title="yahoo" url="http://yahoo.com"/>
+        <item title="youtube" url="http://youtube.com"/>
+        <item title="Yelp" url="http://yelp.com"/>
+        </group>
+    <group index="z">
+        <item title="zynga" url="http://3g.zol.com.cn"/>
+        <item title="zappos" url="http://zappos.com"/>
+        <item title="zillow" url="http://zillow.com"/>
+    </group>
+</root>

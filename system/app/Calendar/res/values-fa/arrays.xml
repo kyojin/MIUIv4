@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>1 دقیقه</item>
+        <item>5 دقیقه</item>
+        <item>10 دقیقه</item>
+        <item>15 دقیقه</item>
+        <item>20 دقیقه</item>
+        <item>25 دقیقه</item>
+        <item>30 دقیقه</item>
+        <item>45 دقیقه</item>
+        <item>1 ساعت</item>
+        <item>2 ساعت</item>
+        <item>3 ساعت</item>
+        <item>12 ساعت</item>
+        <item>24 ساعت</item>
+        <item>2 روز</item>
+        <item>1 هفته</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>هیچکدام</item>
+        <item>1 دقیقه</item>
+        <item>5 دقیقه</item>
+        <item>10 دقیقه</item>
+        <item>15 دقیقه</item>
+        <item>20 دقیقه</item>
+        <item>25 دقیقه</item>
+        <item>30 دقیقه</item>
+        <item>45 دقیقه</item>
+        <item>1 ساعت</item>
+        <item>2 ساعت</item>
+        <item>3 ساعت</item>
+        <item>12 ساعت</item>
+        <item>24 ساعت</item>
+        <item>2 روز</item>
+        <item>1 هفته</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>جزایر مارشال</item>
+        <item>جزیره میدوی</item>
+        <item>هاوایی</item>
+        <item>آلاسکا</item>
+        <item>وقت اقیانوس آرام</item>
+        <item>تیجوآنا</item>
+        <item>آریزونا</item>
+        <item>چیهواهوا</item>
+        <item>وقت کوهستان</item>
+        <item>آمریکای مرکزی</item>
+        <item>وقت مرکزی</item>
+        <item>مکزیکوسیتی</item>
+        <item>ساسکاچوان</item>
+        <item>بوگوتا</item>
+        <item>وقت شرقی</item>
+        <item>ونزوئلا</item>
+        <item>وقت آتلانتیک</item>
+        <item>مانائوس</item>
+        <item>سانتیاگو</item>
+        <item>نیوفوندلند</item>
+        <item>برزیل</item>
+        <item>بوئنوس آیرس</item>
+        <item>گرینلند</item>
+        <item>مونته ویدیو</item>
+        <item>آتلانتیک میانی</item>
+        <item>آزورس</item>
+        <item>جزایر کیپ ورد</item>
+        <item>کازابلانکا</item>
+        <item>لندن، دوبلین</item>
+        <item>آمستردام، برلین</item>
+        <item>بلگراد</item>
+        <item>بروکسل</item>
+        <item>سارایه وو</item>
+        <item>پاریس</item>
+        <item>ویندهوک</item>
+        <item>وقت غرب آفریقا</item>
+        <item>عمان، اردن</item>
+        <item>آتن، استانبول</item>
+        <item>بیروت، لبنان</item>
+        <item>قاهره</item>
+        <item>هلسینکی</item>
+        <item>بیت المقدس</item>
+        <item>مینسک</item>
+        <item>هراره</item>
+        <item>بغداد</item>
+        <item>مسکو</item>
+        <item>کویت</item>
+        <item>نایروبی</item>
+        <item>تهران</item>
+        <item>باکو</item>
+        <item>تفلیس</item>
+        <item>ایروان</item>
+        <item>دبی</item>
+        <item>کابل</item>
+        <item>اسلام آباد، کراچی</item>
+        <item>اورالسک</item>
+        <item>یکاترینبورگ</item>
+        <item>کلکته</item>
+        <item>سری لانکا</item>
+        <item>کاتماندو</item>
+        <item>آستانا</item>
+        <item>یانگون</item>
+        <item>کراسنویارسک</item>
+        <item>بانکوک</item>
+        <item>پکن</item>
+        <item>هنگ کنگ</item>
+        <item>ایرکوتسک</item>
+        <item>کوآلالامپور</item>
+        <item>پرث</item>
+        <item>تایپه</item>
+        <item>سئول</item>
+        <item>توکیو، اوزاکا</item>
+        <item>یاکوتسک</item>
+        <item>آدلاید</item>
+        <item>داروین</item>
+        <item>بریسبین</item>
+        <item>هوبارت</item>
+        <item>سیدنی، کانبرا</item>
+        <item>ولادی ووستوک</item>
+        <item>گوآم</item>
+        <item>ماگادان</item>
+        <item>اوکلند</item>
+        <item>فیجی</item>
+        <item>تونگا</item>
+    </string-array>
+    <string-array name="timezone_values">
+        <item>Pacific/Majuro</item>
+        <item>Pacific/Midway</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Anchorage</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Tijuana</item>
+        <item>America/Phoenix</item>
+        <item>America/Chihuahua</item>
+        <item>America/Denver</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Chicago</item>
+        <item>America/Mexico_City</item>
+        <item>America/Regina</item>
+        <item>America/Bogota</item>
+        <item>America/New_York</item>
+        <item>America/Caracas</item>
+        <item>America/Barbados</item>
+        <item>America/Manaus</item>
+        <item>America/Santiago</item>
+        <item>America/St_Johns</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Argentina/Buenos_Aires</item>
+        <item>America/Godthab</item>
+        <item>America/Montevideo</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Africa/Casablanca</item>
+        <item>Europe/London</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Sarajevo</item>
+        <item>Europe/Paris</item>
+        <item>Africa/Windhoek</item>
+        <item>Africa/Brazzaville</item>
+        <item>Asia/Amman</item>
+        <item>Europe/Athens</item>
+        <item>Asia/Beirut</item>
+        <item>Africa/Cairo</item>
+        <item>Europe/Helsinki</item>
+        <item>Asia/Jerusalem</item>
+        <item>Europe/Minsk</item>
+        <item>Africa/Harare</item>
+        <item>Asia/Baghdad</item>
+        <item>Europe/Moscow</item>
+        <item>Asia/Kuwait</item>
+        <item>Africa/Nairobi</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Colombo</item>
+        <item>Asia/Katmandu</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Australia/Perth</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Sydney</item>
+        <item>Asia/Vladivostok</item>
+        <item>Pacific/Guam</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Tongatapu</item>
+    </string-array>
+    <string-array name="availability">
+        <item>مشغول</item>
+        <item>در دسترس</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>پیش فرض</item>
+        <item>خصوصی</item>
+        <item>عمومی</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>اولین</item>
+        <item>دومین</item>
+        <item>سومین</item>
+        <item>چهارمین</item>
+        <item>آخرین</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(بدون پاسخ)</item>
+        <item>بله</item>
+        <item>شاید</item>
+        <item>خیر</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>فقط این رویداد</item>
+        <item>This &amp;amp;amp;amp;amp;amp; future events</item>
+        <item>All events</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>This &amp;amp;amp;amp;amp;amp; future events</item>
+        <item>All events</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>فقط این مورد</item>
+        <item>تمام حوادث در این مجموعه</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>همیشه</item>
+        <item>فقط هنگام سکوت</item>
+        <item>هرگز</item>
+    </string-array>
+    <string-array name="prefValues_alerts_vibrateWhen">
+        <item>همیشه</item>
+        <item>سکوت</item>
+        <item>هرگز</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Alert</item>
+        <item>Status bar notification</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>بله</item>
+        <item>شاید</item>
+        <item>خیر</item>
+    </string-array>
+</resources>

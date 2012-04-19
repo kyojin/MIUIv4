@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Html Görüntüleyicisi</string>
+    <string name="permlab_accessDrm">DRM içeriğe eriş.</string>
+    <string name="permdesc_accessDrm">Uygulamanın DRM korumalı içeriğe erişmesine izin verir.</string>
+</resources>

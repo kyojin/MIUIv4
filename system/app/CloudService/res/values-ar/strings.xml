@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MIUI إدارة حساب</string>
+    <string name="service_name">MIUI إدارة حساب</string>
+    <string name="authenticator_label">MIUI</string>
+    <string name="nickname">الاسم / الاسم المستعار :</string>
+    <string name="username">اسم المستخدم:</string>
+    <string name="password">كلمة المرور:</string>
+    <string name="account">الحساب</string>
+    <string name="account_hint_text">أدخل تفاصيل حسابك</string>
+    <string name="registered_account">تم تسجيل الحساب</string>
+    <string name="bad_username">النص الذي تم إدخاله غير صالح للاسم المستخدم</string>
+    <string name="bad_verification">خطا في التسجيل</string>
+    <string name="bad_authentication">اسم المستخدم وكلمة السر لا تتطابق، يرجى المحاولة مرة أخرى.</string>
+    <string name="email_not_verified">البريد الإلكتروني لم يتم التحقق منه بعد</string>
+    <string name="terms_not_agreed">يجب أن توافق على شروطنا للتسجيل</string>
+    <string name="account_deleted">حذف الحساب</string>
+    <string name="account_disabled">الحساب معطل</string>
+    <string name="service_disabled">ةالخدمة معطل</string>
+    <string name="service_unavailable">الخدمة غير متوفرة</string>
+    <string name="network_error">خطأ في الاتصال بالشبكة، يرجى التحقق من بيانات الجوال ان تكون نشطة ومتاحة</string>
+    <string name="unknown">خطأ غير معروف</string>
+    <string name="my_account">My MIUI Profile</string>
+    <string name="must_input">الحقل المطلوب</string>
+    <string name="loging_on">تسجيل الدخول...</string>
+    <string name="logon">تسجيل الدخول</string>
+    <string name="login_account_suggestion">إذا كنت تواجه مشكلة في الاشتراك، قم بزيارة : http://www.miui.com</string>
+</resources>

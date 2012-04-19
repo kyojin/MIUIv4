@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Monitor</string>
+    <string name="duration" formatted="false">Periodo Monitorato %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">Disattiva in automatico</string>
+    <string name="menu_refresh">Aggiorna</string>
+    <string name="menu_sort_by_name">Ordina per Nome</string>
+    <string name="menu_sort_by_traffic">Ordina per Traffico</string>
+    <string name="menu_display_system_app">Mostra App Sistema</string>
+    <string name="menu_not_display_system_app">Nascondi App Sistema</string>
+    <string name="input_max_traffic">Limite dati</string>
+    <string name="max_traffic_monthly">Limite traffico dati mensile</string>
+    <string name="monitor_starting_day">Giorno di inizio monitoraggio</string>
+    <string name="date_format">%s</string>
+    <string name="traffic_none">Niente</string>
+    <string name="version_text">Versione: %1$s</string>
+    <string name="duration_days" formatted="false">%d giorni %d ore %d minuti</string>
+    <string name="duration_hours" formatted="false">%d ore %d minuti</string>
+    <string name="duration_minutes">%d minuti</string>
+    <string name="traffic_data">Monitoraggio</string>
+    <string name="remain">" Residuo "</string>
+    <string name="threshold">" Avviso "</string>
+    <string name="used">"Attuale "</string>
+    <string name="exceed">Oltre soglia</string>
+    <string name="settings">Impostazioni</string>
+    <string name="mobile">2G/3G</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">Dati:%s</string>
+    <string name="wifi_format">Wi-Fi: %s</string>
+    <string name="mobile_traffic">2G/3G disponibile</string>
+    <string name="network_control">Dati</string>
+    <string name="network_monitor">Firewall</string>
+    <string name="all_apps">Tutte le applicazioni</string>
+    <string name="refresh">Aggiorna</string>
+    <string name="display_system_app">Applicazioni di sistema</string>
+    <string name="force_stop">Forza stop</string>
+    <string name="app_detail">Dettagli Applicazioni</string>
+    <string name="loading_apps_list">Loading program list, please wait...</string>
+    <string name="monitor_settings">Preferenze</string>
+    <string name="sms_unit">" SMS"</string>
+    <string name="mobile_unit">" Mb"</string>
+    <string name="first_traffic_day">Inizio periodo di addebito</string>
+    <string name="confirm_disable_monitor">Disabilitando Monitor le statistiche saranno azzerate, sei sicuro?</string>
+    <string name="input_monitor_starting_date">Giorno di inizio addebito</string>
+    <string name="input_used_traffic">Dati già utilizzati</string>
+    <string name="sms_package">Messaggi</string>
+    <string name="mobile_package">Internet Mobile</string>
+    <string name="android_system">Sistema Android</string>
+    <string name="call_sms_detail_title">Chiamate e messaggi in questo mese</string>
+    <string name="outgoing_call">Chiamate in uscita</string>
+    <string name="incoming_call">Chiamate in entrata</string>
+    <string name="outgoing_sms">Messaggi in uscita</string>
+    <string name="outgoing_sms_number_format">%d</string>
+    <string name="traffic_detail">Dettagli Traffico</string>
+    <string name="upload_bytes">Upload %s</string>
+    <string name="download_bytes">Download %s</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="package_settings">Impostazioni messaggi</string>
+    <string name="sms_traffic_limit">Soglia Massima</string>
+    <string name="mobile_traffic_limit">Soglia Massima</string>
+    <string name="display_status_bar_notification">Mostra in barra notifiche</string>
+    <string name="notify_threshold_exceed">Limite soglia raggiunto!</string>
+    <string name="fix_traffic">Reimposta dati traffico</string>
+    <string name="mobile_traffic_used">Dati già utilizzati</string>
+    <string name="mobile_used_toast">%s Mb di dati usati su rete mobile</string>
+    <string name="sms_traffic_used">Reimposta messaggi</string>
+    <string name="clear_traffic">Cancella traffico</string>
+    <string name="click_to_input">Tocca per inserire</string>
+    <string name="traffic_sms_detials">Dettagli SMS</string>
+    <string name="no_sms">Registro messaggi vuoto</string>
+    <string name="loading_apps_list_failed">Failed to load program list</string>
+</resources>

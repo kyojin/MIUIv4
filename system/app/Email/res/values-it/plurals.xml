@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$1$d non lette (%2$2$s)</item>
+        <item quantity="one">%1$1$d non letto (%2$2$s)</item>
+        <item quantity="few">%1$1$d non lette (%2$2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">in %d indirizzi</item>
+        <item quantity="few">in %d indirizzi</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Messaggi cancellati.</item>
+        <item quantity="one">Messaggio cancellato.</item>
+    </plurals>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$1$d risultati da %2$2$s</item>
+        <item quantity="one">%1$1$d risultato da %2$2$s</item>
+    </plurals>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Data monitor</string>
+    <string name="duration" formatted="false">Periode %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">Stop data bij limiet</string>
+    <string name="menu_refresh">Vernieuwen</string>
+    <string name="menu_sort_by_name">Sorteer op naam</string>
+    <string name="menu_sort_by_traffic">Sorteer op dataverkeer</string>
+    <string name="menu_display_system_app">Toon systeem apps</string>
+    <string name="menu_not_display_system_app">Verberg systeem apps</string>
+    <string name="input_max_traffic">Geef datalimiet op</string>
+    <string name="max_traffic_monthly">Maandelijks datalimiet MB</string>
+    <string name="monitor_starting_day">Begin datum</string>
+    <string name="date_format">%s Nr.</string>
+    <string name="traffic_none">Geen</string>
+    <string name="version_text">Versie %1$s</string>
+    <string name="duration_days" formatted="false">%d dagen %d uren %d min.</string>
+    <string name="duration_hours" formatted="false">%d uren %d min.</string>
+    <string name="duration_minutes">%d minuten</string>
+    <string name="traffic_data">Datamonitor</string>
+    <string name="remain">"Tegoed: "</string>
+    <string name="threshold">"Melding bij: "</string>
+    <string name="used">"Gebruikt: "</string>
+    <string name="exceed">"Over: "</string>
+    <string name="settings">Instellen</string>
+    <string name="mobile">2G/3G</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">2G/3G: %s</string>
+    <string name="wifi_format">Wi-Fi:%s</string>
+    <string name="mobile_traffic">Datalimiet</string>
+    <string name="network_control">Datagebruik instellingen</string>
+    <string name="network_monitor">Apps monitor</string>
+    <string name="all_apps">Alle applicaties</string>
+    <string name="refresh">Vernieuwen</string>
+    <string name="display_system_app">Toon systeem apps</string>
+    <string name="force_stop">Stop forceren</string>
+    <string name="app_detail">Details programma</string>
+    <string name="loading_apps_list">Programmalijst laden, wacht aub...</string>
+    <string name="apply_rules_failed_known">Onbekend</string>
+    <string name="apply_rules_failed">Kan firewall regels niet toepassen, Probeer het opnieuw</string>
+    <string name="monitor_settings">Instellingen</string>
+    <string name="sms_unit">Berichten</string>
+    <string name="mobile_unit">MB</string>
+    <string name="first_traffic_day">Start factuur datum</string>
+    <string name="confirm_disable_monitor">Wilt u de monitor uitschakelen?</string>
+    <string name="input_monitor_starting_date">Geef start datum op</string>
+    <string name="input_used_traffic">Opgegeven datagebruikt</string>
+    <string name="sms_package">Bericht instellingen</string>
+    <string name="mobile_package">Data instellingen</string>
+    <string name="android_system">Android systeem</string>
+    <string name="call_sms_detail_title">Oproepen en berichten</string>
+    <string name="outgoing_call">Uitgaande oproepen</string>
+    <string name="incoming_call">Inkomende oproepen</string>
+    <string name="outgoing_sms">Verzonden SMS</string>
+    <string name="outgoing_sms_number_format">%d SMS</string>
+    <string name="traffic_detail">Data overzicht</string>
+    <string name="upload_bytes">Upload %s</string>
+    <string name="download_bytes">Download %s</string>
+    <string name="upload">Uploaden</string>
+    <string name="download">Downloaden</string>
+    <string name="package_settings">Limiet instellingen</string>
+    <string name="sms_traffic_limit">SMS limiet</string>
+    <string name="mobile_traffic_limit">Datalimiet</string>
+    <string name="display_status_bar_notification">Melding in de statusbar</string>
+    <string name="notify_threshold_exceed">Melding overschrijving</string>
+    <string name="fix_traffic">Data correctie</string>
+    <string name="mobile_traffic_used">Verbruik internet deze maand</string>
+    <string name="mobile_used_toast">Maandelijks mobiel verbruik is %sMB</string>
+    <string name="sms_traffic_used">SMS verstuurd deze maand</string>
+    <string name="clear_traffic">Dataverkeer wissen</string>
+    <string name="click_to_input">Vereist</string>
+    <string name="traffic_sms_detials">Bericht details</string>
+    <string name="no_sms">SMS log is leeg</string>
+    <string name="loading_apps_list_failed">Programmalijst laden mislukt</string>
+</resources>

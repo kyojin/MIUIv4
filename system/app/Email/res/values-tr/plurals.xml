@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="move_messages">
+        <item quantity="other">İletileri taşı</item>
+        <item quantity="one">İletiyi taşı</item>
+    </plurals>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$1$d okunmamış (%2$2$s)</item>
+        <item quantity="one">%1$1$d okunmamış (%2$2$s)</item>
+        <item quantity="few">%1$1$d okunmamış (%2$2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">%d hesapta</item>
+        <item quantity="few">%d hesapta</item>
+    </plurals>
+    <plurals name="number_of_accounts">
+        <item quantity="other">%1$d hesap</item>
+        <item quantity="one">%1$d hesap</item>
+    </plurals>
+    <plurals name="picker_combined_view_account_count">
+        <item quantity="other">%d hesap</item>
+        <item quantity="one">%d hesap</item>
+    </plurals>
+    <plurals name="message_view_selected_message_count">
+        <item quantity="other">%d seçildi</item>
+        <item quantity="one">%d seçildi</item>
+    </plurals>
+    <plurals name="message_view_show_attachments_action">
+        <item quantity="other">%1$d ek</item>
+        <item quantity="one">%1$d ek</item>
+    </plurals>
+    <plurals name="message_delete_confirm">
+        <item quantity="other">Bu iletiler silinsin mi?</item>
+        <item quantity="one">Bu ileti silinsin mi?</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">İletiler silindi.</item>
+        <item quantity="one">İleti silindi.</item>
+    </plurals>
+    <plurals name="message_moved_toast">
+        <item quantity="other">%1$1$d ileti %2$2$s posta kutusuna taşındı</item>
+        <item quantity="one">%1$1$d ileti %2$2$s posta kutusuna taşındı</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$2$s alanından %2$1$d sonuç</item>
+        <item quantity="one">%1$2$s alanından %2$1$d sonuç</item>
+    </plurals>
+</resources>

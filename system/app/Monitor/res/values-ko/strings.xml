@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">모니터</string>
+    <string name="duration" formatted="false">기간 %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">모바일데이터 자동차단</string>
+    <string name="menu_refresh">새로 고침</string>
+    <string name="menu_sort_by_name">이름순</string>
+    <string name="menu_sort_by_traffic">트래픽순</string>
+    <string name="menu_display_system_app">시스템앱 표시</string>
+    <string name="menu_not_display_system_app">시스템앱 숨김</string>
+    <string name="input_max_traffic">데이터 제한</string>
+    <string name="max_traffic_monthly">월간 무료 데이터</string>
+    <string name="monitor_starting_day">모니터링 시작일</string>
+    <string name="date_format">%s</string>
+    <string name="traffic_none">없음</string>
+    <string name="version_text">버전: %1$s</string>
+    <string name="duration_days" formatted="false">%d일 %d시간 %d분</string>
+    <string name="duration_hours" formatted="false">%d시간 %d분</string>
+    <string name="duration_minutes">%d분</string>
+    <string name="traffic_data">데이터</string>
+    <string name="remain">" 남음 "</string>
+    <string name="threshold">" 경고 "</string>
+    <string name="used">"사용함 "</string>
+    <string name="exceed">" 초과함 "</string>
+    <string name="settings">설정</string>
+    <string name="mobile">모바일데이터</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">데이터: %s</string>
+    <string name="wifi_format">Wi-Fi: %s</string>
+    <string name="mobile_traffic">모바일 데이터 사용량</string>
+    <string name="network_control">네트워크 전환제어</string>
+    <string name="network_monitor">네트워크 모니터링</string>
+    <string name="all_apps">모든 응용프로그램</string>
+    <string name="refresh">새로 고침</string>
+    <string name="display_system_app">시스템앱 표시</string>
+    <string name="force_stop">강제 종료</string>
+    <string name="app_detail">응용프로그램 정보</string>
+    <string name="loading_apps_list">Loading program list, please wait...</string>
+    <string name="monitor_settings">설정</string>
+    <string name="sms_unit">" 메시지"</string>
+    <string name="mobile_unit">MB</string>
+    <string name="first_traffic_day">초기화 날짜</string>
+    <string name="confirm_disable_monitor">모니터링 해제시 트래픽 정보가 리셋됩니다</string>
+    <string name="input_monitor_starting_date">시작일 설정</string>
+    <string name="input_used_traffic">사용 데이터</string>
+    <string name="sms_package">메시지</string>
+    <string name="mobile_package">모바일데이터</string>
+    <string name="android_system">안드로이드 시스템</string>
+    <string name="call_sms_detail_title">이번 달 전화, 메시지</string>
+    <string name="outgoing_call">발신 전화</string>
+    <string name="incoming_call">수신 전화</string>
+    <string name="outgoing_sms">발신 메시지</string>
+    <string name="outgoing_sms_number_format">%d</string>
+    <string name="traffic_detail">세부 트래픽</string>
+    <string name="upload_bytes">업로드함 %s</string>
+    <string name="download_bytes">다운로드함 %s</string>
+    <string name="upload">업로드</string>
+    <string name="download">다운로드</string>
+    <string name="package_settings">데이터,메시지 설정</string>
+    <string name="sms_traffic_limit">무료 문자</string>
+    <string name="mobile_traffic_limit">무료 데이터</string>
+    <string name="display_status_bar_notification">상태표시줄에 알림표시</string>
+    <string name="notify_threshold_exceed">제한초과 알림</string>
+    <string name="fix_traffic">트래픽 수정</string>
+    <string name="mobile_traffic_used">데이터통신 사용량 리셋</string>
+    <string name="mobile_used_toast">데이터통신 %sMB 사용</string>
+    <string name="sms_traffic_used">메시지 사용량 리셋</string>
+    <string name="clear_traffic">트래픽 초기화</string>
+    <string name="click_to_input">입력하려면 터치하세요</string>
+    <string name="traffic_sms_detials">메시지 상세정보</string>
+    <string name="no_sms">메시지 내역이 없습니다</string>
+    <string name="loading_apps_list_failed">Failed to load program list</string>
+</resources>

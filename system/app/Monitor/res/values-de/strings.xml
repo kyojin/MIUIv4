@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Monitor</string>
+    <string name="duration" formatted="false">Vom: %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">Traffic deaktivieren</string>
+    <string name="menu_refresh">Aktualisieren</string>
+    <string name="menu_sort_by_name">Nach Namen sortieren</string>
+    <string name="menu_sort_by_traffic">Nach Traffic sortieren</string>
+    <string name="menu_display_system_app">Zeige System-Apps</string>
+    <string name="menu_not_display_system_app">Verstecke System-Apps</string>
+    <string name="input_max_traffic">Max. Datenvolumen(MB)</string>
+    <string name="input_warning_traffic">Warnen ab(MB)</string>
+    <string name="max_traffic_monthly">Max pro Monat 2G/3G</string>
+    <string name="monitor_starting_day">Startdatum</string>
+    <string name="date_format">%s</string>
+    <string name="traffic_none">Kein Traffic</string>
+    <string name="version_text">Version: %1$s</string>
+    <string name="duration_days" formatted="false">%d Tage, %d Std., %d Min.</string>
+    <string name="duration_hours" formatted="false">%d Std., %d Min.</string>
+    <string name="duration_minutes">%d Min.</string>
+    <string name="traffic_data">Traffic</string>
+    <string name="remain">Verbleibend</string>
+    <string name="threshold">Warnung</string>
+    <string name="used">Verbraucht</string>
+    <string name="exceed">Überschritten</string>
+    <string name="settings">Einstellen</string>
+    <string name="mobile">2G/3G</string>
+    <string name="wifi">Wlan</string>
+    <string name="mobile_format">2G/3G: %s</string>
+    <string name="wifi_format">Wlan: %s</string>
+    <string name="mobile_traffic">2G/3G Daten</string>
+    <string name="network_control">App Monitor</string>
+    <string name="network_monitor">Firewall</string>
+    <string name="all_apps">Programme</string>
+    <string name="refresh">Aktualisieren</string>
+    <string name="display_system_app">System Apps überwachen</string>
+    <string name="force_stop">Beenden</string>
+    <string name="app_detail">Programm Details</string>
+    <string name="app_detail_control">Daten Kontrolle</string>
+    <string name="loading_apps_list">Lade Programmliste, bitte warten...</string>
+    <string name="apply_rules_failed_known">OK</string>
+    <string name="apply_rules_failed">Fehlgeschlagen, bitte versuchen Sie es erneut.</string>
+    <string name="monitor_settings">Einstellungen</string>
+    <string name="process_kernel_label">Android OS</string>
+    <string name="tether_settings_title_usb">USB Tethering</string>
+    <string name="tether_settings_title_wifi">Wlan</string>
+    <string name="tether_settings_title_bluetooth">Bluetooth</string>
+    <string name="tether_settings_title_usb_bluetooth">USB Bluetooth Tethering</string>
+    <string name="tether_settings_title_all">Netzwerk und Tethering</string>
+    <string name="data_usage_uninstalled_apps">Gelöschte Apps</string>
+    <string name="data_usage_cycle_editor_subtitle">Datum：</string>
+    <string name="data_usage_cycle_editor_positive">OK</string>
+    <string name="data_usage_label_foreground">Vordergrund:%s</string>
+    <string name="data_usage_label_background">Hintergrund:%s</string>
+    <string name="data_usage_restrict_background">Hintergrunddaten begrenzen</string>
+    <string name="data_usage_restrict_background_help">Um die Hintergrunddaten dieser App zu begrenzen, setzen Sie bitte das Limit der mobilen Daten</string>
+    <string name="data_usage_restrict_background_title">Hintergrunddaten begrenzen？</string>
+    <string name="data_usage_restrict_background_summary">Wenn Sie die Hintergrunddaten begrenzen, dann ist es möglich das Anwendungen oder Hintergrunddienste nicht mehr korrekt ausgeführt werden.</string>
+    <string name="data_usage_app_restrict_dialog">"在没有 Wi-Fi 连接的情况下，此功能可能导致需要后台数据的应用程序停止运行。
+
+您可以在相关应用程序内的设置中查找更合适的数据流量控制选项。"</string>
+</resources>

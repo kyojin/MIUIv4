@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Vždy zapnuto</item>
+        <item>Vždy vypnuto</item>
+        <item>Zeptat se</item>
+    </string-array>
+    <string-array name="pref_content_plugins_values">
+        <item>ON</item>
+        <item>OFF</item>
+        <item>ON_DEMAND</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Malý</item>
+        <item>Normální</item>
+        <item>Velký</item>
+        <item>Největší</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Daleko</item>
+        <item>Sředně</item>
+        <item>Blízko</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Simplified Chinese (GBK)</item>
+        <item>Traditional Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_values">
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+    </string-array>
+    <string-array name="bookmark_control_items">
+        <item>Vytvořit novou složku</item>
+        <item>Vytvořit novou záložku</item>
+        <item>Import oblíbených</item>
+        <item>Export oblíbených</item>
+    </string-array>
+    <string-array name="not_found_page_titles">
+        <item>www stránka nenalezena</item>
+    </string-array>
+    <string-array name="pref_load_images_choice">
+        <item>Povolit</item>
+        <item>Zakázat</item>
+        <item>Povolit při WIFI</item>
+    </string-array>
+    <string-array name="pref_load_images_choice_value">
+        <item>ON</item>
+        <item>OFF</item>
+        <item>ON_FOR_WIFI</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice">
+        <item>Výchozí</item>
+        <item>Posouvat stránku</item>
+        <item>Přepnout záložku</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice_value">
+        <item>DEFAULT</item>
+        <item>SCROLL_PAGE</item>
+        <item>SWITCH_TAB</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice">
+        <item>Vždy použít nastavení tlačítka hlasitosti</item>
+        <item>Použít pouze pokud nehraje hudba</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice_value">
+        <item>ALWAYS</item>
+        <item>ONLY_NO_MUSIC</item>
+    </string-array>
+    <string-array name="barcon_operation_items">
+        <item>Upravit</item>
+        <item>Vymazat</item>
+    </string-array>
+    <string-array name="pref_reading_mode_choices">
+        <item>Vložit automaticky</item>
+        <item>Vložit ručně</item>
+        <item>Vypnuto</item>
+    </string-array>
+    <string-array name="pref_reading_mode_values">
+        <item>AUTO</item>
+        <item>MANU</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_forum_mode_choices">
+        <item>Vložit automaticky</item>
+        <item>Vložit ručně</item>
+        <item>Vypnuto</item>
+    </string-array>
+    <string-array name="pref_forum_mode_values">
+        <item>AUTO</item>
+        <item>MANU</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_text_size_values">
+        <item>SMALLER</item>
+        <item>NORMAL</item>
+        <item>LARGER</item>
+        <item>LARGEST</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_choices">
+        <item>Zobrazit</item>
+        <item>Skrýt zpět/vpřed při fullscreenu</item>
+        <item>Automaticky</item>
+        <item>Nezobrazovat plovoucí tlačítka</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_values">
+        <item>NEEDED</item>
+        <item>EXCEPT_FULLSCREEN</item>
+        <item>AUTO</item>
+        <item>NEVER_SHOW</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_choices">
+        <item>Vždy zobrazit stavový řádek</item>
+        <item>Vždy skrýt stavový řádek</item>
+        <item>Automaticky</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_values">
+        <item>ALWAYS_SHOW</item>
+        <item>ALWAYS_HIDE</item>
+        <item>AUTO</item>
+    </string-array>
+    <string-array name="pref_simple_mode_choices">
+        <item>Zakázat</item>
+        <item>Povolit</item>
+        <item>Zakázat při Wifi</item>
+    </string-array>
+    <string-array name="pref_simple_mode_values">
+        <item>OFF</item>
+        <item>ON</item>
+        <item>ON_FOR_NON_WIFI</item>
+    </string-array>
+    <string-array name="pref_web_default_zoom_values">
+        <item>FAR</item>
+        <item>MEDIUM</item>
+        <item>CLOSE</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices">
+        <item>Výchozí</item>
+        <item>Chrome plocha</item>
+        <item>iPhone 3</item>
+        <item>iPhone 4</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices_values">
+        <item>DEFAULT</item>
+        <item>CHROME</item>
+        <item>IPHONE3</item>
+        <item>IPHONE4</item>
+        <item>IPAD</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices">
+        <item>Žádné</item>
+        <item>Zpět-Vpřed</item>
+        <item>Přepnout záložku</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices_values">
+        <item>NONE</item>
+        <item>BACK_FORWARD</item>
+        <item>SWITCH_TABS</item>
+    </string-array>
+    <string-array name="pref_single_click_choices">
+        <item>Otevřít odkaz v aktuální záložce</item>
+        <item>Otevřít odkaz v nové záložce a přejít na ni</item>
+        <item>Oteřít odkaz v nové záložce na pozadí</item>
+    </string-array>
+    <string-array name="pref_long_click_choices">
+        <item>Zobrazit kontextovou nabídku</item>
+        <item>Otevřít odkaz v nové záložce a přejít na ni</item>
+        <item>Otevřít odkaz v nové záložce na pozadí</item>
+    </string-array>
+    <string-array name="pref_link_choices_values">
+        <item>DEFAULT</item>
+        <item>NEW_TAB</item>
+        <item>BACKGROUND_TAB</item>
+    </string-array>
+</resources>

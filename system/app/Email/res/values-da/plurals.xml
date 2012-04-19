@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_new_one_account_fmt">
+        <item quantity="other">%1$1$d ulæste (%2$2$s)</item>
+        <item quantity="one">%1$1$d ulæst (%2$2$s)</item>
+        <item quantity="few">%1$1$d unlæste (%2$2$s)</item>
+    </plurals>
+    <plurals name="notification_new_multi_account_fmt">
+        <item quantity="other">i %d konti</item>
+        <item quantity="few">i %d konti</item>
+    </plurals>
+    <plurals name="message_deleted_toast">
+        <item quantity="other">Meddelelser slettet.</item>
+        <item quantity="one">Meddelelse slettet.</item>
+    </plurals>
+    <plurals name="gal_completed_fmt">
+        <item quantity="other">%1$1$d resultater fra %2$2$s</item>
+        <item quantity="one">%1$1$d resultat fra %2$2$s</item>
+    </plurals>
+</resources>

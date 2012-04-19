@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi بيانات</item>
+        <item>جميع التطبيقات</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>SMS و MMS</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>جهات الاتصال</item>
+        <item>سجل المكالمات</item>
+        <item>الرسائل</item>
+        <item>إعدادات النظام</item>
+        <item>Wi-Fi إعدادات</item>
+        <item>تصميم سطح المكتب</item>
+        <item>إعدادات المنبه</item>
+        <item>مذكرات</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>(بيانات)</item>
+        <item>(تطبيقات)</item>
+        <item>(بيانات + تطبيقات)</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>جهات الاتصال</item>
+        <item>سجل المكالمات</item>
+        <item>الرسائل</item>
+        <item>Wi-Fi الإعدادات</item>
+        <item>مذكرات</item>
+    </string-array>
+</resources>

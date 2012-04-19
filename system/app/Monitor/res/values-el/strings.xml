@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Κίνηση</string>
+    <string name="duration" formatted="false">Διάρκεια: %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">Αυτόματος τερματισμός</string>
+    <string name="menu_refresh">Ανανέωση</string>
+    <string name="menu_sort_by_name">Ταξινόμηση κατά όνομα</string>
+    <string name="menu_sort_by_traffic">Ταξινόμηση κατά κίνηση</string>
+    <string name="menu_display_system_app">Εμφάνιση εφαρμογών συστήματος</string>
+    <string name="menu_not_display_system_app">Απόκρυψη εφαρμογών συστήματος</string>
+    <string name="input_max_traffic">Όριο κίνησης</string>
+    <string name="max_traffic_monthly">Μέγιστο μινιαίο όριο</string>
+    <string name="monitor_starting_day">Προσθήκη ημέρας εκκίνησης καταγραφής</string>
+    <string name="date_format">%s</string>
+    <string name="traffic_none">Χωρίς κίνηση</string>
+    <string name="version_text">Έκδοση: %1$s</string>
+    <string name="duration_days" formatted="false">%d ημέρες %d ώρες %d λεπτά</string>
+    <string name="duration_hours" formatted="false">%d ώρες %d λεπτά</string>
+    <string name="duration_minutes">%d λεπτά</string>
+    <string name="traffic_data">Κίνηση</string>
+    <string name="remain">" Left "</string>
+    <string name="threshold">" Alert "</string>
+    <string name="used">"Used "</string>
+    <string name="exceed">" Exceeded "</string>
+    <string name="settings">Ρύθμιση</string>
+    <string name="mobile">Δεδομένα</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">Δεδομένα: %s</string>
+    <string name="wifi_format">Wi-Fi: %s</string>
+    <string name="mobile_traffic">Δεδομένα δικτύου</string>
+    <string name="network_control">Τοίχος προστασίας στην Κίνηση</string>
+    <string name="network_monitor">Firewall</string>
+    <string name="all_apps">Όλες οι εφαρμογές</string>
+    <string name="refresh">Ανανέωση</string>
+    <string name="display_system_app">Εφαρμογές συστήματος</string>
+    <string name="force_stop">Force Stop</string>
+    <string name="app_detail">Πληροφορίες εφαρμογής</string>
+    <string name="loading_apps_list">Φόρτωση εφαρμογών..</string>
+    <string name="apply_rules_failed_known">Άγνωστο</string>
+    <string name="apply_rules_failed">Αποτυχία εφαρμογής κανόνων firewall, παρακαλώ δοκιμάστε ξανά</string>
+    <string name="monitor_settings">Προτιμήσεις</string>
+    <string name="sms_unit">" Μηνύματα"</string>
+    <string name="mobile_unit">MB</string>
+    <string name="first_traffic_day">Ημέρα έναρξης χρέωσης</string>
+    <string name="confirm_disable_monitor">Disabling monitoring of traffic will reset the traffic stats, are you sure you want to continue?</string>
+    <string name="input_monitor_starting_date">Day billing period commences</string>
+    <string name="input_used_traffic">Δεδομένα που χρησιμοποιήθηκαν</string>
+    <string name="sms_package">Μηνύματα</string>
+    <string name="mobile_package">Mobile Internet</string>
+    <string name="android_system">Android System</string>
+    <string name="call_sms_detail_title">Κλήσεις και μηνύματα αυτό το μήνα</string>
+    <string name="outgoing_call">Εξερχόμενες</string>
+    <string name="incoming_call">Εισερχόμενες</string>
+    <string name="outgoing_sms">Εξερχόμενα μηνύματα</string>
+    <string name="outgoing_sms_number_format">%d</string>
+    <string name="traffic_detail">Λεπτομέρειες κίνησης</string>
+    <string name="upload_bytes">Απεστάλθηκαν %s</string>
+    <string name="download_bytes">Λήφθηκαν %s</string>
+    <string name="upload">Αποστολή</string>
+    <string name="download">Λήψη</string>
+    <string name="package_settings">Ρύθμιση</string>
+    <string name="sms_traffic_limit">Όριο κίνησης</string>
+    <string name="mobile_traffic_limit">Όριο κίνησης</string>
+    <string name="display_status_bar_notification">Εμφάνιση στη μπάρα</string>
+    <string name="notify_threshold_exceed">Υπέρβαση ορίου!</string>
+    <string name="fix_traffic">Μηδενισμός στατιστικών</string>
+    <string name="mobile_traffic_used">Μηδενισμός χρήσης δικτύου</string>
+    <string name="mobile_used_toast">%sMB χρησιμοποιήθηκαν αυτό το μήνα</string>
+    <string name="sms_traffic_used">Μηδενισμός απεσταλμένων μηνυμάτων</string>
+    <string name="clear_traffic">Καθαρισμός κίνησης</string>
+    <string name="click_to_input">Κλικ για εισαγωγή</string>
+    <string name="traffic_sms_detials">Λεπτομέρειες μηνυμάτων</string>
+    <string name="no_sms">Το μητρώο μηνυμάτων είναι κενό</string>
+    <string name="loading_apps_list_failed">Αδύνατη η φόρτωση της λίστας εφαρμογών</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temalar</string>
+    <string name="theme_activity_lable">Tema Yöneticisi</string>
+    <string name="theme_changing_dialog_title">Tema uygulanıyor...</string>
+    <string name="theme_changed_message">Başarıyla uygulandı!</string>
+    <string name="theme_changed_failed_message">Tema uygulama başarısız!</string>
+    <string name="backup_preference_title">Düzenlenmiş temayı yedekle</string>
+    <string name="backup_theme_dialog_ok">Yedekle</string>
+    <string name="backup_theme_dialog_message">"Geçerli Tema yedekleme bilgileri :
+SD Kart Yer: \\MIUI\\theme\\backup
+ Name: backup.mtz"</string>
+    <string name="backup_theme_progress_message">Tema dosyaları yedekleniyor, lütfen bekleyin...</string>
+    <string name="backup_theme_success_message">Tema başarıyla yedeklendi</string>
+    <string name="theme_description_title_default">Varsayılan</string>
+    <string name="theme_description_title_customized">Kişisel Tema</string>
+    <string name="component_category_title">Temayı düzenle</string>
+    <string name="component_category_style_title">Stiller</string>
+    <string name="component_category_wallpaper_title">Duvarkağıtları</string>
+    <string name="component_category_ringtone_title">Zilsesleri</string>
+    <string name="theme_component_title_framework">Masaüstü Teması</string>
+    <string name="theme_component_title_mms">Mesajlaşma Teması</string>
+    <string name="theme_component_title_wallpaper">Masaüstü duvarkağıdı</string>
+    <string name="theme_component_title_lockwallpaper">Kilit ekranı duvarkağıdı</string>
+    <string name="theme_component_title_icon">İkon seti</string>
+    <string name="theme_component_title_boot_animation">Açılış animasyonu</string>
+    <string name="theme_component_title_boot_audio">Açılış sesi</string>
+    <string name="theme_component_title_font">Yazı tipleri</string>
+    <string name="theme_component_title_ringtone">Zil Sesi</string>
+    <string name="theme_component_title_notification">Bildirim</string>
+    <string name="theme_component_title_alarm">Alarm</string>
+    <string name="theme_component_title_contact">Arama Teması</string>
+    <string name="theme_component_title_lockstyle">Kilit Ekranı</string>
+    <string name="theme_component_title_statusbar">Durum Çubuğu</string>
+    <string name="theme_component_title_launcher">Masaüstü</string>
+    <string name="theme_component_title_audio_effect">Ses Efekti</string>
+    <string name="theme_component_title_others">Diğer</string>
+    <string name="theme_component_title_all">Temalar</string>
+    <string name="apply_theme_no_select_message">Bileşenlerden seç!</string>
+    <string name="apply_lockscreen_paper_tips">Kişisel kilitleme ekranı halen kullanımda, yeni duvarkağıdı aktif olmayabilir.</string>
+    <string name="play_all_audio_effect">çalınma (toplam: %1$s)</string>
+    <string name="theme_import">SD Karttan tema al</string>
+    <string name="theme_select_others">Diğer</string>
+    <string name="third_party_pickers_activity_title">Ayarla %1$s</string>
+    <string name="wallpaper_settings">Duvar kağıdı ayarları</string>
+    <string name="desktop_wallpaper">Masaüstü duvar kağıdı</string>
+    <string name="live_wallpaper">Canlı duvar kağıdı</string>
+    <string name="lockscreen_wallpaper">Kilit ekranı duvarkağıdı</string>
+    <string name="component_settings_title">Mevcut temayı düzenle</string>
+    <string name="component_select_title">Bileşen seç(%1$s)</string>
+    <string name="component_include_title">İçerdiği bileşen (%1$s)</string>
+    <string name="component_screen_title">Seçili olanı dahil et</string>
+    <string name="resource_fail_to_show">Tema paketi gerekli kaynakları içermiyor</string>
+    <string name="new_format_convert">%s yeni tip kaynağa dönüştürülüyor</string>
+    <string name="old_format_title">Eski Tür</string>
+    <string name="old_format_fail">Dönüştürme hatası, tekrar denemek için uygula tuşuna basın. Eğer buda başarısız olursa en son halini inidirin!</string>
+    <string name="old_format_convert_tip1">Bu tema yeni tür kaynağa sahip değil ve direk olarak uygulanamaz, dönüştürme uzun zaman alabilir, dönüştürülsün mü?</string>
+    <string name="old_format_convert_tip2">Kaynakları silebilir, ve son hallerini tekrar indirebilirsiniz.</string>
+</resources>

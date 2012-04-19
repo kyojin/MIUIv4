@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geluids Recorder</string>
+    <string name="recording">Opnemen</string>
+    <string name="recording_stopped">Opnemen gestopt</string>
+    <string name="storage_is_full">Opslag is vol</string>
+    <string name="max_length_reached">Opneem limiet bereikt</string>
+    <string name="insert_sd_card">Plaats een SD-kaart</string>
+    <string name="button_ok">OK</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">Uw opnames</string>
+    <string name="audio_db_album_name">Audio-opnames</string>
+    <string name="audio_db_playlist_name">Mijn opnames</string>
+    <string name="error_sdcard_access">Kan geen toegang krijgen tot SD-kaart</string>
+    <string name="error_app_internal">Interne applicatie fout</string>
+    <string name="error_mediadb_new_record">Kan opgenomen audio niet opslaan</string>
+    <string name="default_record_name">Nieuwe opname</string>
+    <string name="menu_view_record_list">Bekijk opnames</string>
+    <string name="menu_setting">Instellingen</string>
+    <string name="delete_dialog_title">Huidige opnames verwijderen?</string>
+    <string name="overwrite_dialog_title">"%s bestaat al.
+Wilt u het overschrijven?"</string>
+    <string name="preferences_title">Instellingen</string>
+    <string name="pref_title_record_type">Opname codec</string>
+    <string name="prefDialogTitle_recordType">Selecteer een codec</string>
+    <string name="prefDefault_recordType">audio/amr</string>
+    <string name="pref_title_enable_high_quality">Hoge kwaliteit</string>
+    <string name="pref_summary_enable_high_quality">Hogere kwaliteit opnames gebruiken meer ruimte</string>
+    <string name="pref_title_enable_sound_effect">Inschakelen geluidseffect</string>
+    <string name="pref_summary_enable_sound_effect">Geluidseffecten bij afspelen en openemen</string>
+    <string name="notification_recording">Opnemen</string>
+    <string name="notification_stopped">Opnemen gestopt</string>
+    <string name="notification_warning">Opslaggeheugen bijna vol! Minder dan %d minuten resterend</string>
+    <string name="record_list">Record lijst</string>
+    <string name="sd_card_not_available">SD-kaart niet beschikbaar</string>
+    <string name="call_record">Opgenomen gesprekken</string>
+    <string name="open_file_explorer">Open file explorer</string>
+    <string name="no_file">Geen record</string>
+    <string name="mark_now">(Huidige)</string>
+    <string name="second">%d seconden</string>
+    <string name="minute">%d minuten</string>
+    <string name="hour">%d Uren</string>
+    <string name="call_record_or">Of</string>
+    <string name="dialog_play">Spelen</string>
+    <string name="dialog_send">Versturen</string>
+    <string name="dialog_delete">Wissen</string>
+</resources>

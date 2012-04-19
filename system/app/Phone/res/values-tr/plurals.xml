@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s dakikadır veri bağlantısı yok</item>
+        <item quantity="one">%s dakikadır veri bağlantısı yok</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon %s dakika için acil arama kipinde olacak. Bu kipteyken hiçbir uygulama veri bağlantısını kullanamaz. Şimdi çıkmak istiyor musunuz?</item>
+        <item quantity="one">Telefon %s dakika için acil arama kipinde olacak. Bu kipteyken hiçbir uygulama veri bağlantısını kullanamaz. Şimdi çıkmak istiyor musunuz?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Seçili işlem acil arama kipinde yapılamaz. Telefon %s dakika bu kipte olacak. Şimdi çıkmak istermisiniz?</item>
+        <item quantity="one">Seçili işlem acil arama kipinde yapılamaz. Telefon %s dakika bu kipte olacak. Şimdi çıkmak istermisiniz?</item>
+    </plurals>
+</resources>

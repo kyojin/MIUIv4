@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestor de Temas</string>
+    <string name="theme_activity_lable">Gestor de Temas</string>
+    <string name="theme_changing_dialog_title">Preparando novo tema, por favor aguarde...</string>
+    <string name="theme_changed_message">Instalação do tema foi um sucesso!</string>
+    <string name="theme_changed_failed_message">Falha ao mudar o tema!</string>
+    <string name="backup_preference_title">Definições de Backup</string>
+    <string name="backup_theme_dialog_ok">Cópia de Segurança</string>
+    <string name="backup_theme_dialog_message">"Backup com o tema actual para cartão 
+SD /MIUI/theme/backup/backup.mtz”"</string>
+    <string name="backup_theme_progress_message">Fazendo backup do tema, por favor aguarde ...</string>
+    <string name="backup_theme_success_message">Cópia de segurança do tema efectuada com sucesso</string>
+    <string name="theme_description_title_default">Tema Padrão</string>
+    <string name="theme_description_title_customized">Tema Personalizado</string>
+    <string name="component_category_title">Editar definições de tema</string>
+    <string name="theme_component_title_framework">Estilo do Sistema</string>
+    <string name="theme_component_title_mms">Estilo de SMS</string>
+    <string name="theme_component_title_wallpaper">Papel de parede</string>
+    <string name="theme_component_title_lockwallpaper">Ecrã de bloqueio</string>
+    <string name="theme_component_title_icon">Ícone</string>
+    <string name="theme_component_title_boot_animation">Animação de arranque</string>
+    <string name="theme_component_title_boot_audio">Som de arranque</string>
+    <string name="theme_component_title_font">Tipos de Letra</string>
+    <string name="theme_component_title_ringtone">Toques</string>
+    <string name="theme_component_title_notification">Toques de Notificação</string>
+    <string name="theme_component_title_alarm">Alarme</string>
+    <string name="theme_component_title_contact">Contactos</string>
+    <string name="theme_component_title_lockstyle">Ecrã de bloqueio</string>
+    <string name="theme_component_title_statusbar">Barra de notificações</string>
+    <string name="theme_component_title_launcher">Desktop</string>
+    <string name="theme_component_title_others">Outros</string>
+    <string name="theme_component_title_all">Temas</string>
+    <string name="apply_theme_no_select_message">Faça a sua selecção!</string>
+    <string name="apply_lockscreen_paper_tips">Custom lock screen is currently in use, the new lock screen wallpaper may not apply.</string>
+    <string name="theme_import">Importar tema</string>
+    <string name="theme_select_others">Outro</string>
+    <string name="third_party_pickers_activity_title">Definir %1$s</string>
+    <string name="wallpaper_settings">Definir papel de parede</string>
+    <string name="desktop_wallpaper">Papéis de Parede</string>
+    <string name="live_wallpaper">Papel de parede activo</string>
+    <string name="lockscreen_wallpaper">"Papel de parede 
+ ecrã de bloqueio"</string>
+    <string name="component_settings_title">Temas actuais</string>
+    <string name="component_select_title">Componentes seleccionados: %1$s</string>
+    <string name="component_include_title">Componentes incluídos: %1$s</string>
+    <string name="component_screen_title">Incluir papel de parede</string>
+    <string name="resource_fail_to_show">The theme package does not contain the appropriate resources</string>
+    <string name="new_format_convert">Converting %s to new format</string>
+    <string name="old_format_title">Old format resources detected</string>
+    <string name="old_format_fail">Conversion failed, click Apply to try again. Re-download the latest format of the resource if unsuccessful!</string>
+    <string name="old_format_convert_tip1">This theme package is not the latest format and can not be directly applied, the conversion will take a long time, proceed with conversion?</string>
+    <string name="old_format_convert_tip2">You can also delete the resources, and then re-download the latest format of the resources.</string>
+</resources>

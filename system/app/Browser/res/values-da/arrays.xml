@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Altid til</item>
+        <item>Altid fra</item>
+        <item>Vis på forlangende</item>
+    </string-array>
+    <string-array name="pref_content_plugins_values">
+        <item>ON</item>
+        <item>OFF</item>
+        <item>ON_DEMAND</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Lille</item>
+        <item>Normal</item>
+        <item>Stor</item>
+        <item>Meget stor</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Langt</item>
+        <item>Mellem</item>
+        <item>Tæt</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Simplificeret kinesisk (GBK)</item>
+        <item>Traditionel kinesisk (Big5)</item>
+        <item>Japansk (ISO-2022-JP)</item>
+        <item>Japansk (SHIFT_JIS)</item>
+        <item>Japansk (EUC-JP)</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_values">
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+    </string-array>
+    <string-array name="bookmark_control_items">
+        <item>Opret ny mappe</item>
+        <item>Opret nyt bogmærke</item>
+        <item>Importer bogmærker</item>
+        <item>Eksporter bogmærker</item>
+    </string-array>
+    <string-array name="not_found_page_titles">
+        <item>Hjemmeside ikke fundet</item>
+    </string-array>
+    <string-array name="pref_load_images_choice">
+        <item>Aktiver</item>
+        <item>Deaktiver</item>
+        <item>Aktiver i Wi-Fi</item>
+    </string-array>
+    <string-array name="pref_load_images_choice_value">
+        <item>ON</item>
+        <item>OFF</item>
+        <item>ON_FOR_WIFI</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice">
+        <item>Standard</item>
+        <item>Rul side</item>
+        <item>Skift fane</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice_value">
+        <item>DEFAULT</item>
+        <item>SCROLL_PAGE</item>
+        <item>SWITCH_TAB</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice">
+        <item>Aktiver altid lydstyrke indstilling</item>
+        <item>Aktiver kun hvis der ikke afspilles musik</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice_value">
+        <item>ALWAYS</item>
+        <item>ONLY_NO_MUSIC</item>
+    </string-array>
+    <string-array name="barcon_operation_items">
+        <item>Rediger</item>
+        <item>Slet</item>
+    </string-array>
+    <string-array name="pref_reading_mode_choices">
+        <item>Indtast automatisk</item>
+        <item>Indtast manuelt</item>
+        <item>Fra</item>
+    </string-array>
+    <string-array name="pref_reading_mode_values">
+        <item>AUTO</item>
+        <item>MANU</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_forum_mode_choices">
+        <item>Indtast automatisk</item>
+        <item>Indtast manuelt</item>
+        <item>Fra</item>
+    </string-array>
+    <string-array name="pref_forum_mode_values">
+        <item>AUTO</item>
+        <item>MANU</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_text_size_values">
+        <item>SMALLER</item>
+        <item>NORMAL</item>
+        <item>LARGER</item>
+        <item>LARGEST</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_choices">
+        <item>Vis</item>
+        <item>Vis Tilbage/Frem i fuld skærm tilstand</item>
+        <item>Auto-gem</item>
+        <item>Vis aldrig svævende knapper</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_values">
+        <item>NEEDED</item>
+        <item>EXCEPT_FULLSCREEN</item>
+        <item>AUTO</item>
+        <item>NEVER_SHOW</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_choices">
+        <item>Vis altid statuslinie</item>
+        <item>Skjul altid statuslinie</item>
+        <item>Auto</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_values">
+        <item>ALWAYS_SHOW</item>
+        <item>ALWAYS_HIDE</item>
+        <item>AUTO</item>
+    </string-array>
+    <string-array name="pref_simple_mode_choices">
+        <item>Deaktiver</item>
+        <item>Aktiver</item>
+        <item>Aktiver i forbindelse uden Wi-Fi</item>
+    </string-array>
+    <string-array name="pref_simple_mode_values">
+        <item>OFF</item>
+        <item>ON</item>
+        <item>ON_FOR_NON_WIFI</item>
+    </string-array>
+    <string-array name="pref_web_default_zoom_values">
+        <item>FAR</item>
+        <item>MEDIUM</item>
+        <item>CLOSE</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices">
+        <item>Standard</item>
+        <item>Chrome Desktop</item>
+        <item>iPhone 3</item>
+        <item>iPhone 4</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices_values">
+        <item>DEFAULT</item>
+        <item>CHROME</item>
+        <item>IPHONE3</item>
+        <item>IPHONE4</item>
+        <item>IPAD</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices">
+        <item>Ingen</item>
+        <item>Gå tilbage-frem</item>
+        <item>Skift fane</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices_values">
+        <item>NONE</item>
+        <item>BACK_FORWARD</item>
+        <item>SWITCH_TABS</item>
+    </string-array>
+    <string-array name="pref_single_click_choices">
+        <item>Åben link i nuværende fane</item>
+        <item>Åben link i ny fane og skift</item>
+        <item>Åben link i ny fane i baggrunden</item>
+    </string-array>
+    <string-array name="pref_long_click_choices">
+        <item>Vis menu</item>
+        <item>Åben link i ny fane og skift</item>
+        <item>Åben link i ny fane i baggrunden</item>
+    </string-array>
+    <string-array name="pref_link_choices_values">
+        <item>DEFAULT</item>
+        <item>NEW_TAB</item>
+        <item>BACKGROUND_TAB</item>
+    </string-array>
+</resources>

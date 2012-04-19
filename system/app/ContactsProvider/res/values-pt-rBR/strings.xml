@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Armazenamento de contatos</string>
+    <string name="provider_label">Contatos</string>
+    <string name="upgrade_out_of_memory_notification_ticker">A atualização de contatos precisa de mais memória</string>
+    <string name="upgrade_out_of_memory_notification_title">Armazenamento de atualização de contatos</string>
+    <string name="upgrade_out_of_memory_notification_text">Selecione para concluir a atualização.</string>
+    <string name="pound_search_tip">Digite o número a pesquisar</string>
+    <string name="create_contact">Novo Contato</string>
+    <string name="send_sms">Enviar SMS</string>
+    <string name="edit_contact">Editar Contato</string>
+</resources>

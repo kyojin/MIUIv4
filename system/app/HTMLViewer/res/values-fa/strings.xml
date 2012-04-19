@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">مشاهده گر HTML</string>
+    <string name="permlab_accessDrm">دسترسی به محتوای DRM.</string>
+    <string name="permdesc_accessDrm">به برنامه کاربردی اجازه می دهد به محتوای محافظت شده توسط DRM دسترسی پیدا کند.</string>
+</resources>

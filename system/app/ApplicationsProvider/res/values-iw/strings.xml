@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">חפש בספק הישומים</string>
+    <string name="search_label">ישומים</string>
+    <string name="application_desc">ישום</string>
+    <string name="settings_description">שמות ישומים מותקנים</string>
+</resources>

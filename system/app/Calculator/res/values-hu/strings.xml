@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Számológép</string>
+    <string name="error">Helytelen formátum</string>
+    <string name="basic">Egyszerű számológép</string>
+    <string name="advanced">Tudományos számológép</string>
+    <string name="clear_history">Előzmények törlése</string>
+    <string name="Error1">Helytelen formátum</string>
+    <string name="Error2">Helytelen formátum</string>
+    <string name="Error3">Helytelen formátum</string>
+    <string name="Error7">Hibás művelet</string>
+    <string name="Error10">Hibás bevitel</string>
+    <string name="Error13">Hibás funkció</string>
+    <string name="Error17">Helytelen formátum</string>
+    <string name="OK">OK</string>
+    <string name="copy_all">Összes másolása</string>
+    <string name="copy">Másol</string>
+    <string name="cut_all">Minden kivágása</string>
+    <string name="cut">Kivág</string>
+    <string name="paste">Beilleszt</string>
+    <string name="select_all">Összes kiválasztása</string>
+    <string name="start_selecting">Szöveg kijelölése</string>
+    <string name="stop_selecting">Szöveg kijelölésének leállítása</string>
+    <string name="Etc">***</string>
+    <string name="errorparen">Helytelen formátum</string>
+</resources>

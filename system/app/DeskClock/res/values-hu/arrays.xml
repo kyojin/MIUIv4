@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Ébresztés mostantól számítva 1 percen belül.</item>
+        <item>Ébresztés mostantól számítva %1$s múlva.</item>
+        <item>Ébresztés mostantól számítva %2$s múlva.</item>
+        <item>Ébresztés mostantól számítva %1$1$s és %2$2$s múlva.</item>
+        <item>Ébresztés mostantól számítva %3$s múlva.</item>
+        <item>Ébresztés mostantól számítva %1$1$s és %2$3$s múlva.</item>
+        <item>Ébresztés mostantól számítva %1$2$s és %2$3$s múlva.</item>
+        <item>Ébresztés mostantól számítva %1$1$s, %2$2$s és %3$3$s múlva.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>15 perc</item>
+        <item>20 perc</item>
+        <item>25 perc</item>
+        <item>30 perc</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Semelyik</item>
+        <item>Szundi</item>
+        <item>Elvetés</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

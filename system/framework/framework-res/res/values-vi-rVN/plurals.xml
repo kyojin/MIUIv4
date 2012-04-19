@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_seconds_ago">
+        <item quantity="other">%d giây trước</item>
+        <item quantity="one">1 giây trước</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">1 phút trước</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d giờ trước</item>
+        <item quantity="one">1 giờ trước</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Last %d days</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">hôm qua</item>
+    </plurals>
+    <plurals name="in_num_seconds">
+        <item quantity="other">trong %d giây</item>
+        <item quantity="one">trong 1 giây</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">trong %d phút</item>
+        <item quantity="one">trong 1 phút</item>
+    </plurals>
+    <plurals name="in_num_hours">
+        <item quantity="other">trong %d giờ</item>
+        <item quantity="one">trong 1 giờ</item>
+    </plurals>
+    <plurals name="in_num_days">
+        <item quantity="other">trong %d ngày</item>
+        <item quantity="one">ngày mai</item>
+    </plurals>
+    <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">%d giây trước</item>
+        <item quantity="one">1 giây trước</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d phút trước</item>
+        <item quantity="one">1 phút trước</item>
+    </plurals>
+    <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">%d giờ trước</item>
+        <item quantity="one">1 giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_num_days_ago">
+        <item quantity="other">%d ngày trước</item>
+        <item quantity="one">hôm qua</item>
+    </plurals>
+    <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">trong %d giây</item>
+        <item quantity="one">trong 1 giây</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">trong %d phút</item>
+        <item quantity="one">trong 1 phút</item>
+    </plurals>
+    <plurals name="abbrev_in_num_hours">
+        <item quantity="other">trong %d giờ</item>
+        <item quantity="one">trong 1 giờ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">trong %d ngày</item>
+        <item quantity="one">ngày mai</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">Mạng Wi-Fi có sẵn</item>
+        <item quantity="one">Mạng Wi-Fi có sẵn</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Có sẵn mạng Wi-Fi mở</item>
+        <item quantity="one">Có sẵn mạng Wi-Fi mở</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Hiện tại</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Hiện tại</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">vài phút trước</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">vài phút trước</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">nửa giờ trước</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">nửa giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">nửa giờ trước</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 giờ trước</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">nửa giờ trước</item>
+    </plurals>
+</resources>

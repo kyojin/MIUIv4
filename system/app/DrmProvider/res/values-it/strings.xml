@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Contenuti protetti DRM</string>
+    <string name="permlab_accessDrm">Accedi ai contenuti DRM.</string>
+    <string name="permdesc_accessDrm">Permetti alle applicazioni di accedere ai contentuti DRM.</string>
+    <string name="permlab_installDrm">Installa i contenuti DRM.</string>
+    <string name="permdesc_installDrm">Permetti alle applicazioni di installare contentuti DRM.</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Dom</item>
+        <item>Praca</item>
+        <item>Inne</item>
+        <item>Własne</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Praca</item>
+        <item>Inne</item>
+        <item>Własne</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Domowy</item>
+        <item>Komórkowy</item>
+        <item>Służbowy</item>
+        <item>Służbowy Fax</item>
+        <item>Domowy Fax</item>
+        <item>Pager</item>
+        <item>Inny</item>
+        <item>Własny</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Dom</item>
+        <item>Praca</item>
+        <item>Inne</item>
+        <item>Własne</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>36149777</item>
+        <item>-95993398</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>3</item>
+    </integer-array>
+</resources>

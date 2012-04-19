@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulačka</string>
+    <string name="error">Nesprávný formát</string>
+    <string name="basic">Jednoduchá kalkulačka</string>
+    <string name="advanced">Vědecká kalkulačka</string>
+    <string name="clear_history">Smazat historii</string>
+    <string name="Error1">Nesprávný formát</string>
+    <string name="Error2">Nesprávný formát</string>
+    <string name="Error3">Nesprávný formát</string>
+    <string name="Error7">Nepl. operace</string>
+    <string name="Error10">Neplatné zadání</string>
+    <string name="Error13">Neplatná funkce</string>
+    <string name="Error17">Nesprávný formát</string>
+    <string name="OK">OK</string>
+    <string name="copy_all">Kopírovat vše</string>
+    <string name="copy">Kopírovat</string>
+    <string name="cut_all">Vyjmout vše</string>
+    <string name="cut">Vyjmout</string>
+    <string name="paste">Vložit</string>
+    <string name="select_all">Vybrat vše</string>
+    <string name="start_selecting">Vybrat text</string>
+    <string name="stop_selecting">Zastavit výběr textu</string>
+    <string name="Etc">***</string>
+    <string name="errorparen">Nesprávný formát</string>
+</resources>

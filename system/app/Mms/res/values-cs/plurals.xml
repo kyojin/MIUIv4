@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="slide_duration">
+        <item quantity="other">%s sekund</item>
+        <item quantity="one">%s sekunda</item>
+        <item quantity="few">%s sekundy</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$1$s výsledků na dotaz \"%2$2$s\"</item>
+        <item quantity="one">%1$1$s výsledek na dotaz \"%2$2$s\"</item>
+        <item quantity="few">%1$1$s výsledky na dotaz \"%2$2$s\"</item>
+    </plurals>
+</resources>

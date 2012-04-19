@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cài đặt Ứng dụng</string>
+    <string name="install">Cài đặt</string>
+    <string name="done">Hoàn tất</string>
+    <string name="security_settings_desc">Cho phép ứng dụng này được:</string>
+    <string name="cancel">Hủy</string>
+    <string name="unknown">Không biết</string>
+    <string name="installing">Đang cài đặt…</string>
+    <string name="install_done">Ứng dụng đã được cài đặt</string>
+    <string name="install_confirm_question">Bạn có muốn cài đặt ứng dụng này không?</string>
+    <string name="install_failed">Ứng dụng không cài được</string>
+    <string name="install_failed_msg">%1$s không thể cài đặt được trên điện thoại này.</string>
+    <string name="launch">Mở</string>
+    <string name="unknown_apps_dlg_title">Cài đặt bị chặn</string>
+    <string name="unknown_apps_dlg_text">Để bảo vệ, điện thoại của bạn được thiết lập để ngăn chặn cài đặt các ứng dụng không có nguồn gốc từ Android Market.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Thiết lập</string>
+    <string name="manage_applications">Quản lý các ứng dụng</string>
+    <string name="dlg_app_replacement_title">Thay thế ứng dụng</string>
+    <string name="dlg_app_replacement_statement">"Ứng dụng bạn cài vào sẽ thay thế một ứng dụng đang có.
+
+Tất cả dữ liệu người dùng sẽ được giữ lại."</string>
+    <string name="dlg_sys_app_replacement_statement">"Đây là một ứng dụng Hệ thống. Bạn thực sự muốn thay thế nó?
+
+Tất cả dữ liệu người dùng sẽ được giữ lại."</string>
+    <string name="out_of_space_dlg_title">Hết bộ nhớ</string>
+    <string name="out_of_space_dlg_text">%1$s có thể không cài đặt được. Vui lòng giải phóng bớt bộ nhớ sau đó thử cài đặt lại.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Ứng dụng không có</string>
+    <string name="app_not_found_dlg_text">Ứng dụng không có trong danh mục các ứng dụng đã được cài.</string>
+    <string name="uninstall_application_text">Ứng dụng sẽ bị gỡ bỏ.</string>
+    <string name="uninstall_update_text">Phiên bản cập nhật của ứng dụng sẽ bị gỡ bỏ. Bạn vẫn có thể sử dụng phiên bản gốc của ứng dụng này trên máy của bạn.</string>
+    <string name="uninstalling">Đang gỡ bỏ…</string>
+    <string name="uninstall_done">Gỡ bỏ hoàn tất</string>
+    <string name="uninstall_failed">Gỡ bỏ thất bại</string>
+    <string name="uninstall_failed_msg">%1$s có thể không gỡ bỏ được</string>
+    <string name="Parse_error_dlg_title">Phân tích lỗi</string>
+    <string name="Parse_error_dlg_text">Có vấn đề về phân tích các gói.</string>
+    <string name="uninstall_application_question">Bạn muốn gỡ bỏ ứng dụng?</string>
+    <string name="uninstall_update_question">Bạn muốn gỡ bản cập nhật?</string>
+</resources>

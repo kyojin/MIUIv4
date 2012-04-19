@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ضبط صدا</string>
+    <string name="recording">ضبط</string>
+    <string name="recording_stopped">ضبط متوقف شد</string>
+    <string name="storage_is_full">حافظه پر است</string>
+    <string name="max_length_reached">به ماکزیمم طول رسیده است</string>
+    <string name="insert_sd_card">لطفا کارت حافظه را وارد کنید</string>
+    <string name="button_ok">تایید</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">ضبط های شما</string>
+    <string name="audio_db_album_name">ضبط صدا</string>
+    <string name="audio_db_playlist_name">ضبط های من</string>
+    <string name="error_sdcard_access">دسترسی به کارت حافظه امکان پذیر نیست</string>
+    <string name="error_app_internal">خطای داخلی برنامه</string>
+    <string name="error_mediadb_new_record">ضبط صدا امکان پذیر نیست</string>
+    <string name="default_record_name">ضبط بدون عنوان</string>
+    <string name="menu_view_record_list">مرور ضبط شده ها</string>
+    <string name="menu_setting">تنظیمات</string>
+    <string name="delete_dialog_title">آیا شما می خواهید ضبط فعلی را حذف کنید؟</string>
+    <string name="overwrite_dialog_title">%s در حال حاضر وجود دارد، آیا می خواهید آن را بازنویسی کنید؟</string>
+    <string name="preferences_title">تنظیمات</string>
+    <string name="pref_title_record_type">فرمت فایل ضبط</string>
+    <string name="prefDialogTitle_recordType">لطفا نوع فایل را انتخاب کنید</string>
+    <string name="prefDefault_recordType">audio/3gpp</string>
+    <string name="pref_title_enable_high_quality">فعال کردن کیفیت بالا</string>
+    <string name="pref_summary_enable_high_quality">کیفیت بالا ممکن است سبب افزایش حجم فایل شود</string>
+    <string name="pref_title_enable_sound_effect">فعال کردن جلوه های صوتی</string>
+    <string name="pref_summary_enable_sound_effect">پخش صدا زمانی که وضعیت ضبط تغییر کرد</string>
+    <string name="notification_recording">ضبط</string>
+    <string name="notification_stopped">ضبط متوقف شد</string>
+    <string name="notification_warning">به دلیل کمبود حافظه فقط قادر به ضبط %d دقیقه صدا هستید</string>
+    <string name="record_list">لیست ضبط شده ها</string>
+    <string name="sd_card_not_available">کارت حافظه در دسترس نیست</string>
+    <string name="call_record">ضبط تماس</string>
+    <string name="open_file_explorer">باز کردن جستجوگر فایل</string>
+    <string name="no_file">ضبطی وجود ندارد</string>
+    <string name="mark_now">(Current)</string>
+    <string name="second">%d ثانیه</string>
+    <string name="minute">%d دقیقه</string>
+    <string name="hour">%d ساعت</string>
+    <string name="dialog_play">پخش</string>
+    <string name="dialog_send">ارسال</string>
+    <string name="dialog_delete">حذف</string>
+</resources>

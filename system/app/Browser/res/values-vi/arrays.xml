@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Luôn bật</item>
+        <item>Luôn tắt</item>
+        <item>Hiển thị theo nhu cầu</item>
+    </string-array>
+    <string-array name="pref_content_plugins_values">
+        <item>Bật</item>
+        <item>Tắt</item>
+        <item>Theo nhu cầu</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Nhỏ</item>
+        <item>Vừa</item>
+        <item>Lớn</item>
+        <item>Lớn hơn</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Xa</item>
+        <item>Trung bình</item>
+        <item>Gần</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Simplified Chinese (GBK)</item>
+        <item>Traditional Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_values">
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+    </string-array>
+    <string-array name="bookmark_control_items">
+        <item>Tạo chỉ mục mới</item>
+        <item>Tạo đánh dấu mới</item>
+        <item>Nhập đánh dấu</item>
+        <item>Xuất đánh dấu</item>
+    </string-array>
+    <string-array name="not_found_page_titles">
+        <item>Không tìm thấy trang Web</item>
+    </string-array>
+    <string-array name="pref_load_images_choice">
+        <item>Bật</item>
+        <item>Tắt</item>
+        <item>Bật khi dùng WIFI</item>
+    </string-array>
+    <string-array name="pref_load_images_choice_value">
+        <item>Bật</item>
+        <item>Tắt</item>
+        <item>Bật khi dùng WIFI</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice">
+        <item>Mặc định</item>
+        <item>Cuộn trang</item>
+        <item>Chuyển nhãn</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice_value">
+        <item>Mặc định</item>
+        <item>Cuộn trang</item>
+        <item>Chuyển nhãn</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice">
+        <item>Luôn luôn chấp nhận cài đặt nút chỉnh âm lượng</item>
+        <item>Chỉ chấp nhận khi không chơi nhạc</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice_value">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi không chơi nhạc</item>
+    </string-array>
+    <string-array name="pref_reading_mode_choices">
+        <item>Nhập tự động</item>
+        <item>Nhập thủ công</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="pref_reading_mode_values">
+        <item>Tự động</item>
+        <item>Thủ công</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="pref_forum_mode_choices">
+        <item>Nhập tự động</item>
+        <item>Nhập thủ công</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="pref_forum_mode_values">
+        <item>Tự động</item>
+        <item>Thủ công</item>
+        <item>Tắt</item>
+    </string-array>
+    <string-array name="pref_text_size_values">
+        <item>Nhỏ hơn</item>
+        <item>Trung bình</item>
+        <item>Lớn hơn</item>
+        <item>Lớn nhất</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_choices">
+        <item>Hiển thị</item>
+        <item>Ẩn Quay lại/Tiếp theo trong chế độ toàn màn hình</item>
+        <item>Tự động ẩn</item>
+        <item>Không hiển thị các nút</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_values">
+        <item>Khi cần</item>
+        <item>Trừ Toàn màn hình</item>
+        <item>Tự động</item>
+        <item>Không hiển thị</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_choices">
+        <item>Luôn hiển thị thanh trạng thái</item>
+        <item>Luôn ẩn thanh trạng thái</item>
+        <item>Tự động</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_values">
+        <item>Luôn hiển thị</item>
+        <item>Luôn ẩn</item>
+        <item>Tự động</item>
+    </string-array>
+    <string-array name="pref_simple_mode_choices">
+        <item>Tắt</item>
+        <item>Bật</item>
+        <item>Bật khi không có Wifi</item>
+    </string-array>
+    <string-array name="pref_simple_mode_values">
+        <item>Tắt</item>
+        <item>Bật</item>
+        <item>Bật khi không có Wifi</item>
+    </string-array>
+    <string-array name="pref_web_default_zoom_values">
+        <item>Xa</item>
+        <item>Trung bình</item>
+        <item>Gần</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices">
+        <item>Mặc định</item>
+        <item>Chrome Desktop</item>
+        <item>iPhone 3</item>
+        <item>iPhone 4</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices_values">
+        <item>Mặc định</item>
+        <item>CHROME</item>
+        <item>IPHONE3</item>
+        <item>IPHONE4</item>
+        <item>IPAD</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices">
+        <item>Không</item>
+        <item>Quay lại-Tiếp theo</item>
+        <item>Chuyển nhãn</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices_values">
+        <item>Không</item>
+        <item>Quay lại-Tiếp theo</item>
+        <item>Chuyển nhãn</item>
+    </string-array>
+    <string-array name="pref_single_click_choices">
+        <item>Mở liên kết trong cửa sổ hiện tại</item>
+        <item>Mở liên kết ở nhãn mới và chuyển sang</item>
+        <item>Mở liên kết ở nhãn mới</item>
+    </string-array>
+    <string-array name="pref_long_click_choices">
+        <item>Hiển thị danh sách ngữ cảnh</item>
+        <item>Mở liên kết ở nhãn mới và chuyển sang</item>
+        <item>Mở liên kết ở nhãn mới</item>
+    </string-array>
+    <string-array name="pref_link_choices_values">
+        <item>Mặc định</item>
+        <item>Nhãn mới</item>
+        <item>Mở ngầm</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grabadora de audio</string>
+    <string name="recording">Grabando...</string>
+    <string name="recording_stopped">Grabación detenida</string>
+    <string name="storage_is_full">Espacio insuficiente</string>
+    <string name="max_length_reached">Duración máxima alcanzada</string>
+    <string name="insert_sd_card">Inserta una tarjeta SD.</string>
+    <string name="button_ok">Aceptar</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">Miss grabaciones</string>
+    <string name="audio_db_album_name">Grabaciones de audio</string>
+    <string name="audio_db_playlist_name">Mis grabaciones</string>
+    <string name="error_sdcard_access">No se puede acceder a la tarjeta SD.</string>
+    <string name="error_app_internal">Error interno de la aplicación</string>
+    <string name="error_mediadb_new_record">No se puede guardar el audio grabado.</string>
+    <string name="default_record_name">sin título</string>
+    <string name="menu_view_record_list">Ver grabaciones</string>
+    <string name="menu_setting">Ajustes</string>
+    <string name="delete_dialog_title">¿Desea eliminar la grabación actual?</string>
+    <string name="overwrite_dialog_title">%s ya existe. ¿Desea sobreescribirlo?</string>
+    <string name="preferences_title">Ajustes</string>
+    <string name="pref_title_record_type">Formato de grabación</string>
+    <string name="prefDialogTitle_recordType">Seleccione el formato</string>
+    <string name="prefDefault_recordType">audio/3gpp</string>
+    <string name="pref_title_enable_high_quality">Alta calidad</string>
+    <string name="pref_summary_enable_high_quality">El archivo de alta calidad puede ser más grande</string>
+    <string name="pref_title_enable_sound_effect">Efecto de sonido</string>
+    <string name="pref_summary_enable_sound_effect">Reproducir efecto de sonido al cambiar de estado</string>
+    <string name="notification_recording">Grabando</string>
+    <string name="notification_stopped">Grabación detenida</string>
+</resources>

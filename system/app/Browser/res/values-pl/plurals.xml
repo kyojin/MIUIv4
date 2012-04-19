@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="matches_found">
+        <item quantity="other">Wyników: %d</item>
+        <item quantity="zero">Brak wyników</item>
+        <item quantity="one">1 wynik</item>
+        <item quantity="few">Wyników: %d</item>
+    </plurals>
+</resources>

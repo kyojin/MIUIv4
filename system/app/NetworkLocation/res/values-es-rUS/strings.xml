@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ubicación de la red</string>
+    <string name="location_warning_title">Consentimiento de ubicación</string>
+    <string name="location_warning_message">Permite que el servicio de localización de Google recopile datos anónimos de la ubicación. La recopilación se realizará incluso cuando no se estén ejecutando aplicaciones.</string>
+    <string name="agree">Acepto</string>
+    <string name="disagree">No acepto</string>
+</resources>

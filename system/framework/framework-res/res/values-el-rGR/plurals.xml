@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_seconds_ago">
+        <item quantity="other">%d δευτ. πριν</item>
+        <item quantity="one">1 δευτ. πριν</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d ώρες πριν</item>
+        <item quantity="one">1 ώρα πριν</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Last %d days</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d days ago</item>
+        <item quantity="one">χθες</item>
+    </plurals>
+    <plurals name="in_num_seconds">
+        <item quantity="other">in %d seconds</item>
+        <item quantity="one">in 1 second</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">in %d minutes</item>
+        <item quantity="one">σε 1 δευτ.</item>
+    </plurals>
+    <plurals name="in_num_hours">
+        <item quantity="other">σε %d ώρες</item>
+        <item quantity="one">σε 1 ώρα</item>
+    </plurals>
+    <plurals name="in_num_days">
+        <item quantity="other">σε %d μέρες</item>
+        <item quantity="one">άυριο</item>
+    </plurals>
+    <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">%d δευτ. πριν</item>
+        <item quantity="one">1 δευτ. πριν</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d λεπτά πριν</item>
+        <item quantity="one">1 λεπτό πριν</item>
+    </plurals>
+    <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">%d ώρες πριν</item>
+        <item quantity="one">1 ώρα πριν</item>
+    </plurals>
+    <plurals name="abbrev_num_days_ago">
+        <item quantity="other">%d μέρες πριν</item>
+        <item quantity="one">χθες</item>
+    </plurals>
+    <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">σε %d δευτ.</item>
+        <item quantity="one">σε 1 δευτ.</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">σε %d λεπτά</item>
+        <item quantity="one">σε 1 λεπτό</item>
+    </plurals>
+    <plurals name="abbrev_in_num_hours">
+        <item quantity="other">σε %d ώρες</item>
+        <item quantity="one">σε 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">σε %d μέρες</item>
+        <item quantity="one">άυριο</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">Διαθέσιμα Wi-Fi δίκτυα</item>
+        <item quantity="one">Διαθέσιμο Wi-Fi δίκτυο</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Διαθέσιμα ανοιχτά Wi-Fi δίκτυα</item>
+        <item quantity="one">Διαθέσιμο ανοιχτό Wi-Fi δίκτυο</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Μόλις τώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">πριν 1 λεπτό</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">πριν 1 λεπτό</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">πριν 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">πριν μισή ώρα</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">πριν μισή ώρα</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">πριν μισή ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">σε 1 ώρα</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">σε μισή ώρα</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">σε 1 ώρα</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">σε μισή ώρα</item>
+    </plurals>
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-D</item>
+        <item>;-)</item>
+        <item>%-)</item>
+        <item>&amp;amp;amp;amp;amp;amp;lt;_>¦¦¦</item>
+        <item>∩_∩</item>
+        <item>;-></item>
+        <item>:-(</item>
+        <item>;-(</item>
+        <item>∠※</item>
+        <item>:-x</item>
+        <item>:-></item>
+        <item>B-)</item>
+        <item>*^‧^*</item>
+        <item>○^~^○</item>
+        <item>:-P</item>
+        <item>:-)</item>
+        <item>:-*</item>
+        <item>:-/</item>
+        <item>:-@</item>
+        <item>°ο°/~</item>
+        <item>:-@</item>
+        <item>:-O</item>
+        <item>⊙⊙?</item>
+        <item>~o~/~</item>
+        <item>:-J</item>
+        <item>→_→</item>
+        <item>\@ο@</item>
+        <item>^人^</item>
+        <item>人^人</item>
+        <item>^_^)Y</item>
+        <item>ōk</item>
+        <item>-ิo-ิ</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>"    פעם אחת"</item>
+        <item>"    פעמיים"</item>
+        <item>"    3 פעמים"</item>
+        <item>"    5 פעמים"</item>
+        <item>"    10 פעמים"</item>
+    </string-array>
+    <string-array name="prefValues_ringtone_repeat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 שניות</item>
+        <item>2 שניות</item>
+        <item>3 שניות</item>
+        <item>4 שניות</item>
+        <item>5 שניות</item>
+        <item>6 שניות</item>
+        <item>7 שניות</item>
+        <item>8 שניות</item>
+        <item>9 שניות</item>
+        <item>10 שניות</item>
+        <item>אחר…</item>
+    </string-array>
+    <string-array name="extend_smiley_texts">
+        <item>::>_&amp;amp;amp;amp;amp;amp;lt;::</item>
+        <item>&amp;amp;amp;amp;amp;amp;lt;_>¦¦¦</item>
+        <item>~~~^_^~~~</item>
+        <item>~~~(>_&amp;amp;amp;amp;amp;amp;lt;)~~~</item>
+        <item>╮〔╯ε╰〕╭</item>
+        <item>^_^/~~</item>
+        <item>o∩_∩o</item>
+        <item>°ο°/~</item>
+        <item>^_^)Y</item>
+        <item>-ิo-ิ</item>
+        <item>^(oo)^</item>
+        <item>~o~/~</item>
+        <item>*^o^*</item>
+        <item>ˋ_ˊ¦¦</item>
+        <item>○^~^○</item>
+        <item>\#^_^</item>
+        <item>^口^</item>
+        <item>人^人</item>
+        <item>^人^</item>
+        <item>一-一</item>
+        <item>π_π</item>
+        <item>\@ο@</item>
+        <item>:-x</item>
+        <item>T_T</item>
+        <item>Ｏrz</item>
+        <item>:-P</item>
+        <item>:-O</item>
+        <item>︶︿︶</item>
+        <item>╯^╰</item>
+        <item>〒_〒</item>
+        <item>;-(</item>
+        <item>:-(</item>
+        <item>;-></item>
+        <item>∩_∩</item>
+        <item>%-)</item>
+        <item>→_→</item>
+        <item>¯^¯</item>
+        <item>⊙⊙?</item>
+        <item>⊙.⊙</item>
+        <item>:-@</item>
+        <item>;-)</item>
+        <item>^÷^</item>
+        <item>:-@</item>
+        <item>╰_╯</item>
+        <item>ˋ^ˊ</item>
+        <item>:-/</item>
+        <item>:-*</item>
+        <item>:-)</item>
+        <item>^_^</item>
+        <item>$_$</item>
+        <item>:-></item>
+        <item>:-D</item>
+        <item>B-)</item>
+        <item>b_d</item>
+        <item>:P</item>
+        <item>ōk</item>
+        <item>∠※</item>
+        <item>:-J</item>
+        <item>:)</item>
+        <item>:(</item>
+        <item>:D</item>
+    </string-array>
+</resources>

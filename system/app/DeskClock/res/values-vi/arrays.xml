@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Báo thức này được đặt dưới 1 phút kể từ bây giờ.</item>
+        <item>Báo thức này được đặt cho %1$s kể từ bây giờ.</item>
+        <item>Báo thức này được đặt cho %2$s kể từ bây giờ.</item>
+        <item>Báo thức này được đặt cho %1$1$s và %2$2$s kể từ bây giờ.</item>
+        <item>Báo thức này được đặt cho %3$s kể từ bây giờ.</item>
+        <item>Báo thức này được đặt cho %1$1$s và %2$3$s kể từ bây giờ.</item>
+        <item>Báo thức này được đặt cho %1$2$s và %2$3$s kể từ bây giờ.</item>
+        <item>Báo thức này được đặt cho %1$1$s, %2$2$s, và %3$3$s kể từ bây giờ.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 phút</item>
+        <item>10 phút</item>
+        <item>15 phút</item>
+        <item>20 phút</item>
+        <item>25 phút</item>
+        <item>30 phút</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Không</item>
+        <item>Ngủ thêm</item>
+        <item>Hủy bỏ</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

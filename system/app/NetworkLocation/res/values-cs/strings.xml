@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Zjištění polohy</string>
+    <string name="location_warning_title">Zjišťování polohy</string>
+    <string name="location_warning_message">Povolit službě Google sbírat anonymní data o poloze. Sběr bude probíhat i když neběží žádná aplikace.</string>
+    <string name="agree">Souhlasím</string>
+    <string name="disagree">Nesouhlasím</string>
+</resources>

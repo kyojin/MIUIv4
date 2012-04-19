@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voiceDialer">Glasovni izbirnik</string>
+    <string name="tool_tip_title">Ali ste vedeli……</string>
+    <string name="tool_tip_message">Če pritisnete &amp; pridržite zeleni gumb za klic, odprete Glasovni izbirnik.</string>
+    <string name="examples">" Primeri: "<b>" 
+\"Pokliči John Doe\" 
+\"Pokliči John Doe domov, …\" 
+\"Pokliči glasovno pošto\" 
+\"Pokliči(866) 555 0123\" 
+\"Pokliči 911, 811, …\" 
+\"Pokliči +44 7333 444 555\" 
+\"Ponovno pokliči\" 
+\"Odpri koledar\" "</b>" "</string>
+    <string name="title">Glasovni izbirnik</string>
+    <string name="bluetooth_title">Bluetooth Glasovni izbirnik</string>
+    <string name="initializing">Zaganjanje.</string>
+    <string name="listening">Poslušanje……</string>
+    <string name="please_try_again">Prosimo poskusite znova.</string>
+    <string name="failure">Napaka</string>
+    <string name="recognition_error">Lahko poskusite ponovno zagnati telefon.</string>
+    <string name="headset_connection_lost">Povezava s slušalkami izgubljena.</string>
+    <string name="at_home">" doma"</string>
+    <string name="on_mobile">" na mobitelu"</string>
+    <string name="at_work">" v službi"</string>
+    <string name="at_other">" drugje"</string>
+    <string name="logging_enabled">Dnevnik glasovnega izbirnika je omogočen.</string>
+    <string name="logging_disabled">Dnevnik glasovnega izbirnika je onemogočen.</string>
+    <string name="speak_now_tts">Govorite zdaj.</string>
+    <string name="no_results_tts">Ni rezultatov, poskusite znova.</string>
+    <string name="invalid_choice_tts">Napačna izbira.</string>
+    <string name="goodbye_tts">Nasvidenje.</string>
+</resources>

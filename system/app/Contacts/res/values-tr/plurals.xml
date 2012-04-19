@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Telefon numarası olan %d kişi görüntüleniyor</item>
+        <item quantity="one">Telefon numarası olan 1 kişi görüntüleniyor</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kişi gösteriliyor</item>
+        <item quantity="one">1 kişi gösteriliyor</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d kişi bulundu</item>
+        <item quantity="one">1 kişi bulundu</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d kişi</item>
+        <item quantity="one">1 kişi</item>
+    </plurals>
+    <plurals name="groupDescrip">
+        <item quantity="other">%0$d kişi</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">%1$1$1$d kişi, %2$2$2$d telefon no.su olan</item>
+    </plurals>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Connessione dati interrotta da %s minuti</item>
+        <item quantity="one">Connessione dati interrotta da %s minuto</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">"Il telefono sarà in modalità di chiamata d'emergenza per %s minuti. Mentre si è in questa modalità non può essere usata nessna applicazione che utilizzi la connessione dati. Vuoi uscire ora?"</item>
+        <item quantity="one">"Il telefono sarà in modalità di chiamata d'emergenza per %s minuto. Mentre si è in questa modalità non può essere usata nessna applicazione che utilizzi la connessione dati. Vuoi uscire ora?"</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">"Azione non disponibile in modalità d'emergenza. Il telefono rimarrà in questa modalità per %s minuti. Vuoi uscire ora?"</item>
+        <item quantity="one">"Azione non disponibile in modalità d'emergenza. Il telefono rimarrà in questa modalità per %s minuto. Vuoi uscire ora?"</item>
+    </plurals>
+</resources>

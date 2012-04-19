@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nástroj na inštaláciu balíčkov</string>
+    <string name="install">Inštalovať</string>
+    <string name="done">Hotovo</string>
+    <string name="security_settings_desc">Povoliť tieto aplikácie:</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="unknown">Neznáme</string>
+    <string name="installing">Prebieha inštalácia…</string>
+    <string name="install_done">Aplikácia bola nainštalovaná</string>
+    <string name="install_confirm_question">Chcete túto aplikáciu nainštalovať?</string>
+    <string name="install_failed">Aplikácia sa nenainštalovala</string>
+    <string name="install_failed_msg">Aplikácia %1$s sa nedá nainštalovať do tohto telefónu.</string>
+    <string name="launch">Otvoriť</string>
+    <string name="unknown_apps_dlg_title">Inštalácia bola zablokovaná</string>
+    <string name="unknown_apps_dlg_text">Váš telefón je z dôvodu zabezpečenia nastavený tak, aby blokoval inštaláciu aplikácií, ktoré nepochádzajú zo služby Android Market.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Nastavenia</string>
+    <string name="manage_applications">Správa aplikácií</string>
+    <string name="dlg_app_replacement_title">Nahradiť aplikáciu</string>
+    <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, sa nahradí inou aplikáciou.
+
+Všetky skôr zadané dáta užívateľov sa uložia."</string>
+    <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikácia. Naozaj ju chcete nahradiť?
+
+Všetky predchádzajúce dáta uživateľa budú uložené."</string>
+    <string name="lift_ban">Povoliť</string>
+    <string name="out_of_space_dlg_title">Nedostatok miesta</string>
+    <string name="out_of_space_dlg_text">Aplikácia %1$s sa nedá nainštalovať. Uvolnite miesto v pamäti a skúste to znova.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Aplikácia sa nenašla</string>
+    <string name="app_not_found_dlg_text">Aplikácia sa nenašla v zozname nainštalovaných aplikácií.</string>
+    <string name="uninstall_application_text">Táto aplikácia bude odinštalovaná.</string>
+    <string name="uninstall_update_text">Aktualizácia aplikácie bude odinštalovaná. Stále môžete používať základnú verziu aplikácie.</string>
+    <string name="uninstalling">Prebieha odinštalovanie...</string>
+    <string name="uninstall_done">Odinštalácia bola dokončená.</string>
+    <string name="uninstall_failed">Odinštalácia bola neúspešná.</string>
+    <string name="uninstall_failed_msg">Aplikácia %1$s sa nedá odinštalovať.</string>
+    <string name="Parse_error_dlg_title">Chyba analýzy</string>
+    <string name="Parse_error_dlg_text">Pri analýze balíčku došlo k problému.</string>
+    <string name="uninstall_application_question">Odinštalovať aplikáciu?</string>
+    <string name="uninstall_update_question">Odinštalovať aktualizáciu?</string>
+</resources>

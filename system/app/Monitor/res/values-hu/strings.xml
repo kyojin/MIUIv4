@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Felügyelet</string>
+    <string name="duration" formatted="false">Napló időtartama: %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">Adatkapcs. autom. letilt.</string>
+    <string name="menu_refresh">Frissítés</string>
+    <string name="menu_sort_by_name">Rendezés név szerint</string>
+    <string name="menu_sort_by_traffic">Rendezés forgalom szerint</string>
+    <string name="menu_display_system_app">Rendszer alkalmazások megjelenítése</string>
+    <string name="menu_not_display_system_app">Rendszer alkalmazások elrejtése</string>
+    <string name="input_max_traffic">Adatforgalmi határ beállítása</string>
+    <string name="max_traffic_monthly">Havi maximum 2G/3G</string>
+    <string name="monitor_starting_day">Kezdés dátuma</string>
+    <string name="date_format">%s Nap</string>
+    <string name="traffic_none">Nincs</string>
+    <string name="version_text">Verzió %1$s</string>
+    <string name="duration_days" formatted="false">%d nap %d óra %d perc</string>
+    <string name="duration_hours" formatted="false">%d óra %d perc</string>
+    <string name="duration_minutes">%d perc</string>
+    <string name="traffic_data">Számlálók</string>
+    <string name="remain">"Maradt: "</string>
+    <string name="threshold">"Riasztás: "</string>
+    <string name="used">"Felhasznált: "</string>
+    <string name="exceed">"Túllépve: "</string>
+    <string name="settings">Beállítások</string>
+    <string name="mobile">Adatforgalom</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">2G/3G: %s</string>
+    <string name="wifi_format">Wi-Fi:%s</string>
+    <string name="mobile_traffic">Adatforgalom</string>
+    <string name="network_control">Tűzfal</string>
+    <string name="network_monitor">Hálózat figyelő</string>
+    <string name="all_apps">Minden alkalmazás</string>
+    <string name="refresh">Frissítve</string>
+    <string name="display_system_app">Látszanak a Rendsz. alk.</string>
+    <string name="force_stop">Erőszakos leállítás</string>
+    <string name="app_detail">Alkalmazás részletei</string>
+    <string name="loading_apps_list">Program lista betöltése...</string>
+    <string name="apply_rules_failed_known">Ismeretlen</string>
+    <string name="apply_rules_failed">Hiba a tűzfal szabály hozzáadása közben, próbálja újra</string>
+    <string name="monitor_settings">Beállítások</string>
+    <string name="sms_unit">Üzenet</string>
+    <string name="mobile_unit">MB</string>
+    <string name="first_traffic_day">Számlázási időszak kezdete</string>
+    <string name="confirm_disable_monitor">A megfigyelés kikapcsolása nullázza az adatokat, biztosan folytatja?</string>
+    <string name="input_monitor_starting_date">Kezdeti dátum megadása</string>
+    <string name="input_used_traffic">Kezdeti adatmennyiség</string>
+    <string name="sms_package">Üzenetek figyelése</string>
+    <string name="mobile_package">Mobil adatforg. figyelése</string>
+    <string name="android_system">Android rendszer</string>
+    <string name="call_sms_detail_title">Hívások és Üzenetek</string>
+    <string name="outgoing_call">Kimenő hívások</string>
+    <string name="incoming_call">Bejövő hívások</string>
+    <string name="outgoing_sms">Kimenő üzenetek</string>
+    <string name="outgoing_sms_number_format">%d sms</string>
+    <string name="traffic_detail">Felhasznált adatforgalom</string>
+    <string name="upload_bytes">Feltöltés %s</string>
+    <string name="download_bytes">Letöltés %s</string>
+    <string name="upload">Feltöltés</string>
+    <string name="download">Letöltés</string>
+    <string name="package_settings">Beállítások</string>
+    <string name="sms_traffic_limit">Forgalmi limit</string>
+    <string name="mobile_traffic_limit">Forgalmi Limit</string>
+    <string name="display_status_bar_notification">Megjel. az értes. sávon</string>
+    <string name="notify_threshold_exceed">Értesít a limit túllépésekor</string>
+    <string name="fix_traffic">Forgalmi statisztika beállításai</string>
+    <string name="mobile_traffic_used">Mobil adatforgalom megadása</string>
+    <string name="mobile_used_toast">%sMB-ot használt fel ebben a hónapban</string>
+    <string name="sms_traffic_used">Üzenetek számának megadása</string>
+    <string name="clear_traffic">Forgalmi adatok törlése</string>
+    <string name="click_to_input">Írja be az értéket</string>
+    <string name="traffic_sms_detials">Üzenetek részletei</string>
+    <string name="no_sms">Az üzenetnapló üres</string>
+    <string name="loading_apps_list_failed">Hiba történt a program lista betöltése közben</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">HTML Viser</string>
+    <string name="permlab_accessDrm">Åben DRM indhold.</string>
+    <string name="permdesc_accessDrm">Tillader applikationen at få adganbg til DRM-beskyttet indhold.</string>
+</resources>

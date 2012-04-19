@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Netværkspositionering</string>
+    <string name="location_warning_title">Positionering samtykke</string>
+    <string name="location_warning_message">"Tillad Google's positionerings service at indsamle anonyme positioneringsdata. Indsamlingen vil ske selv når ingen applikationer kører."</string>
+    <string name="agree">Enig</string>
+    <string name="disagree">Uenig</string>
+</resources>

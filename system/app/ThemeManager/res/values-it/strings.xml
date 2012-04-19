@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temi</string>
+    <string name="theme_activity_lable">Temi</string>
+    <string name="theme_changing_dialog_title">Preparazione tema, attendere...</string>
+    <string name="theme_changed_message">installato con successo!</string>
+    <string name="theme_changed_failed_message">Cambio tema non riuscito!</string>
+    <string name="backup_preference_title">Impostazioni Backup</string>
+    <string name="backup_theme_dialog_ok">Backup</string>
+    <string name="backup_theme_dialog_message">"Backup tema corrente in
+ scheda SD /MIUI/theme folder
+ nome %1$s"</string>
+    <string name="backup_theme_progress_message">Backup in corso, attendere prego...</string>
+    <string name="backup_theme_success_message">Backup tema eseguito correttamente</string>
+    <string name="theme_description_title_default">Default</string>
+    <string name="theme_description_title_customized">Personalizzato</string>
+    <string name="component_category_title">Modifica impostazioni</string>
+    <string name="theme_component_title_framework">Temi</string>
+    <string name="theme_component_title_mms">Stile SMS</string>
+    <string name="theme_component_title_wallpaper">Sfondi Desktop</string>
+    <string name="theme_component_title_lockwallpaper">Lockscreen</string>
+    <string name="theme_component_title_icon">Icone</string>
+    <string name="theme_component_title_boot_animation">Animazione Boot</string>
+    <string name="theme_component_title_boot_audio">Audio Boot</string>
+    <string name="theme_component_title_font">Caratteri</string>
+    <string name="theme_component_title_ringtone">Suonerie</string>
+    <string name="theme_component_title_notification">Notifiche</string>
+    <string name="theme_component_title_alarm">Sveglia</string>
+    <string name="theme_component_title_contact">Telefono</string>
+    <string name="theme_component_title_lockstyle">Stile Lockscreen</string>
+    <string name="theme_component_title_statusbar">Barra di stato</string>
+    <string name="theme_component_title_launcher">Pagina home</string>
+    <string name="theme_component_title_others">Altro</string>
+    <string name="theme_component_title_all">Tema</string>
+    <string name="apply_theme_no_select_message">Selezionare un tema!</string>
+    <string name="apply_lockscreen_paper_tips">Custom lock screen is currently in use, the new lock screen wallpaper may not apply.</string>
+    <string name="theme_import">Importa tema</string>
+    <string name="theme_select_others">Altro</string>
+    <string name="third_party_pickers_activity_title">Imposta %1$s</string>
+    <string name="wallpaper_settings">Impostazioni Sfondi</string>
+    <string name="desktop_wallpaper">Sfondi Desktop</string>
+    <string name="live_wallpaper">Live Wallpaper</string>
+    <string name="lockscreen_wallpaper">Sfondi Lockscreen</string>
+    <string name="component_settings_title">Personalizza tema</string>
+    <string name="component_select_title">%1$s Elemnti selezionati</string>
+    <string name="component_include_title">Contiene %1$s elementi</string>
+    <string name="component_screen_title">Sfondi</string>
+    <string name="resource_fail_to_show">The theme package does not contain the appropriate resources</string>
+    <string name="new_format_convert">Converting %s to new format</string>
+    <string name="old_format_title">Old format resources detected</string>
+    <string name="old_format_fail">Conversion failed, click Apply to try again. Re-download the latest format of the resource if unsuccessful!</string>
+    <string name="old_format_convert_tip1">This theme package is not the latest format and can not be directly applied, the conversion will take a long time, proceed with conversion?</string>
+    <string name="old_format_convert_tip2">You can also delete the resources, and then re-download the latest format of the resources.</string>
+</resources>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MIUI Yedekleme</string>
+    <string name="local_app_name">MIUI Yedekleme</string>
+    <string name="local_home_title">Yerel Yedekleme</string>
+    <string name="button_backup">Yedekle</string>
+    <string name="start_backup">Yedeklemeyi başlat</string>
+    <string name="button_cancel">Vazgeç</string>
+    <string name="backup_empty">Yedek bulunamadı!</string>
+    <string name="backup_items_sysdata_tailer">" Sistem Veri Dosyaları "</string>
+    <string name="backup_items_app_tailer">" Uygulama Veri Dosyaları "</string>
+    <string name="backup_failed">Yedekleme yapılamadı! Tekrar deneyin.</string>
+    <string name="backup_recently">" (En son)"</string>
+    <string name="sdcard_unmounted">SD Kart çıkartıldı</string>
+    <string name="backup_progress">Yedekleniyor...</string>
+    <string name="button_ok">Tamam</string>
+    <string name="backup_finished">Yedekleme tamamlandı</string>
+    <string name="backup_report">Yedek raporu</string>
+    <string name="backup_hint">Veri kaybı yaşamamak için telefonunuzu yeniden başlatmayın</string>
+    <string name="menu_patch_delete">Yedekleri sil</string>
+    <string name="delete">Sil</string>
+    <string name="cancel">İptal</string>
+    <string name="delete_backup">Yedeği Sil</string>
+    <string name="delete_backup_confirm">Seçili yedek silinecek, emin misiniz?</string>
+    <string name="delete_backup_process">Yedekleme siliniyor, lütfen bekleyin...</string>
+    <string name="backup_error">Yedekleme Hatası</string>
+    <string name="delete_failed_backup_confirm">Seçilen yedekleme hatalı, bu yedeklemeden geri yükleme yapılamıyor</string>
+    <string name="batch_delete_backup_confirm">"
+ Seçilen yedekleri kaldırmak istediğinize emin misiniz?"</string>
+    <string name="start_restore">Geri yükle</string>
+    <string name="backup_file_error">Yedekleme ile ilgili bir problem var,işlem geçerli değil.</string>
+    <string name="unit_byte">" Bayt"</string>
+    <string name="unit_piece">" Öğe"</string>
+    <string name="restore_finished">Geri yükleme bitti</string>
+    <string name="restore_report">Geri Yükleme raporu</string>
+    <string name="restore_progress">Geri yükleniyor...</string>
+    <string name="restore_contacts_hit">(Not: Kişiler geri yüklenmeden önce bir hesap oluşturmalısınız)</string>
+    <string name="restore_telephony_hit">(Not: Geri yükleme işlemi telefonunuzu yeniden başlatacak)</string>
+    <string name="restore_launcher_layout_hit">(Not: Masaüstü düzenini geri yükle)</string>
+    <string name="settings_summary">Telefon ve mesajlaşma ayarlarını yedekle</string>
+    <string name="cloud_app_name">Çevirimiçi Yedekleme</string>
+    <string name="cloud_home_title">Çevrimiçi Yedekleme</string>
+    <string name="prompt_reading">Okunuyor...</string>
+    <string name="prompt_sending">Gönderiliyor...</string>
+    <string name="prompt_writing">Kaydediliyor...</string>
+    <string name="backup_new">Yeni:</string>
+    <string name="backup_update">Güncelle</string>
+    <string name="backup_delete">Sil:</string>
+    <string name="findlost_contact">Silinmiş kişileri geri yükleyin</string>
+    <string name="findlost_contact_online">Çevirim içi yedeklemeden kişilerinizi geri yükleyin</string>
+    <string name="cloud_backup_login">Xiaomi hesabınızla giriş yapın</string>
+    <string name="cloud_backup_hint">Yedeklemelerinizi güvenle saklamak ve geri yüklemek için oturum açın</string>
+    <string name="cloud_backup_window_title">Çevrimiçi Veri Yedekleme</string>
+    <string name="cloud_restore_window_title">Çevrimiçi Veri Kurtarma</string>
+    <string name="cloud_restore_title">Yedekleme verilerini geri yükle</string>
+    <string name="local_backup_window_title">Yerel Veri Yedekleme</string>
+    <string name="local_restore_window_title">Yerel Veri Kurtarma</string>
+    <string name="account_login">Oturum aç</string>
+    <string name="miliao_account_login">"MiTalk'a Gir"</string>
+    <string name="miliao_account_guide">"MiTalk, Xiaomi hesabına güncellendi
+ Tüm Xiaomi servislerinin keyfini çıkartın"</string>
+    <string name="auto_backup">Otomatik Yedekleme</string>
+    <string name="contact_title">Kişiler</string>
+    <string name="call_title">Arama Geçmişi</string>
+    <string name="sms_title">Mesajlaşlar</string>
+    <string name="mms_title">Multimedya Mesajları</string>
+    <string name="wifi_title">Wi-Fi Ayarları</string>
+    <string name="note_title">Notlar</string>
+    <string name="compute_backup_info">Yedekleme bilgisi alınıyor</string>
+    <string name="compute_delete_contact_info">Silinebilecek kişiler aranıyor..</string>
+    <string name="unknown_hint">Bilinmeyen</string>
+    <string name="task_progress">İlerleme</string>
+    <string name="task_pending">Beklemede</string>
+    <string name="task_pre_running">Hazırlanıyor</string>
+    <string name="task_post_running">İşlem sürüyor</string>
+    <string name="task_finished">Bitmiş Görevler</string>
+    <string name="task_canceled">İptal Edilen Görevler</string>
+    <string name="task_failed">Başarısız Görevler</string>
+    <string name="task_canceled_local">%1$s görev iptal edildi.</string>
+    <string name="task_canceled_all_local">Tüm görevleri iptal et</string>
+    <string name="task_failed_local">%1$s görevi tamamlanamadı</string>
+    <string name="task_failed_all_local">İşlem başarısız</string>
+    <string name="task_backup_finished_local">Yedekleme tamamlandı.</string>
+    <string name="task_restore_finished_local">Geri yükleme tamamlandı.</string>
+    <string name="task_stopped_exception">İşlem iptal edildi.</string>
+    <string name="sdcard_no_enough_space">SD kartta yeterli boş alan yok</string>
+    <string name="sdcard_no_enough_space_warning">SD Kartın kullanılabilir alanı düşük, yedekleme başarısız olabilir, devam etmek istediğinize emin misiniz?</string>
+    <string name="data_no_enough_space">Yeterli boş alan yok, boş alan oluşturup tekrar dekeyin.</string>
+    <string name="data_no_enough_space_warning">"Kullanılabilir alan 30MB'dan az, yedekleme başarısız olabilir, devam etmek istediğinize emin misiniz?"</string>
+    <string name="task_running_hint">Servis arka planda çalışıyor, yedeklemeyi geri yüklemek için yeniden deneyin!</string>
+    <string name="task_running_dialog">Yedekleme arkaplanda çalışıyor, detaylar için tamamı tıklayın.</string>
+    <string name="task_service_not_launched">Yedekleme servisi henüz başlamadı, lütfen bekleyin!</string>
+    <string name="task_local_backup_cancel_dialog">"Yedekleme tamamlanmadı!
+İptal etmek için tamamı tıklayın."</string>
+    <string name="task_cloud_backup_cancel_dialog">"Yedekleme henüz tamamlanmadı!
+İptal etmek için tamamı tıklayın."</string>
+    <string name="task_restore_cancel_dialog">"Geri yükleme henüz tamamlanmadı
+Bu aşamamada iptal etmek veri kaybına neden olabilir."</string>
+    <string name="task_backup_cancel_progress">Yedekleme iptal ediliyor...</string>
+    <string name="task_restore_cancel_progress">İptal ediliyor...</string>
+    <string name="nothing_searched">Hiçbir öğe bulunamadı</string>
+    <string name="restore_counts">Kurtarma:</string>
+    <string name="service_stoped">Hizmet Durduruldu</string>
+    <string name="sc_network_unavailable">Ağ bağlantı hatası</string>
+    <string name="sc_bad_request">Geçersiz İstek</string>
+    <string name="sc_unaccess_password_file">Wi-Fi şifresi detaylarını kaydetme</string>
+    <string name="sc_service_unavailable">Çevirimiçi yedekleme hizmeti yok</string>
+    <string name="sc_unauthorized">Geçersiz sertifika, lütfen yeniden giriş yapın</string>
+    <string name="sc_request_timeout">Zaman Aşımı</string>
+    <string name="sc_precondition_failed">Xiaomi hesabınız hiçbir eposta ile bağnlatılı değil</string>
+    <string name="sc_internal_server_error">İç Sunucu Hatası</string>
+    <string name="sc_others">Program İstisnası</string>
+    <string name="button_return">Geri</string>
+    <string name="button_next">İleri</string>
+    <string name="button_finish">Bitti</string>
+    <string name="progress_backup_hint">Veriler yedekleniyor...</string>
+    <string name="cancel_backup">Yedeklemeyi iptal et</string>
+    <string name="restore_contact">Kişileri geri yükle</string>
+    <string name="restore_contact_content">"Kişileri geri yüklemede çift kişiler oluşabilir.
+Not: Kişiler uygulamasından kişi birleştirme yapabilirsiniz"</string>
+    <string name="progress_restore_hint">Geri yükleniyor...</string>
+    <string name="cancel_restore">İptal et</string>
+    <string name="local_select_sysdata">Sistem Verileri</string>
+    <string name="local_select_userapp">Uygulamalar</string>
+    <string name="local_no_backup">Yerel yedek yok</string>
+    <string name="auto_backup_setting_title">Otomatik Yedekleme Ayarları</string>
+    <string name="auto_backup_open">Otomatik yedeklemeyi aç</string>
+    <string name="auto_backup_only_wifi">Sadece Wi-Fi bağlı olduğunda otomatik yedekle</string>
+    <string name="auto_backup_interval">Yedekleme sıklığı (gün)</string>
+    <string name="auto_backup_interval_hint">%d gün</string>
+    <string name="auto_backup_time">Planlanmış Yedekleme</string>
+    <string name="auto_backup_choose_title">Yedeklenecek öğeleri seçin</string>
+    <string name="auto_backup_choose">Yedekleme öğeleri</string>
+    <string name="auto_backup_choose_empty">Yedekleme yok</string>
+    <string name="auto_backup_progress">Otomatik yedekleme çalışıyor, lütfen bekleyin...</string>
+    <string name="auto_backup_interval_min">Günlük</string>
+    <string name="auto_backup_interval_max">30 gün</string>
+    <string name="cloud_last_backup">Son yedek:</string>
+    <string name="cloud_search">Aranıyor...</string>
+    <string name="cloud_no_backup">Çevirimiçi yedek yok</string>
+    <string name="current_account">Kullanılan Hesap:%s</string>
+    <string name="current_sim">Kullanılan SIM</string>
+    <string name="date_format">yyyy/MM/dd HH:mm:ss</string>
+    <string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>
+    <string name="no_network">"Ağ hatası.
+Lütfen bağlantınızı kontrol ederek tekrar deneyin."</string>
+    <string name="retry">Tekrar dene</string>
+    <string name="select_all">Tümünü seç</string>
+    <string name="reverse_all">Hiçbiri</string>
+    <string name="refresh">Yenile</string>
+    <string name="cloud_item_info_summary" formatted="false">" (Yerel %1$s | Çevrimiçi %2$s)"</string>
+    <string name="total_num">Toplamda %d kayıt</string>
+    <string name="cloud_restore_guide">"Geri yüklemeyi başlatmak için Başlat'a dokunun
+Yedekleme içinde %s i de geri yükleyebilirsiniz"</string>
+    <string name="import_from_xiaomi_account_hint1">"1. Kişi listesi olan bir telefon ile başlayın.
+
+2. MiTalk'u yükleyin ve giriş yapın. 
+ http://www.miliao.com
+
+3. MiTalk ayarlarına girin ve \"kişileri Xiaomi hesabına yedekle\" seçeneğini seçin."</string>
+    <string name="import_from_xiaomi_account_hint2">Not: Eğer yedek daha önce alındıysa bir sonraki adıma geçin</string>
+    <string name="import_from_xiaomi_account_hint_title">Diğer cihazlardaki kişi listesini yedeklemek için MI-ONE yerine MiTalk kullanın.</string>
+    <string name="guarded_mode_dialog_title">Korunma Modu</string>
+    <string name="guarded_mode_dialog_message">Korunma modunda yedekleme/geri yükleme yapılamaz</string>
+    <string name="task_backup_succeed">Yedekleme işlemi başarılı</string>
+    <string name="task_backup_failed">Yedekleme işlemi başarısız</string>
+    <string name="task_restore_succeed">Geri yükleme başarılı</string>
+    <string name="task_restore_failed">Geri yükleme başarısız</string>
+    <string name="cloud_backup">Yedekleme</string>
+    <string name="cloud_restore">Geri Yükleme</string>
+</resources>

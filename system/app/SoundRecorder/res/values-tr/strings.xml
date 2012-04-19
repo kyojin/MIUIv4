@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ses Kaydedici</string>
+    <string name="recording">Kaydediliyor</string>
+    <string name="recording_stopped">Kayıt durduruldu</string>
+    <string name="storage_is_full">Depolama dolu</string>
+    <string name="max_length_reached">Maksimum uzunluğa ulaşıldı</string>
+    <string name="insert_sd_card">SD kart gerekli</string>
+    <string name="button_ok">Tamam</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">Kayıtlarınız</string>
+    <string name="audio_db_album_name">Ses kayıtları</string>
+    <string name="audio_db_playlist_name">Kayıtlarım</string>
+    <string name="error_sdcard_access">SD karta veya dahili hafızaya erişilemiyor</string>
+    <string name="error_app_internal">İç uygulama hatası</string>
+    <string name="error_mediadb_new_record">Kayıt saklanamıyor.</string>
+    <string name="default_record_name">başlıksız kayıt</string>
+    <string name="menu_view_record_list">Ses Kayıtlarını Göster</string>
+    <string name="menu_setting">Ayarlar</string>
+    <string name="delete_dialog_title">Geçerli kaydı silmek istiyor musunuz?</string>
+    <string name="overwrite_dialog_title">%s zaten var. Üzerine yazılsın mı?</string>
+    <string name="preferences_title">Ayarlar</string>
+    <string name="pref_title_record_type">Ses kaydı türü</string>
+    <string name="prefDialogTitle_recordType">Dosya türü</string>
+    <string name="prefDefault_recordType">audio/3gpp</string>
+    <string name="pref_title_enable_high_quality">Yüksek Kalite</string>
+    <string name="pref_summary_enable_high_quality">Yüksek kaliteli ses kayıtları daha fazla yer kaplar</string>
+    <string name="pref_title_enable_sound_effect">Ses efektini etkinleştir</string>
+    <string name="pref_summary_enable_sound_effect">Durum değiştiğinde ses efekti çalar</string>
+    <string name="notification_recording">Kaydediliyor...</string>
+    <string name="notification_stopped">Kayıt durduruldu</string>
+    <string name="notification_warning">Yetersiz depolama(%d dakikadan daha az)...</string>
+    <string name="record_list">Kayıt listesi</string>
+    <string name="sd_card_not_available">SD karta ulaşılamıyor</string>
+    <string name="call_record">Arama kaydı</string>
+    <string name="open_file_explorer">Dosya gezginini aç</string>
+    <string name="no_file">Kayıt yok</string>
+    <string name="mark_now">(Mevcut)</string>
+    <string name="second">%d saniye</string>
+    <string name="minute">%d dakika</string>
+    <string name="hour">%d saat</string>
+    <string name="call_record_or">veya</string>
+    <string name="dialog_play">Oynat</string>
+    <string name="dialog_send">Gönder</string>
+    <string name="dialog_delete">Sil</string>
+    <string name="alert_message_delete_record">Seçili kaydı silmek istiyor musunuz?</string>
+</resources>

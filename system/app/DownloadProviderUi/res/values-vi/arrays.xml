@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>Tất cả tải về</item>
+        <item>Ứng dụng</item>
+        <item>Âm Nhạc</item>
+        <item>Chủ đề giao diện</item>
+        <item>Trình duyệt</item>
+        <item>Others</item>
+    </string-array>
+</resources>

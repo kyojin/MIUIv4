@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مانیتور</string>
+    <string name="duration" formatted="false">مدت پیشینه: %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">خاموش کردن خودکار</string>
+    <string name="menu_refresh">به روز رسانی</string>
+    <string name="menu_sort_by_name">بترتیب نام</string>
+    <string name="menu_sort_by_traffic">بترتیب ترافیک</string>
+    <string name="menu_display_system_app">نمایش برنامه های سیستمی</string>
+    <string name="menu_not_display_system_app">عدم نمایش برنامه های سیستمی</string>
+    <string name="input_max_traffic">محدود کردن داده ها</string>
+    <string name="max_traffic_monthly">حد مجاز ماهانه</string>
+    <string name="monitor_starting_day">مانیتورینگ تاریخ اغاز</string>
+    <string name="date_format">%s</string>
+    <string name="traffic_none">"
+بدون ترافیک"</string>
+    <string name="version_text">Version: %1$s</string>
+    <string name="duration_days" formatted="false">%d روز %d ساعت %d دقیقه</string>
+    <string name="duration_hours" formatted="false">%d ساعت %d دقیقه</string>
+    <string name="duration_minutes">%d دقیقه</string>
+    <string name="traffic_data">ترافیک</string>
+    <string name="remain">" باقیمانده "</string>
+    <string name="threshold">" اخطار "</string>
+    <string name="used">"استفاده شده "</string>
+    <string name="exceed">" Exceeded "</string>
+    <string name="settings">پیکربندی</string>
+    <string name="mobile">اینترنت</string>
+    <string name="wifi">وای فای</string>
+    <string name="mobile_format">اینترنت: %s</string>
+    <string name="wifi_format">وای فای: %s</string>
+    <string name="mobile_traffic">اینترنت موبایل استفاده شد</string>
+    <string name="network_control">فعال کردن مانیتورینگ فایروال</string>
+    <string name="network_monitor">فایروال</string>
+    <string name="all_apps">همه نرم افزارها</string>
+    <string name="refresh">به روزرسانی</string>
+    <string name="display_system_app">نمایش برنامه های سیستمی</string>
+    <string name="force_stop">توقف اجباری</string>
+    <string name="app_detail">جزئیات نرم افزار</string>
+    <string name="loading_apps_list">درحال بارگذاری نرم افزار ها..</string>
+    <string name="apply_rules_failed_known">ناشناخته</string>
+    <string name="apply_rules_failed">خطا در اعمال قواعد دیواره آتش، لطفا دوباره سعی کنید</string>
+    <string name="monitor_settings">تنظیمات</string>
+    <string name="sms_unit">" پیام"</string>
+    <string name="mobile_unit">مگابایت</string>
+    <string name="first_traffic_day">شروع دوره صورتحساب</string>
+    <string name="confirm_disable_monitor">خاموش کردن مانیتورینگ باعث توقف آمار ورود میشود, روشن شدن دوباره نیاز مند ریست شد آمار است</string>
+    <string name="input_monitor_starting_date">صورت حساب روزانه</string>
+    <string name="input_used_traffic">داده ی استفاده شده</string>
+    <string name="sms_package">پیام ها</string>
+    <string name="mobile_package">اینترنت موبایل</string>
+    <string name="android_system">سیستم اندروید</string>
+    <string name="call_sms_detail_title">تماس ها و پیام ها این ماه</string>
+    <string name="outgoing_call">تماس های گرفته شده</string>
+    <string name="incoming_call">تماس ها ی پاسخ داده شده</string>
+    <string name="outgoing_sms">پیام های ارسالی</string>
+    <string name="outgoing_sms_number_format">%d</string>
+    <string name="traffic_detail">جزئیات ترافیک</string>
+    <string name="upload_bytes">آپلود شده %s</string>
+    <string name="download_bytes">دانلود شده %s</string>
+    <string name="upload">آپلود شد</string>
+    <string name="download">دانلود شد</string>
+    <string name="package_settings">تنظیمات</string>
+    <string name="sms_traffic_limit">محدودیت ترافیک</string>
+    <string name="mobile_traffic_limit">محدود کردن</string>
+    <string name="display_status_bar_notification">در نوار هشدار ها نمایش بده</string>
+    <string name="notify_threshold_exceed">بیش از حد مجاز</string>
+    <string name="fix_traffic">ریست ترافیک</string>
+    <string name="mobile_traffic_used">استفاده شده</string>
+    <string name="mobile_used_toast">%sمگابایت این ماه مصرف شد</string>
+    <string name="sms_traffic_used">ریست امار پیام ها</string>
+    <string name="clear_traffic">پاک کردن ترافیک</string>
+    <string name="click_to_input">برای تایپ تاچ کنید</string>
+    <string name="traffic_sms_detials">جزئیات پیام</string>
+    <string name="no_sms">تازیخچه تماس خالیست</string>
+    <string name="loading_apps_list_failed">بارگذاری نرم افزار ها با خطا مواجه شد...</string>
+</resources>

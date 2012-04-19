@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Lokalizacja sieciowa</string>
+    <string name="location_warning_title">Zgoda na lokalizowanie</string>
+    <string name="location_warning_message">Pozwól Google na usługę lokalizacji oraz na zbieranie anonimowych danych dotyczących lokalizacji. Zbieranie danych następuje nawet wtedy, gdy nie są uruchomione żadne aplikacje</string>
+    <string name="agree">Zgadzam się</string>
+    <string name="disagree">Nie zgadzam się</string>
+</resources>

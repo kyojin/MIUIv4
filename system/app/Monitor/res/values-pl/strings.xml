@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Monitor Danych</string>
+    <string name="duration" formatted="false">Okres %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">Wyłącz dane gdy limit</string>
+    <string name="menu_refresh">Odśwież</string>
+    <string name="menu_sort_by_name">Sortuj po nazwie</string>
+    <string name="menu_sort_by_traffic">Sortuj po ruchu</string>
+    <string name="menu_display_system_app">Pokaż aplikacje systemowe</string>
+    <string name="menu_not_display_system_app">Ukryj aplikacje systemowe</string>
+    <string name="input_max_traffic">Wprowadź limit transferu</string>
+    <string name="max_traffic_monthly">Limit 2G/3G</string>
+    <string name="monitor_starting_day">Data początkowa</string>
+    <string name="date_format">%s No.</string>
+    <string name="traffic_none">Brak</string>
+    <string name="version_text">Wersja: %1$s</string>
+    <string name="duration_days" formatted="false">%d dni %d godzin %d minut</string>
+    <string name="duration_hours" formatted="false">%d godzin %d minut</string>
+    <string name="duration_minutes">%d minut</string>
+    <string name="traffic_data">Użycie danych</string>
+    <string name="remain">"Pozostało: "</string>
+    <string name="threshold">"Ostrzeżenie: "</string>
+    <string name="used">"Użyte: "</string>
+    <string name="exceed">"Przekroczonych: "</string>
+    <string name="settings">Konfiguracja</string>
+    <string name="mobile">2G/3G</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">2G/3G: %s</string>
+    <string name="wifi_format">Wi-Fi:%s</string>
+    <string name="mobile_traffic">Dane 2G/3G</string>
+    <string name="network_control">Kontrola połączeń</string>
+    <string name="network_monitor">Monitor Aplikacji</string>
+    <string name="all_apps">Aplikacje</string>
+    <string name="refresh">Odśwież</string>
+    <string name="display_system_app">Monituj aplikacje syst.</string>
+    <string name="force_stop">Wymuś zamknięcie</string>
+    <string name="app_detail">Szczegóły aplikacji</string>
+    <string name="loading_apps_list">Ładowanie listy aplikacji..</string>
+    <string name="apply_rules_failed_known">Zapamiętaj</string>
+    <string name="apply_rules_failed">Błąd aplikacji zapory firewall, spróbuj ponownie</string>
+    <string name="monitor_settings">Ustawienia</string>
+    <string name="sms_unit">Wiadomości</string>
+    <string name="mobile_unit">MB</string>
+    <string name="first_traffic_day">Początek okresu naliczania</string>
+    <string name="confirm_disable_monitor">Wyłączenie monitoru danych spowoduje powrót do ustawień domyślnych, kontynuować?</string>
+    <string name="input_monitor_starting_date">Data końcowa</string>
+    <string name="input_used_traffic">Wpisz ilość wykorzystanych danych</string>
+    <string name="sms_package">Wiadomości</string>
+    <string name="mobile_package">Wymiana danych</string>
+    <string name="android_system">System Android</string>
+    <string name="call_sms_detail_title">Połączenia i wiadomości</string>
+    <string name="outgoing_call">"Połączenia  wych."</string>
+    <string name="incoming_call">"Połączenia  przych."</string>
+    <string name="outgoing_sms">"SMS  wych."</string>
+    <string name="outgoing_sms_number_format">%d sms</string>
+    <string name="traffic_detail">Podsumowanie ruchu</string>
+    <string name="upload_bytes">Wysłano %s</string>
+    <string name="download_bytes">Pobrano %s</string>
+    <string name="upload">Wysłane</string>
+    <string name="download">Pobrane</string>
+    <string name="package_settings">Ustawienia danych i wiadomości</string>
+    <string name="sms_traffic_limit">Wiadomości</string>
+    <string name="mobile_traffic_limit">Limit danych:</string>
+    <string name="display_status_bar_notification">Status na pasku</string>
+    <string name="notify_threshold_exceed">Powiadomienie</string>
+    <string name="fix_traffic">Korekcja danych</string>
+    <string name="mobile_traffic_used">Dane w tym miesiącu</string>
+    <string name="mobile_used_toast">Wykorzystanie miesięczne wynosi %sMB</string>
+    <string name="sms_traffic_used">Wiadomości w tym miesiącu</string>
+    <string name="clear_traffic">Wyczyść dane o ruchu</string>
+    <string name="click_to_input">To pole wymaga wpisu</string>
+    <string name="traffic_sms_detials">Szczegóły wiadomości</string>
+    <string name="no_sms">Rejestr wiadomości wyczyszczony</string>
+    <string name="loading_apps_list_failed">Ładowanie listy aplikacji nieudane</string>
+</resources>

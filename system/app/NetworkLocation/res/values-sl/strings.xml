@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Omrežno mesto</string>
+    <string name="location_warning_title">Soglasje za lokacijo</string>
+    <string name="location_warning_message">Dovoli Googlovi storitvi za lokacijo, da zbira anonimne podatke o lokaciji. Zbiranje bo izvedeno, ko se ne bo izvajal noben program.</string>
+    <string name="agree">Se strinjam</string>
+    <string name="disagree">Ne strinjam se</string>
+</resources>

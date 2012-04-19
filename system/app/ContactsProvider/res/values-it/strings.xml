@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Contatti</string>
+    <string name="provider_label">Contatti</string>
+    <string name="upgrade_out_of_memory_notification_ticker">"L'aggiornamento del contatto richiede più spazio"</string>
+    <string name="upgrade_out_of_memory_notification_title">Aggiornamento contatti</string>
+    <string name="upgrade_out_of_memory_notification_text">"Conferma per completare l'aggiornamento."</string>
+    <string name="pound_search_tip">Premi \"#\" seguito dal numero per cercare</string>
+    <string name="create_contact">Crea contatto</string>
+    <string name="send_sms">Invia SMS</string>
+    <string name="edit_contact">Modifica contatto</string>
+</resources>

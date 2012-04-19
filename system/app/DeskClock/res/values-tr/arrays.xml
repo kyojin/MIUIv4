@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Bu alarm şuna göre ayarlı : 1 dakikadan daha az.</item>
+        <item>Bu alarm şuna göre ayarlı : %1$s.</item>
+        <item>Bu alarm şuna göre ayarlı : %2$s.</item>
+        <item>Bu alarm şuna göre ayarlı : %1$1$s ve %2$2$s.</item>
+        <item>Bu alarm şuna göre ayarlı : %3$s .</item>
+        <item>Bu alarm şuna göre ayarlı : %1$1$s ve %2$3$s.</item>
+        <item>Bu alarm şuna göre ayarlı : %1$2$s ve %2$3$s.</item>
+        <item>Bu alarm şuna göre ayarlı : %1$1$s, %2$2$s, ve %3$3$s.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Hiçbiri</item>
+        <item>Ertele</item>
+        <item>Yoksay</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

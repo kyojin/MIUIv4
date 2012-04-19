@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Data Monitor</string>
+    <string name="duration" formatted="false">Sledované obdobie %1$d.%2$d.%3$d - %4$d.%5$d.%6$d</string>
+    <string name="auto_turn_off_mobile">Vyp. 2G/3G data pri limite</string>
+    <string name="menu_refresh">Obnoviť</string>
+    <string name="menu_sort_by_name">Zoradiť podľa názvu</string>
+    <string name="menu_sort_by_traffic">Zoradiť podľa množstva dát</string>
+    <string name="menu_display_system_app">Zobraziť systémové aplikácie</string>
+    <string name="menu_not_display_system_app">Skryť systémové aplikácie</string>
+    <string name="input_max_traffic">Zadajte dátový limit</string>
+    <string name="max_traffic_monthly">Max. 2G/3G mesačne</string>
+    <string name="monitor_starting_day">Sledovať od (dňa v mesiaci)</string>
+    <string name="date_format">%s.</string>
+    <string name="traffic_none">---</string>
+    <string name="version_text">Verzia %1$s</string>
+    <string name="duration_days" formatted="false">%1$d dní %2$d hodín %3$d minút</string>
+    <string name="duration_hours" formatted="false">%1$d hodín %2$d minút</string>
+    <string name="duration_minutes">%1$d minút</string>
+    <string name="traffic_data">Sledovať</string>
+    <string name="remain">"Ostáva "</string>
+    <string name="threshold">"Varovanie "</string>
+    <string name="used">"Použité "</string>
+    <string name="exceed">Prekročené</string>
+    <string name="settings">Konfigurácia</string>
+    <string name="mobile">3G/HSDPA</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">2G/3G: %s</string>
+    <string name="wifi_format">Wi-Fi: %s</string>
+    <string name="mobile_traffic">2G/3G dáta</string>
+    <string name="network_control">Firewall</string>
+    <string name="network_monitor">Firewall</string>
+    <string name="all_apps">Všetky aplikácie</string>
+    <string name="refresh">Aktualizovať</string>
+    <string name="display_system_app">Systémové aplikácie</string>
+    <string name="force_stop">Vynútiť ukončenie</string>
+    <string name="app_detail">Detaily aplikácie</string>
+    <string name="loading_apps_list">Načítanie zoznamu, prosím o strpenie...</string>
+    <string name="apply_rules_failed_known">Neznáme</string>
+    <string name="apply_rules_failed">Nepodarilo sa aplikovať pravidlá firewallu, skúste to prosím znova.</string>
+    <string name="monitor_settings">Nastavenia</string>
+    <string name="sms_unit">Správy</string>
+    <string name="mobile_unit">MB</string>
+    <string name="first_traffic_day">Začiatok nového obdobia</string>
+    <string name="confirm_disable_monitor">Vypnutím Monitora sa preruší kontinuita sledovaných hodnôt. Po opätovnom spustení je potrebné tieto hodnoty opraviť.</string>
+    <string name="input_monitor_starting_date">Zadajte prvý deň</string>
+    <string name="input_used_traffic">Zadajte už čerpané dáta</string>
+    <string name="sms_package">Nastavenie správ</string>
+    <string name="mobile_package">Nastavenie dát</string>
+    <string name="android_system">Systém Android</string>
+    <string name="call_sms_detail_title">Volania a správy za tento mesiac</string>
+    <string name="outgoing_call">Odchodzie</string>
+    <string name="incoming_call">Príchodzie</string>
+    <string name="outgoing_sms">SMS</string>
+    <string name="outgoing_sms_number_format">%d</string>
+    <string name="traffic_detail">Zhrnutie</string>
+    <string name="upload_bytes">Odoslané %s</string>
+    <string name="download_bytes">Prijaté %s</string>
+    <string name="upload">Odoslané</string>
+    <string name="download">Prijaté</string>
+    <string name="package_settings">Nastavenie limitu dát a správ</string>
+    <string name="sms_traffic_limit">Limit správ</string>
+    <string name="mobile_traffic_limit">Limit dát</string>
+    <string name="display_status_bar_notification">Info do stavovej lišty</string>
+    <string name="notify_threshold_exceed">Limit bol dosiahnutý!</string>
+    <string name="fix_traffic">Korekcia dát</string>
+    <string name="mobile_traffic_used">Korekcia mobilných dát (tento mesiac)</string>
+    <string name="mobile_used_toast">Použité dáta: %s MB</string>
+    <string name="sms_traffic_used">Odoslaných SMS tento mesiac</string>
+    <string name="clear_traffic">Vynulovať počítadlá dát</string>
+    <string name="click_to_input">Vyplňte</string>
+    <string name="traffic_sms_detials">Detail správy</string>
+    <string name="no_sms">Protokol správ je prázdny</string>
+    <string name="loading_apps_list_failed">Chyba při načítání listu</string>
+</resources>

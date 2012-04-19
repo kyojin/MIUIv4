@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_bluetoothShareManager">Åben Download Håndtering.</string>
+    <string name="permdesc_bluetoothShareManager">Tillader at applikationen at få adgang til Bluetooth deling og anvende den til at sende filer.</string>
+    <string name="bt_share_picker_label">Bluetooth</string>
+    <string name="unknown_device">Ukendt enhed</string>
+    <string name="unknownNumber">Ukendt</string>
+    <string name="airplane_error_title">Fly-tilstand</string>
+    <string name="airplane_error_msg">Du kan ikke bruge Bluetoothnår telefonen er i Fly-tilstand.</string>
+    <string name="bt_enable_title">Bluetooth</string>
+    <string name="bt_enable_line1">For at bruge Bluetooth tjenester, skal du først aktivere Bluetooth.</string>
+    <string name="bt_enable_line2">Aktiver Bluetooth nu??</string>
+    <string name="bt_enable_cancel">Annuller</string>
+    <string name="bt_enable_ok">Aktiver</string>
+    <string name="incoming_file_confirm_title">Fil overførsel</string>
+    <string name="incoming_file_confirm_content" formatted="false">"\"%1$s\" vil sende %2$s (%3$s) til dig. 
+
+ Accepter filen?"</string>
+    <string name="incoming_file_confirm_cancel">Afvis</string>
+    <string name="incoming_file_confirm_ok">Accepter</string>
+    <string name="incoming_file_confirm_timeout_ok">Ok</string>
+    <string name="incoming_file_confirm_timeout_content">Der var timeout for accept af indkommende fil fra \"%1$s\"</string>
+    <string name="incoming_file_confirm_Notification_title">Bluetooth deling: Indkommende fil</string>
+    <string name="incoming_file_confirm_Notification_caption">Bekræft at du vil modtage denne fil</string>
+    <string name="incoming_file_toast_msg">Der er en indkommende fil fra en anden enhed, bekræft at du vil modtage denne fil</string>
+    <string name="notification_receiving">Bluetooth deling: Modtager %1$s</string>
+    <string name="notification_received">Bluetooth deling: Modtog %1$s</string>
+    <string name="notification_received_fail">Bluetooth deling: Fil %1$s ikke modtaget</string>
+    <string name="notification_sending">Bluetooth deling: Sender %1$s</string>
+    <string name="notification_sent">Bluetooth deling: Sendt %1$s</string>
+    <string name="notification_sent_complete">100% fuldført</string>
+    <string name="notification_sent_fail">Bluetooth deling: Fil %1$s blev ikke sendt</string>
+    <string name="download_title">Fil overførsel</string>
+    <string name="download_line1">Fra: \"%1$s\"</string>
+    <string name="download_line2">Fil: %1$s</string>
+    <string name="download_line3">Filstørrelse: %1$s</string>
+    <string name="download_line4" />
+    <string name="download_line5">Modtager fil…</string>
+    <string name="download_cancel">Stop</string>
+    <string name="download_ok">Skjul</string>
+    <string name="download_fail_line1">Fil ikke modtaget</string>
+    <string name="download_fail_line2">Fil: %1$s</string>
+    <string name="download_fail_line3">Fejl årsag: %1$s</string>
+    <string name="download_fail_ok">OK</string>
+    <string name="download_succ_line5">Fil modtaget</string>
+    <string name="download_succ_ok">Åben</string>
+    <string name="upload_line1">Til: \"%1$s\"</string>
+    <string name="upload_line3" formatted="false">Fil Type: %1$s (%2$s)</string>
+    <string name="upload_line5">Sender fil…</string>
+    <string name="upload_succ_line5">Fil sendt</string>
+    <string name="upload_succ_ok">OK</string>
+    <string name="upload_fail_line1">Filen blev ikke sendt til \"%1$s\".</string>
+    <string name="upload_fail_line1_2">Fil: %1$s</string>
+    <string name="upload_fail_ok">Prøv igen</string>
+    <string name="upload_fail_cancel">Luk</string>
+    <string name="bt_error_btn_ok">OK</string>
+    <string name="unknown_file">Ukendt fil</string>
+    <string name="unknown_file_desc">"Der er ingen applikation til at håndtere denne filtype. 
+"</string>
+    <string name="not_exist_file">Fil eksisterer ikke</string>
+    <string name="not_exist_file_desc">"Filen eksisterer ikke! 
+"</string>
+    <string name="enabling_progress_title">Vent venligst…</string>
+    <string name="enabling_progress_content">Aktiverer Bluetooth…</string>
+    <string name="bt_toast_1">Filen vil blive modtaget. Se fremskridt i notifikationspanelet.</string>
+    <string name="bt_toast_2">Filen vil ikke blive modtaget.</string>
+    <string name="bt_toast_3">Stoppede modtagning af fil fra \"%1$s\"</string>
+    <string name="bt_toast_4">Sender fil til \"%1$s\"</string>
+    <string name="bt_toast_5" formatted="false">Sender %1$s filer til \"%2$s\"</string>
+    <string name="bt_toast_6">Stoppede afsending af fil tl \"%1$s\"</string>
+    <string name="bt_sm_2_1">Der er ikke nok plads på SD-kortet til at gemme filen fra \"%1$s\"</string>
+    <string name="bt_sm_2_2">Plads krævet: %1$s</string>
+    <string name="ErrorTooManyRequests">For mange forespørgsler bliver behandlet. Prøv igen senere.</string>
+    <string name="status_pending">Filoverførsel ikke påbegyndt</string>
+    <string name="status_running">Filoverførsel er igang</string>
+    <string name="status_success">Filoverførslen er fuldført</string>
+    <string name="status_not_accept">Telefonen kan ikke håndtere denne type indhold</string>
+    <string name="status_forbidden">Denne overførsel er nægtet af modtagerenheden</string>
+    <string name="status_canceled">Denne overførsel blev annulleret af brugeren</string>
+    <string name="status_file_error">Lagerproblem</string>
+    <string name="status_no_sd_card">Ingen SD-kort. Indsæt kort for at gemme overførte filer.</string>
+    <string name="status_connection_error">Fejl ved forbindelse</string>
+    <string name="status_protocol_error">Forespørgslen kan ikke behandles korrekt</string>
+    <string name="status_unknown_error">Ukendt fejl</string>
+    <string name="btopp_live_folder">Bluetooth modtaget</string>
+    <string name="download_success">%1$s modtaget.</string>
+    <string name="upload_success">%1$s Afsendt.</string>
+    <string name="inbound_history_title">Ingående overførsler</string>
+    <string name="outbound_history_title">Udgående overførsler</string>
+    <string name="no_transfers">Overførselshistorik er tom.</string>
+    <string name="transfer_clear_dlg_msg">Alle elementer vil blive ryddet fra listen.</string>
+    <string name="outbound_noti_title">Bluetooth deling: Sendte filer</string>
+    <string name="inbound_noti_title">Bluetooth deling: Modtagede filer</string>
+    <string name="noti_caption" formatted="false">%1$s fuldført, %2$s mislykkedes.</string>
+    <string name="transfer_menu_clear_all">Ryd liste</string>
+    <string name="transfer_menu_open">Åben</string>
+    <string name="transfer_menu_clear">Ryd fra liste</string>
+    <string name="transfer_clear_dlg_title">Ryd</string>
+    <string name="bluetooth_share_file_name">bluetooth_indholdsdeling</string>
+    <string name="sharedUserId" />
+    <string name="process" />
+    <string name="pbap_session_key_dialog_title">Indtast sesionsnøgle for %1$s</string>
+    <string name="pbap_session_key_dialog_header">Bluetooth sessionsnøgle påkrævet</string>
+    <string name="pbap_acceptance_timeout_message">Der opstod timeout for acceptering af forbindelse med %1$s</string>
+    <string name="pbap_authentication_timeout_message">Der opstod timeout for indtastning af sessionsnøgle med %1$s</string>
+    <string name="auth_notif_ticker">Anmodning om Obex godkendelse</string>
+    <string name="auth_notif_title">Sessionsnøgle</string>
+    <string name="auth_notif_message">Indtast sessionsnøgle for %1$s</string>
+    <string name="defaultname">Bil-kit</string>
+    <string name="unknownName">Ukendt navn</string>
+    <string name="localPhoneName">Mit navn</string>
+    <string name="defaultnumber">000000</string>
+    <string name="hello">Hej Verden, TestAktivitet</string>
+    <string name="app_name">Bluetooth Deling</string>
+    <string name="insert_record">Indsæt optegnelse</string>
+    <string name="update_record">Bekræft optegnelse</string>
+    <string name="ack_record">Anerkend optegnelse</string>
+    <string name="deleteAll_record">Slet alle optegnelser</string>
+    <string name="ok_button">OK</string>
+    <string name="delete_record">Slet optegnelse</string>
+    <string name="start_server">Start TCP server</string>
+    <string name="notify_server">Notificer TCP server</string>
+    <string name="pbap_acceptance_dialog_title" formatted="false">%1$s vil gerne have adgang til dine kontakter og opkaldshistorik. Giv adgang til %2$s?</string>
+    <string name="pbap_acceptance_dialog_header">Adgang til telefonbog</string>
+    <string name="pbap_notif_ticker">Anmodning om adgang til telefonbog</string>
+    <string name="pbap_notif_title">PBAP Anmodning</string>
+    <string name="pbap_notif_message">Tillad adgang til telefonbog til %1$s</string>
+    <string name="alwaysallowed">Tillad altid?</string>
+</resources>

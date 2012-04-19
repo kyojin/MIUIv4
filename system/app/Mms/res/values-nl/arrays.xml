@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-D</item>
+        <item>;-)</item>
+        <item>%-)</item>
+        <item>&amp;amp;amp;amp;amp;lt;_>¦¦¦</item>
+        <item>∩_∩</item>
+        <item>;-></item>
+        <item>:-(</item>
+        <item>;-(</item>
+        <item>∠※</item>
+        <item>:-x</item>
+        <item>:-></item>
+        <item>B-)</item>
+        <item>*^‧^*</item>
+        <item>○^~^○</item>
+        <item>:-P</item>
+        <item>:-)</item>
+        <item>:-*</item>
+        <item>:-/</item>
+        <item>:-@</item>
+        <item>°ο°/~</item>
+        <item>:-@</item>
+        <item>:-O</item>
+        <item>⊙⊙?</item>
+        <item>~o~/~</item>
+        <item>:-J</item>
+        <item>→_→</item>
+        <item>\@ο@</item>
+        <item>^人^</item>
+        <item>人^人</item>
+        <item>^_^)Y</item>
+        <item>ōk</item>
+        <item>-ิo-ิ</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>Niet</item>
+        <item>2 maal</item>
+        <item>3 maal</item>
+        <item>5 maal</item>
+        <item>10 maal</item>
+    </string-array>
+    <string-array name="prefValues_ringtone_repeat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Naam</item>
+        <item>Nickname</item>
+        <item>Telefoon</item>
+        <item>Mail</item>
+        <item>Bedrijf</item>
+        <item>IM</item>
+        <item>VOIP</item>
+        <item>Verjaardag</item>
+        <item>Website</item>
+        <item>Adres</item>
+        <item>Opmerkingen</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 seconde</item>
+        <item>2 seconden</item>
+        <item>3 seconden</item>
+        <item>4 seconden</item>
+        <item>5 seconden</item>
+        <item>6 seconden</item>
+        <item>7 seconden</item>
+        <item>8 seconden</item>
+        <item>9 seconden</item>
+        <item>10 seconden</item>
+        <item>Anders…</item>
+    </string-array>
+    <string-array name="extend_smiley_texts">
+        <item>::>_&amp;amp;amp;amp;amp;lt;::</item>
+        <item>&amp;amp;amp;amp;amp;lt;_>¦¦¦</item>
+        <item>~~~^_^~~~</item>
+        <item>~~~(>_&amp;amp;amp;amp;amp;lt;)~~~</item>
+        <item>╮〔╯ε╰〕╭</item>
+        <item>^_^/~~</item>
+        <item>o∩_∩o</item>
+        <item>°ο°/~</item>
+        <item>^_^)Y</item>
+        <item>-ิo-ิ</item>
+        <item>^(oo)^</item>
+        <item>~o~/~</item>
+        <item>*^o^*</item>
+        <item>ˋ_ˊ¦¦</item>
+        <item>○^~^○</item>
+        <item>\#^_^</item>
+        <item>^口^</item>
+        <item>人^人</item>
+        <item>^人^</item>
+        <item>一-一</item>
+        <item>π_π</item>
+        <item>\@ο@</item>
+        <item>:-x</item>
+        <item>T_T</item>
+        <item>Ｏrz</item>
+        <item>:-P</item>
+        <item>:-O</item>
+        <item>︶︿︶</item>
+        <item>╯^╰</item>
+        <item>〒_〒</item>
+        <item>;-(</item>
+        <item>:-(</item>
+        <item>;-></item>
+        <item>∩_∩</item>
+        <item>%-)</item>
+        <item>→_→</item>
+        <item>¯^¯</item>
+        <item>⊙⊙?</item>
+        <item>⊙.⊙</item>
+        <item>:-@</item>
+        <item>;-)</item>
+        <item>^÷^</item>
+        <item>:-@</item>
+        <item>╰_╯</item>
+        <item>ˋ^ˊ</item>
+        <item>:-/</item>
+        <item>:-*</item>
+        <item>:-)</item>
+        <item>^_^</item>
+        <item>$_$</item>
+        <item>:-></item>
+        <item>:-D</item>
+        <item>B-)</item>
+        <item>b_d</item>
+        <item>:P</item>
+        <item>ōk</item>
+        <item>∠※</item>
+        <item>:-J</item>
+        <item>:)</item>
+        <item>:(</item>
+        <item>:D</item>
+    </string-array>
+</resources>

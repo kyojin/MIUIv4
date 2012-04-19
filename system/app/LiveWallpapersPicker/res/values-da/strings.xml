@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Live Tapet vælger</string>
+    <string name="live_wallpaper_picker_title">Live tapeter</string>
+    <string name="live_wallpaper_preview_title">Live tapeter preview</string>
+    <string name="configure_wallpaper">Indstillinger…</string>
+    <string name="wallpaper_instructions">Indstil tapet</string>
+    <string name="live_wallpaper_empty">Ingen live tapeter.</string>
+    <string name="set_live_wallpaper">Indstil tapet</string>
+    <string name="wallpaper_title_and_author" formatted="false">%1$s af %2$s</string>
+    <string name="live_wallpaper_loading">Indlæser Live tapet…</string>
+</resources>

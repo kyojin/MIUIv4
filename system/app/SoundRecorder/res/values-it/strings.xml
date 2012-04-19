@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registratore</string>
+    <string name="recording">Registrazione</string>
+    <string name="recording_stopped">Registrazione interrotta</string>
+    <string name="storage_is_full">Memoria piena</string>
+    <string name="max_length_reached">Lunghezza massima raggiunta</string>
+    <string name="insert_sd_card">Inserire scheda SD</string>
+    <string name="button_ok">Ok</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">Tue registrazioni</string>
+    <string name="audio_db_album_name">Registrazioni audio</string>
+    <string name="audio_db_playlist_name">Le mie registrazioni</string>
+    <string name="error_sdcard_access">Impossibile accedere alla scheda SD</string>
+    <string name="error_app_internal">"Errore interno dell'applicazione"</string>
+    <string name="error_mediadb_new_record">Impossibile salvare registrazione</string>
+    <string name="default_record_name">Registrazione</string>
+    <string name="menu_view_record_list">Lista registrazioni</string>
+    <string name="menu_setting">Impostazioni</string>
+    <string name="delete_dialog_title">Vuoi eliminare questa registrazione ?</string>
+    <string name="overwrite_dialog_title">%s già esistente, vuoi sovrascrivere ?</string>
+    <string name="preferences_title">Impostazioni</string>
+    <string name="pref_title_record_type">Tipo registrazione</string>
+    <string name="prefDialogTitle_recordType">Selezionare tipo di file</string>
+    <string name="prefDefault_recordType">audio/amr</string>
+    <string name="pref_title_enable_high_quality">Abilita alta qualità</string>
+    <string name="pref_summary_enable_high_quality">Il file in alta qualità potrebbe avere grandi dimensioni</string>
+    <string name="pref_title_enable_sound_effect">Abilita effetti sonori</string>
+    <string name="pref_summary_enable_sound_effect">"Riproduci effetti sonori durante l'utilizzo"</string>
+    <string name="notification_recording">Registrazione</string>
+    <string name="notification_stopped">Registrazione interrotta</string>
+</resources>

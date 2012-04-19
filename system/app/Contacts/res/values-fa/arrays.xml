@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pick_photo_values">
+        <item>گرفتن عکس</item>
+        <item>از گالری</item>
+        <item>انتخاب آواتار</item>
+        <item>بازنشانی پیش فرض</item>
+    </string-array>
+    <string-array name="pick_incoming_call_photo_values">
+        <item>گرفتن عکس</item>
+        <item>از گالری</item>
+    </string-array>
+    <string-array name="edit_incoming_call_photo_values">
+        <item>گرفتن عکس</item>
+        <item>از گالری</item>
+        <item>ویرایش اندازه تصویر</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="click_shortcut_entries">
+        <item>تماس با مخاطب</item>
+        <item>جزئیات مخاطب</item>
+        <item>منوی میانبر</item>
+    </string-array>
+</resources>

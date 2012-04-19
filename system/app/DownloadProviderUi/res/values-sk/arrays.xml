@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>Priame stiahnutie</item>
+        <item>App Share</item>
+        <item>Hudba</item>
+        <item>Téma</item>
+        <item>Prehliadač</item>
+        <item>Ostatné</item>
+    </string-array>
+</resources>

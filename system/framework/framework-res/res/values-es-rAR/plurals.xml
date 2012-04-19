@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_seconds_ago">
+        <item quantity="other">hace %d segundos</item>
+        <item quantity="one">hace 1 segundo</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">hace %d minutos</item>
+        <item quantity="one">hace 1 minuto</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">hace %d horas</item>
+        <item quantity="one">hace 1 hora</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Últimos %d días</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">hace %d días</item>
+        <item quantity="one">ayer</item>
+    </plurals>
+    <plurals name="in_num_seconds">
+        <item quantity="other">en %d segundos</item>
+        <item quantity="one">en 1 segundo</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">en %d minutos</item>
+        <item quantity="one">en 1 minuto</item>
+    </plurals>
+    <plurals name="in_num_hours">
+        <item quantity="other">en %d horas</item>
+        <item quantity="one">en 1 hora</item>
+    </plurals>
+    <plurals name="in_num_days">
+        <item quantity="other">en %d días</item>
+        <item quantity="one">mañana</item>
+    </plurals>
+    <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">hace %d s</item>
+        <item quantity="one">hace 1 s</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">hace %d min</item>
+        <item quantity="one">hace 1 min</item>
+    </plurals>
+    <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">hace %d horas</item>
+        <item quantity="one">hace 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_num_days_ago">
+        <item quantity="other">hace %d días</item>
+        <item quantity="one">ayer</item>
+    </plurals>
+    <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">en %d s</item>
+        <item quantity="one">en 1 s</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">en %d min</item>
+        <item quantity="one">en 1 min</item>
+    </plurals>
+    <plurals name="abbrev_in_num_hours">
+        <item quantity="other">en %d horas</item>
+        <item quantity="one">en 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">en %d días</item>
+        <item quantity="one">mañana</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">Redes Wi-Fi disponibles</item>
+        <item quantity="one">Red Wi-Fi disponible</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Redes Wi-Fi abiertas dispnibles</item>
+        <item quantity="one">Red Wi-Fi abierta disponible</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Recién</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Hace menos de un minuto</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">En un minuto</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">En menos de un minuto</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Hace 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Hace 1/2 hora</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Hace una hora</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Hace media hora</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">En 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">En 1/2 hora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">En una hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">En media hora</item>
+    </plurals>
+</resources>

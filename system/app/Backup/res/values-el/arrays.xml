@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Δεδομένα Wi-Fi</item>
+        <item>Όλες οι εφαρμογές</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Γκαλερί</item>
+        <item>Μουσική</item>
+        <item>Ηχογράφηση</item>
+        <item>Browser</item>
+        <item>Κάμερα</item>
+        <item>Διαχείρηση αρχείων</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Επαφές</item>
+        <item>Μητρώο κλήσεων</item>
+        <item>Μηνύματα</item>
+        <item>Multimedia Messages</item>
+        <item>Ρυθμίσεις συστήματος</item>
+        <item>Ρυθμίσεις Wi-Fi</item>
+        <item>Διάταξη επιφ.εργασίας</item>
+        <item>Ρυθμίσεις αφύπνισης</item>
+        <item>Σημειώσεις</item>
+        <item>Ρυθμίσεις προστασίας</item>
+        <item>Τρέχον θέμα</item>
+        <item>Superuser</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>(Δεδομένα)</item>
+        <item>(Εφαρμογές)</item>
+        <item>(Δεδομένα + Εφαρμογές)</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Επαφές</item>
+        <item>Μητρώο κλήσεων</item>
+        <item>Μηνύματα</item>
+        <item>Ρυθμίσεις Wi-Fi</item>
+        <item>Σημειώσεις</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Επαφές</item>
+        <item>Ρυθμίσεις Wi-Fi</item>
+        <item>Σημειώσεις</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Μητρώο</item>
+        <item>Μηνύματα</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">مدیریت دانلود</string>
+    <string name="permlab_downloadManager">دسترسی به مدیریت دانلود.</string>
+    <string name="permdesc_downloadManager">اجازه دادن به برنامه برای دسترسی به مدیریت دانلود و استفاده از آن برای دانلود فایل ها. برنامه های مخرب میتوانند از این ویژگی استفاده کرده و دانلودها را مختل کنند و به اطلاعات خصوصی دسترسی پیدا کنند.</string>
+    <string name="permlab_downloadManagerAdvanced">عملکرد پیشرفته مدیریت دانلود</string>
+    <string name="permdesc_downloadManagerAdvanced">اجازه دادن به برنامه برای دسترسی به عملکرد پیشرفته مدیریت دانلود. برنامه های مخرب میتوانند از این ویژگی استفاده کرده و دانلودها را مختل کنند و به اطلاعات خصوصی دسترسی پیدا کنند.</string>
+    <string name="permlab_downloadCompletedIntent">اعلان های دانلود ارسال شود.</string>
+    <string name="permdesc_downloadCompletedIntent">به برنامه کاربردی اجازه می دهد درباره دانلودهای کامل شده اعلان هایی ارسال کند. برنامه های مخرب می توانند از این ویژگی برای گمراه کردن سایر برنامه هایی که فایل ها را دانلود می کنند، استفاده نمایند.</string>
+    <string name="permlab_seeAllExternal">مشاهده همه دانلودها در کارت حافظه</string>
+    <string name="permdesc_seeAllExternal">به برنامه کاربردی اجازه می دهد همه موارد دانلود شده در کارت حافظه را صرفنظر از برنامه مورد استفاده برای دانلود آنها مشاهده کند.</string>
+    <string name="permlab_downloadCacheNonPurgeable">ذخیره فضا در حافظه موقت دانلود</string>
+    <string name="permdesc_downloadCacheNonPurgeable">به برنامه کاربردی اجازه می دهد فایل ها را در حافظه موقت دانلود کند که وقتی مدیریت دانلود به فضای بیشتری احتیاج دارد به طور خودکار حذف نشوند.</string>
+    <string name="permlab_downloadWithoutNotification">دانلود فایلها بدون اعلان</string>
+    <string name="permdesc_downloadWithoutNotification">بدون نمایش اعلان به کاربر، به برنامه کاربردی اجازه می دهد فایل ها را از طریق مدیریت دانلود، دانلود کند.</string>
+    <string name="permlab_accessAllDownloads">دسترسی به همه دانلودهای سیستم</string>
+    <string name="permdesc_accessAllDownloads">به برنامه اجازه میدهد که همه مواردی که توسط برنامه های روی سیستم راه اندازی شده است را مشاهده و اصلاح کند.</string>
+    <string name="download_unknown_title">&lt;بدون عنوان></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" and %d بیشتر"</string>
+    <string name="notification_download_complete">دانلود انجام شد</string>
+    <string name="notification_download_failed">دانلود ناموفق</string>
+    <string name="notification_need_wifi_for_size">اندازه دانلود به اتصال وای فای نیاز دارد</string>
+    <string name="wifi_required_title">دانلود برای شبکه اپراتور بسیار بزرگ است</string>
+    <string name="wifi_required_body" formatted="false">"برای دانلود این %s  باید از WiFi استفاده کنید. برای اینکه دفعه بعد که به شبکه WiFi وصل می شوید، این دانلود شود، روی
+
+کلیک کنید %s ."</string>
+    <string name="wifi_recommended_title">برای دانلود در فرصتی دیگر در صف گذاشته شود؟</string>
+    <string name="wifi_recommended_body" formatted="false">"شروع دانلود این %s  ممکن است باعث کاهش عمر باتری شما و/یا استفاده بیش از حد از اتصال داده تلفن همراه شما شود که بسته به برنامه داده شما می تواند منجر به هزینه توسط اپراتور تلفن همراه شما شود. 
+
+ برای اینکه دفعه بعد که به شبکه WiFi وصل می شوید این دانلود انجام شود، روی %s در زیر کلیک کنید."</string>
+    <string name="button_queue_for_wifi">صف</string>
+    <string name="button_cancel_download">لغو</string>
+    <string name="button_start_now">شروع کن</string>
+</resources>

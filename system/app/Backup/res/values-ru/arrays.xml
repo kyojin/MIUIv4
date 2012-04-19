@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Параметры WiFi</item>
+        <item>Все приложения</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Gallery</item>
+        <item>Music</item>
+        <item>Recorder</item>
+        <item>Browser</item>
+        <item>Camera</item>
+        <item>File Explorer</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Адресная книга</item>
+        <item>Журнал звонков</item>
+        <item>Текстовые сообщения</item>
+        <item>Multimedia Messages</item>
+        <item>System Settings</item>
+        <item>Параметры WiFi</item>
+        <item>Пар.Рабочего стола</item>
+        <item>Alarm Settings</item>
+        <item>Заметки</item>
+        <item>Block Settings</item>
+        <item>CurrentTheme</item>
+        <item>Superuser</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Данные</item>
+        <item>Приложения</item>
+        <item>Приложения+Данные</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Адресная книга</item>
+        <item>Журнал звонков</item>
+        <item>Текстовые сообщения</item>
+        <item>Параметры WiFi</item>
+        <item>Notes</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Contacts</item>
+        <item>WLAN Settings</item>
+        <item>Notes</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Call Logs</item>
+        <item>Messages</item>
+    </string-array>
+</resources>

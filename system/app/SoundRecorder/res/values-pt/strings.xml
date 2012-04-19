@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gravador de som</string>
+    <string name="recording">A Gravar</string>
+    <string name="recording_stopped">Gravação interrompida</string>
+    <string name="storage_is_full">O armazenamento está cheio</string>
+    <string name="max_length_reached">Tamanho máximo atingido</string>
+    <string name="insert_sd_card">Insira um Cartão SD</string>
+    <string name="button_ok">OK</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">Suas gravações</string>
+    <string name="audio_db_album_name">Gravações de áudio</string>
+    <string name="audio_db_playlist_name">Minhas gravações</string>
+    <string name="error_sdcard_access">Não é possível aceder ao Cartão SD</string>
+    <string name="error_app_internal">Erro interno da aplicação</string>
+    <string name="error_mediadb_new_record">Não é possível guardar o áudio gravado</string>
+    <string name="default_record_name">gravação sem título</string>
+    <string name="menu_view_record_list">Visualizar gravações</string>
+    <string name="menu_setting">Definições</string>
+    <string name="delete_dialog_title">Deseja apagar esta gravação?</string>
+    <string name="overwrite_dialog_title">"%s já existe.
+Pretende substituir?"</string>
+    <string name="preferences_title">Definições</string>
+    <string name="pref_title_record_type">Tipo de arquivo da gravação</string>
+    <string name="prefDialogTitle_recordType">Por favor, seleccione o tipo de arquivo</string>
+    <string name="prefDefault_recordType">audio/amr</string>
+    <string name="pref_title_enable_high_quality">Habilitar alta qualidade</string>
+    <string name="pref_summary_enable_high_quality">Alta qualidade resulta em arquivos maiores</string>
+    <string name="pref_title_enable_sound_effect">Habilitar efeitos</string>
+    <string name="pref_summary_enable_sound_effect">Tocar um som quando o estado de gravação é alterado</string>
+    <string name="notification_recording">A Gravar</string>
+    <string name="notification_stopped">Gravação parada</string>
+</resources>

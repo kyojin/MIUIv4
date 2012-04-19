@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Média</string>
+    <string name="app_label">Úložistě médií</string>
+    <string name="artist_label">Interpret</string>
+</resources>

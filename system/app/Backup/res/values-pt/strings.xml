@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Backup</string>
+    <string name="local_app_name">Backup</string>
+    <string name="local_home_title">Backup local</string>
+    <string name="button_backup">Backup</string>
+    <string name="start_backup">Iniciar backup</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="backup_empty">Não foram encontrados backups!</string>
+    <string name="backup_items_sysdata_tailer">" Dados do sistema"</string>
+    <string name="backup_items_app_tailer">" Aplicações"</string>
+    <string name="backup_failed">Back up failed! Try again</string>
+    <string name="backup_recently">" (recentes)"</string>
+    <string name="sdcard_unmounted">Cartão SD não encontrado ou desmontado!</string>
+    <string name="backup_progress">Efectuando backup...</string>
+    <string name="button_ok">Ok</string>
+    <string name="backup_finished">Backup completo</string>
+    <string name="backup_report">Backup report</string>
+    <string name="backup_hint">Avoid restarting the phone, use normal turn off to avoid data corruption</string>
+    <string name="menu_patch_delete">Apagar</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete_backup">Apagar backup</string>
+    <string name="delete_backup_confirm">"
+Backup será apagado, confirmar?"</string>
+    <string name="delete_backup_process">Apagando backup...</string>
+    <string name="backup_error">Backup Error</string>
+    <string name="delete_failed_backup_confirm">The backup has error, cannot restore from this backup</string>
+    <string name="batch_delete_backup_confirm">O backup seleccionado será apagado, deseja continuar?</string>
+    <string name="start_restore">Recuperar</string>
+    <string name="backup_file_error">Houve um problema com o backup, a operação não era válida.</string>
+    <string name="unit_byte">" bytes"</string>
+    <string name="unit_piece">" dados"</string>
+    <string name="restore_finished">Recuperação concluída</string>
+    <string name="restore_report">Restore report</string>
+    <string name="restore_progress">Recuperando...</string>
+    <string name="restore_contacts_hit">" (Obs.: Será necessário recuperar manualmente os contactos)"</string>
+    <string name="restore_telephony_hit">" (Obs.: O processo de recuperação irá reiniciar a aplicação de telefone)"</string>
+    <string name="restore_launcher_layout_hit">" (Obs.: O processo irá recuperar backup do tema do ecrã inicial)"</string>
+    <string name="settings_summary">(Registos de chamadas, sms, etc.)</string>
+    <string name="cloud_app_name">Backup online</string>
+    <string name="cloud_home_title">Backup online</string>
+    <string name="prompt_reading">A Ler...</string>
+    <string name="prompt_sending">Enviando...</string>
+    <string name="prompt_writing">A gravar...</string>
+    <string name="backup_new">Novo</string>
+    <string name="backup_update">Actualizar</string>
+    <string name="backup_delete">Apagar</string>
+    <string name="findlost_contact">Ver contactos apagados</string>
+    <string name="findlost_contact_online">Find contact online</string>
+    <string name="cloud_backup_login">MIUI Account</string>
+    <string name="cloud_backup_hint">"You need to be logged in
+ to back up, restore data, and
+do automatic backup to ensure data security"</string>
+    <string name="cloud_backup_window_title">Backup online</string>
+    <string name="cloud_restore_window_title">Recuperação de dados online</string>
+    <string name="cloud_restore_title">Restore backup data</string>
+    <string name="local_backup_window_title">Backup local</string>
+    <string name="local_restore_window_title">Recuperação de dados</string>
+    <string name="account_login">Autenticar</string>
+    <string name="miliao_account_login">Login MiTalk</string>
+    <string name="miliao_account_guide">"MiTalk upgraded to Xiaomi account
+ Enjoy all Xiaomi online services"</string>
+    <string name="auto_backup">Backup automático</string>
+    <string name="contact_title">Contactos</string>
+    <string name="call_title">Registo de chamadas</string>
+    <string name="sms_title">SMS</string>
+    <string name="wifi_title">Definições Wi-Fi</string>
+    <string name="note_title">Notes</string>
+    <string name="compute_backup_info">Informações do backup</string>
+    <string name="compute_delete_contact_info">Delete contact information</string>
+    <string name="unknown_hint">Desconhecido</string>
+    <string name="task_progress">Progresso</string>
+    <string name="task_pending">Aguardando</string>
+    <string name="task_pre_running">Pré-processamento</string>
+    <string name="task_post_running">Pós-processamento</string>
+    <string name="task_finished">Concluído</string>
+    <string name="task_canceled">Cancelado</string>
+    <string name="task_failed">Falha</string>
+    <string name="task_canceled_local">%1$s task(s) cancelled</string>
+    <string name="task_canceled_all_local">Cancel all task(s)</string>
+    <string name="task_failed_local">Faile to cancel %1$s task(s)</string>
+    <string name="task_failed_all_local">Cancel failed</string>
+    <string name="task_backup_finished_local">Backup complete</string>
+    <string name="task_restore_finished_local">Restore complete</string>
+    <string name="task_stopped_exception">Operation aborted</string>
+    <string name="sdcard_no_enough_space">Not enough SD card space, clear and try again</string>
+    <string name="sdcard_no_enough_space_warning">SD card space is approx. 50Mb, the backup may fail, continue?</string>
+    <string name="data_no_enough_space">Not enough space available, clear space and try again</string>
+    <string name="data_no_enough_space_warning">Available storage is 30M,restore may fail, continue?</string>
+    <string name="task_running_hint">O serviço está a ser executado em segundo plano.</string>
+    <string name="task_running_dialog">Backup e recuperação em curso, para vê-lo, clique OK!</string>
+    <string name="task_service_not_launched">Serviço de backup não iniciado, aguarde!</string>
+    <string name="task_local_backup_cancel_dialog">"Backup has not completed
+Click OK to cancel backup"</string>
+    <string name="task_cloud_backup_cancel_dialog">"Backup has not been completed
+Click OK to cancel this task"</string>
+    <string name="task_restore_cancel_dialog">"Recovery has not yet completed
+ cancelling at this time can lead to data corruption"</string>
+    <string name="task_backup_cancel_progress">Cancel in progress...</string>
+    <string name="task_restore_cancel_progress">Stopping...</string>
+    <string name="nothing_searched">Nenhum resultado encontrado</string>
+    <string name="restore_counts">Recuperação:</string>
+    <string name="service_stoped">Serviço interrompido</string>
+    <string name="sc_network_unavailable">Rede indisponível</string>
+    <string name="sc_bad_request">Bad request</string>
+    <string name="sc_unaccess_password_file">Não memorizar senhas Wi-Fi</string>
+    <string name="sc_service_unavailable">Serviço indisponível</string>
+    <string name="sc_unauthorized">Não autorizado</string>
+    <string name="sc_request_timeout">A solicitação expirou</string>
+    <string name="sc_precondition_failed">Your Xiaomi account has not been bound with any email address</string>
+    <string name="sc_internal_server_error">Erro do servidor</string>
+    <string name="sc_others">Erro de programa</string>
+    <string name="button_return">Voltar</string>
+    <string name="button_next">Avançar</string>
+    <string name="button_finish">Finalizar</string>
+    <string name="progress_backup_hint">"Efectuando backup dos dados "</string>
+    <string name="cancel_backup">Cancelar backup</string>
+    <string name="restore_contact">Restore contacts</string>
+    <string name="restore_contact_content">"Restoring these contacts may result to duplications
+:You can merge this contacts in settings"</string>
+    <string name="progress_restore_hint">"Recuperando dados "</string>
+    <string name="cancel_restore">Cancelar recuperação</string>
+    <string name="local_select_sysdata">Sistema</string>
+    <string name="local_select_userapp">Aplicações</string>
+    <string name="local_no_backup">No local backup(s)</string>
+    <string name="auto_backup_setting_title">Backup automático</string>
+    <string name="auto_backup_open">Activar backup automático</string>
+    <string name="auto_backup_only_wifi">Apenas com Wi-Fi</string>
+    <string name="auto_backup_interval">Frequência backup (dias)</string>
+    <string name="auto_backup_interval_hint">%d Day(s)</string>
+    <string name="auto_backup_time">Backup automático</string>
+    <string name="auto_backup_choose_title">Backup agendado</string>
+    <string name="auto_backup_choose">Opções de backup</string>
+    <string name="auto_backup_choose_empty">Nenhum</string>
+    <string name="auto_backup_progress">Backup agendado em progresso...</string>
+    <string name="auto_backup_interval_min">1 Day</string>
+    <string name="auto_backup_interval_max">30 Days</string>
+    <string name="cloud_last_backup">Last backup:</string>
+    <string name="cloud_search">Searching...</string>
+    <string name="cloud_no_backup">No backup</string>
+    <string name="current_account">Current account:%s</string>
+    <string name="current_sim">Current SIM</string>
+    <string name="date_format">yyyy/MM/dd HH:mm:ss</string>
+    <string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>
+    <string name="no_network">"No network connection
+Please check your connection and try again"</string>
+    <string name="retry">Retry</string>
+    <string name="select_all">Select all</string>
+    <string name="reverse_all">Clear all</string>
+    <string name="refresh">Refresh</string>
+    <string name="cloud_item_info_summary" formatted="false">(Local %1$s | Online %2$s)</string>
+    <string name="total_num">%d record(s) in total</string>
+    <string name="cloud_restore_guide">"Click Start restoring to restore data
+ You may also restore %s in Backup"</string>
+    <string name="import_from_xiaomi_account_hint1">"1. Start a phone with contacts
+
+2. Install MiTalk and log in.
+ http://www.miliao.com
+
+3. Enter MiTalk settings and choose â€\u009dBack up contacts to Xiaomi accountâ€\u009d"</string>
+    <string name="import_from_xiaomi_account_hint2">Note: Go to next step if backup has already existed</string>
+    <string name="import_from_xiaomi_account_hint_title">Use MiTalk to back up contacts on other devices, not MI-ONE</string>
+    <string name="task_backup_succeed">Backup efectuado!</string>
+    <string name="task_backup_failed">Backup falhado!</string>
+    <string name="task_restore_succeed">Recuperação efectuada com sucesso!</string>
+    <string name="task_restore_failed">Falha no processo de recuperação</string>
+    <string name="cloud_backup">Backup</string>
+    <string name="cloud_restore">Restore</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voiceDialer">Sesli Arama</string>
+    <string name="tool_tip_title">Biliyor muydunuz ...</string>
+    <string name="tool_tip_message">Yeşil Çağrı düğmesine basılı tutmak Sesli Aramayı etkinleştirir</string>
+    <string name="examples">" Örnek: &lt;b> 
+\"Ara Serkan Çolak\" 
+\"Ara Serkan Çolak Ev, …\" 
+\"Ara Sesli mesaj\" 
+\"Çevir (232) 444 1903 \" 
+\"Çevir 155, 121, …\" 
+\"Çevir +44 7333 444 555\" 
+\"Tekrar ara\" 
+\"Takvimi aç\" &lt;/b> "</string>
+    <string name="title">Sesli Arama</string>
+    <string name="bluetooth_title">Bluetooth Sesli Çevirici</string>
+    <string name="initializing">Başlatılıyor.</string>
+    <string name="listening">Dinleniyor...</string>
+    <string name="please_try_again">Lütfen yeniden deneyin.</string>
+    <string name="failure">Başarısız</string>
+    <string name="recognition_error">Ayrıca, telefonunuzu yeniden başlatmayı deneyebilirsiniz.</string>
+    <string name="headset_connection_lost">Kulaklıkla bağlantı kesilmiş.</string>
+    <string name="at_home">" Ev'de"</string>
+    <string name="on_mobile">"U0020Cep'te"</string>
+    <string name="at_work">" İş'te"</string>
+    <string name="at_other">" Başka"</string>
+    <string name="logging_enabled">Sesli arama günlüğü etkin.</string>
+    <string name="logging_disabled">Sesli arama günlüğü devre dışı.</string>
+    <string name="speak_now_tts">Şimdi konuşun.</string>
+    <string name="no_results_tts">Hiçbir sonuç yok, tekrar deneyin.</string>
+    <string name="invalid_choice_tts">Geçersiz seçenek.</string>
+    <string name="goodbye_tts">Güle güle.</string>
+</resources>

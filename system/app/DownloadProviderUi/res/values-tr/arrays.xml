@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>Tüm İndirmeler</item>
+        <item>Ağ</item>
+        <item>Müzik</item>
+        <item>Tema</item>
+        <item>Tarayıcı</item>
+        <item>Diğer</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Download Manager</string>
+    <string name="permlab_downloadManager">Toegang download manager.</string>
+    <string name="permdesc_downloadManager">Laat de toepassing van de download manager toegang tot en het gebruiken om bestanden te downloaden. Schadelijke toepassingen kunnen dit gebruiken om downloads en toegang tot prive-informatie te verstoren.</string>
+    <string name="permlab_downloadManagerAdvanced">Uitgebreide download manager functies.</string>
+    <string name="permdesc_downloadManagerAdvanced">Geeft de toepassing toegang tot de download managers geavanceerde functies. Schadelijke toepassingen kunnen dit gebruiken om downloads en toegang tot prive-informatie te verstoren.</string>
+    <string name="permlab_downloadCompletedIntent">Stuur download meldingen.</string>
+    <string name="permdesc_downloadCompletedIntent">Laat de toepassing meldingen sturen over voltooide downloads. Schadelijke toepassingen kunnen dit gebruiken om andere toepassingen te verwarren die bestanden downloaden.</string>
+    <string name="permlab_seeAllExternal">Bekijk alle downloads op SD-kaart</string>
+    <string name="permdesc_seeAllExternal">Laat de toepassing alle downloads zien op de SD-kaart, ongeacht welke applicatie ze heeft gedownload.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Ruimte gereserveerd in de download-cache</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Hiermee kan de toepassing om bestanden te downloaden naar de download-cache die niet automatisch kan worden verwijderd wanneer de download manager meer ruimte nodig heeft.</string>
+    <string name="permlab_downloadWithoutNotification">Downloaden van bestanden zonder kennisgeving</string>
+    <string name="permdesc_downloadWithoutNotification">Hiermee kan de toepassing om bestanden te downloaden via de download manager, zonder enige kennisgeving worden getoond aan de gebruiker.</string>
+    <string name="permlab_accessAllDownloads">Toegang tot alle systeem downloads</string>
+    <string name="permdesc_accessAllDownloads">Hiermee kan de toepassing bekijken en aanpassen alle geïnitieerd door een toepassing op het systeem.</string>
+    <string name="download_unknown_title">&lt;Zonder titel></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" en %d meer"</string>
+    <string name="notification_download_complete">Download compleet</string>
+    <string name="notification_download_failed">Download mislukt</string>
+    <string name="notification_need_wifi_for_size">Download grootte heeft Wi-Fi nodig</string>
+    <string name="wifi_required_title">Download te groot voor operator netwerk</string>
+    <string name="wifi_required_body" formatted="false">"Je moet gebruik maken van WiFi om deze %s download compleet te maken. 
+
+Klik %s om deze donwload te startenwanneer je de volgende keer verbinding hebt met een WiFi netwerk."</string>
+    <string name="wifi_recommended_title">In de wacht voor later downloaden?</string>
+    <string name="wifi_recommended_body" formatted="false">"Door deze %s download te starten gaat je batterij korter mee en/of resulteert in overmatig gebruik van je mobiele data verbinding, wat kan leiden tot extra kosten van je mobiele telefoon provider afhankelijk van je data plan.
+
+ Klik %s hieronder om de download te beginnen de eerst volgende keer dat je bent verbonden met een WiFi netwerk."</string>
+    <string name="button_queue_for_wifi">Queue</string>
+    <string name="button_cancel_download">Annuleer</string>
+    <string name="button_start_now">Start nu</string>
+</resources>

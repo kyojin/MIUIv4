@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Mindig</item>
+        <item>Soha</item>
+        <item>Ha igény van rá</item>
+    </string-array>
+    <string-array name="pref_content_plugins_values">
+        <item>ON</item>
+        <item>OFF</item>
+        <item>ON_DEMAND</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Kicsi</item>
+        <item>Normál</item>
+        <item>Nagy</item>
+        <item>Nagyobb</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Messze</item>
+        <item>Közepes</item>
+        <item>Közel</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Simplified Chinese (GBK)</item>
+        <item>Triditional Chinese (Big5)</item>
+        <item>Japaness (ISO-2022-JP)</item>
+        <item>Japaness (SHIFT_JIS)</item>
+        <item>Japaness (EUC-JP)</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_values">
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+    </string-array>
+    <string-array name="bookmark_control_items">
+        <item>Új mappa létrehozása</item>
+        <item>Új könyvjelző hozzáadása</item>
+        <item>Könyvjelzők importálása</item>
+        <item>Könyvjelzők exportálása</item>
+    </string-array>
+    <string-array name="not_found_page_titles">
+        <item>A weblap nem található</item>
+    </string-array>
+    <string-array name="pref_load_images_choice">
+        <item>Engedélyezés</item>
+        <item>Tiltás</item>
+        <item>Engedélyezés WiFi-n</item>
+    </string-array>
+    <string-array name="pref_load_images_choice_value">
+        <item>ON</item>
+        <item>OFF</item>
+        <item>ON_FOR_WIFI</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice">
+        <item>Alapértelmezett</item>
+        <item>Oldal görgetése</item>
+        <item>Váltás Tab</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice_value">
+        <item>DEFAULT</item>
+        <item>SCROLL_PAGE</item>
+        <item>SWITCH_TAB</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice">
+        <item>Mindig alkalmaz</item>
+        <item>Ha nem szól a zene</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice_value">
+        <item>ALWAYS</item>
+        <item>ONLY_NO_MUSIC</item>
+    </string-array>
+    <string-array name="barcon_operation_items">
+        <item>Szerkesztés</item>
+        <item>Törlés</item>
+    </string-array>
+    <string-array name="pref_reading_mode_choices">
+        <item>Automatikusan</item>
+        <item>Manuális</item>
+        <item>Bezárás</item>
+    </string-array>
+    <string-array name="pref_reading_mode_values">
+        <item>AUTO</item>
+        <item>MANU</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_forum_mode_choices">
+        <item>Automatikus</item>
+        <item>Manuális</item>
+        <item>Bezárás</item>
+    </string-array>
+    <string-array name="pref_forum_mode_values">
+        <item>AUTO</item>
+        <item>MANU</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_text_size_values">
+        <item>SMALLER</item>
+        <item>NORMAL</item>
+        <item>LARGER</item>
+        <item>LARGEST</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_choices">
+        <item>Mutat</item>
+        <item>Elrejt teljes kijelzőnél</item>
+        <item>Automatikus elrejtés</item>
+        <item>Soha ne jelenjen úszó gombok</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_values">
+        <item>NEEDED</item>
+        <item>EXCEPT_FULLSCREEN</item>
+        <item>AUTO</item>
+        <item>NEVER_SHOW</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_choices">
+        <item>Mindig mutassa</item>
+        <item>Mindig rejtse el</item>
+        <item>Automatikus</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_values">
+        <item>ALWAYS_SHOW</item>
+        <item>ALWAYS_HIDE</item>
+        <item>AUTO</item>
+    </string-array>
+    <string-array name="pref_simple_mode_choices">
+        <item>Letiltás</item>
+        <item>Engedélyezés</item>
+        <item>Engedélyezés 2G/3G-n</item>
+    </string-array>
+    <string-array name="pref_simple_mode_values">
+        <item>OFF</item>
+        <item>ON</item>
+        <item>ON_FOR_NON_WIFI</item>
+    </string-array>
+    <string-array name="pref_web_default_zoom_values">
+        <item>FAR</item>
+        <item>MEDIUM</item>
+        <item>CLOSE</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices">
+        <item>Alap</item>
+        <item>Chrome</item>
+        <item>iPhone 3</item>
+        <item>iPhone 4</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices_values">
+        <item>DEFAULT</item>
+        <item>CHROME</item>
+        <item>IPHONE3</item>
+        <item>IPHONE4</item>
+        <item>IPAD</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices">
+        <item>Egyik sem</item>
+        <item>Menj vissza előre</item>
+        <item>Kapcsoló lapok</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices_values">
+        <item>NONE</item>
+        <item>BACK_FORWARD</item>
+        <item>SWITCH_TABS</item>
+    </string-array>
+    <string-array name="pref_single_click_choices">
+        <item>Link a jelenlegi lapon</item>
+        <item>Link az új fülön</item>
+        <item>Link az új fülön a háttérben</item>
+    </string-array>
+    <string-array name="pref_long_click_choices">
+        <item>Megjelenítés a helyi menüben</item>
+        <item>Link az új fülön</item>
+        <item>Link az új fülön a háttérben</item>
+    </string-array>
+    <string-array name="pref_link_choices_values">
+        <item>DEFAULT</item>
+        <item>NEW_TAB</item>
+        <item>BACKGROUND_TAB</item>
+    </string-array>
+</resources>

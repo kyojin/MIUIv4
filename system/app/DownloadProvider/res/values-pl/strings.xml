@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Menadżer pobierania</string>
+    <string name="permlab_downloadManager">Pozwól pobierać pliki.</string>
+    <string name="permdesc_downloadManager">Pozwala aplikacji na dostęp do menedżera pobierania i wykorzystania go do pobierania plików. Złośliwe aplikacje mogą zakłócić pobieranie plików i dostęp do prywatnych informacji.</string>
+    <string name="permlab_downloadManagerAdvanced">Zaawansowane funkcje menadżera pobierania</string>
+    <string name="permdesc_downloadManagerAdvanced">Pozwala aplikacji na dostęp do zaawansowanych funkcji menadżera pobierania. Złośliwe aplikacje mogą zakłócić pliki do pobrania i dostęp do prywatnych informacji.</string>
+    <string name="permlab_downloadCompletedIntent">Wysyłaj powiadomienia pobierania.</string>
+    <string name="permdesc_downloadCompletedIntent">Pozwala aplikacji wysyłać powiadomienia o pobranych plikach.</string>
+    <string name="permlab_seeAllExternal">Zobacz wszystkie pliki pobrane na kartę SD.</string>
+    <string name="permdesc_seeAllExternal">Pozwala aplikacji zobaczyć wszystkie pliki pobrane na kartę SD.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Zarezerwuj miejsce na pobieranie w katalogu tymczasowym</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Allows the application to download files to the download cache which cannot be automatically deleted when the download manager needs more space.</string>
+    <string name="permlab_downloadWithoutNotification">download files without notification</string>
+    <string name="permdesc_downloadWithoutNotification">Allows the application to download files through the download manager without any notification being shown to the user.</string>
+    <string name="permlab_accessAllDownloads">Access all system downloads</string>
+    <string name="permdesc_accessAllDownloads">Allows the application to view and modify all initiated by any application on the system.</string>
+    <string name="download_unknown_title">&lt;Untitled</string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" i %d więcej"</string>
+    <string name="notification_download_complete">Pobieranie zakończone</string>
+    <string name="notification_download_failed">Pobieranie nie powiodło się</string>
+    <string name="notification_need_wifi_for_size">Rozmiar pobierania wymaga połączenia Wi-Fi</string>
+    <string name="wifi_required_title">Rozmiar pobierania jest zbyt duży dla sieci operatora</string>
+    <string name="wifi_required_body" formatted="false">"You must use WiFi to complete this %s download. 
+
+Click %s to begin this download the next time you are connected to a WiFi network."</string>
+    <string name="wifi_recommended_title">Queue for download later?</string>
+    <string name="wifi_recommended_body" formatted="false">"Starting this %s download now may shorten your battery life and/or result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
+
+ Click %s below to begin this download the next time you are connected to a WiFi network."</string>
+    <string name="button_queue_for_wifi">Kolejka</string>
+    <string name="button_cancel_download">Anuluj</string>
+    <string name="button_start_now">Start</string>
+</resources>

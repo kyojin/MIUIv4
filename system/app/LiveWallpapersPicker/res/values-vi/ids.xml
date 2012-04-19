@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="thumbnail">false</item>
+    <item type="id" name="description">false</item>
+    <item type="id" name="configure">false</item>
+    <item type="id" name="title_author">false</item>
+</resources>

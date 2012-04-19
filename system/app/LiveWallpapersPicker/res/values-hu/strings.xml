@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Élő háttérkép választó</string>
+    <string name="live_wallpaper_picker_title">Élő háttérképek</string>
+    <string name="live_wallpaper_preview_title">Élő háttérkép előnézete</string>
+    <string name="configure_wallpaper">Beállítások…</string>
+    <string name="wallpaper_instructions">Háttérkép beállítása</string>
+    <string name="live_wallpaper_empty">Nincsenek élő háttérképek.</string>
+    <string name="set_live_wallpaper">Háttérkép beállítása</string>
+    <string name="wallpaper_title_and_author" formatted="false">%1$s; készítette: %2$s</string>
+    <string name="live_wallpaper_loading">Élő háttérkép betöltése...</string>
+</resources>

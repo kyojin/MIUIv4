@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hangrögzítő</string>
+    <string name="recording">Rögzítés folyamatban</string>
+    <string name="recording_stopped">A rögzítés leállt</string>
+    <string name="storage_is_full">A tárhely megtelt</string>
+    <string name="max_length_reached">Elérte a maximális hosszúságot</string>
+    <string name="insert_sd_card">Kérjük, helyezzen be egy SD-kártyát</string>
+    <string name="button_ok">Ok</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">Felvételek</string>
+    <string name="audio_db_album_name">Hangfelvételek</string>
+    <string name="audio_db_playlist_name">Saját felvételek</string>
+    <string name="error_sdcard_access">Nem lehet hozzáférni az SD-kártyához</string>
+    <string name="error_app_internal">Belső alkalmazáshiba</string>
+    <string name="error_mediadb_new_record">Nem lehet elmenteni a rögzített hanganyagot</string>
+    <string name="default_record_name">Névtelen felvétel</string>
+    <string name="menu_view_record_list">Felvételek listája</string>
+    <string name="menu_setting">Beállítások</string>
+    <string name="delete_dialog_title">>Biztosan törölni akarja a jelenlegi felvételt?</string>
+    <string name="overwrite_dialog_title">Biztosan törölni akarja a jelenlegi felvételt?</string>
+    <string name="preferences_title">Baállítások</string>
+    <string name="pref_title_record_type">Hangrögzítő codec</string>
+    <string name="prefDialogTitle_recordType">Választott codec</string>
+    <string name="prefDefault_recordType">audio/amr</string>
+    <string name="pref_title_enable_high_quality">Kiváló minőség</string>
+    <string name="pref_summary_enable_high_quality">Kiváló minőségű felvételek több helyet foglalnak</string>
+    <string name="pref_title_enable_sound_effect">Effektek engedélyezése</string>
+    <string name="pref_summary_enable_sound_effect">Hanghatások engedélyezése a rögzítéshez</string>
+    <string name="notification_recording">Rögzítés...</string>
+    <string name="notification_stopped">Felvétel leállítva</string>
+    <string name="notification_warning">Kevés a hely, a hátralévő felvétel kevesebb mint %d perc</string>
+    <string name="record_list">Felvétel lista</string>
+    <string name="sd_card_not_available">SD kértya nem elérhető</string>
+    <string name="call_record">Hívás rögzítés</string>
+    <string name="open_file_explorer">Filekezelő megnyitása</string>
+    <string name="no_file">Nincs felvétel</string>
+    <string name="mark_now">(Jelenlegi)</string>
+    <string name="second">%d másodperc</string>
+    <string name="minute">%d perc</string>
+    <string name="hour">%d óra</string>
+    <string name="call_record_or">or</string>
+    <string name="dialog_play">Lejátszás</string>
+    <string name="dialog_send">Küld</string>
+    <string name="dialog_delete">Töröl</string>
+    <string name="alert_message_delete_record">Biztos benne hogy törli a kiválasztott felvételt?</string>
+</resources>

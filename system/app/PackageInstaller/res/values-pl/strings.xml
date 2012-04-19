@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instalator aplikacji</string>
+    <string name="install">Instaluj</string>
+    <string name="done">Gotowe</string>
+    <string name="security_settings_desc">Pozwól tej aplikacji:</string>
+    <string name="cancel">Anuluj</string>
+    <string name="unknown">Nieznany</string>
+    <string name="installing">Instalowanie...</string>
+    <string name="install_done">Aplikacja zainstalowana</string>
+    <string name="install_confirm_question">Chcesz zainstalować tę aplikację?</string>
+    <string name="install_failed">Aplikacja nie została zainstalowana</string>
+    <string name="install_failed_msg">%1$s nie można zainstalować w telefonie.</string>
+    <string name="launch">Otwórz</string>
+    <string name="unknown_apps_dlg_title">Instalacja zablokowana</string>
+    <string name="unknown_apps_dlg_text">Dla bezpieczeństwa, telefon jest ustawiony do blokowania instalacji aplikacji z poza z Android Market.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Ustawienia</string>
+    <string name="manage_applications">Zarządzaj aplikacjami</string>
+    <string name="dlg_app_replacement_title">Zastąp aplikacje</string>
+    <string name="dlg_app_replacement_statement">"Instalowana aplikacja zastąpi inną aplikację.
+
+Wszystkie dane użytkownika zostaną zachowane."</string>
+    <string name="dlg_sys_app_replacement_statement">"To jest aplikacja systemowa. Na pewno chcesz ją zastąpić?
+
+Wszystkie dane użytkownika zostaną zachowane."</string>
+    <string name="out_of_space_dlg_title">Brak miejsca w pamięci</string>
+    <string name="out_of_space_dlg_text">%1$s Nie można zainstalować. Zwolnij trochę miejsca w pamięci i spróbuj ponownie.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Nie znaleziono aplikacji</string>
+    <string name="app_not_found_dlg_text">Aplikacja nie została odnaleziona na liście aplikacji.</string>
+    <string name="uninstall_application_text">Aplikacja zostanie odinstalowana</string>
+    <string name="uninstall_update_text">Aktualizacja aplikacji zostanie odistalowana. Dalej można korzystać z fabrycznej aplikacji.</string>
+    <string name="uninstalling">Odinstalowywanie…</string>
+    <string name="uninstall_done">Odinstalowanie zakończone powodzeniem</string>
+    <string name="uninstall_failed">Odinstalowywanie nie powiodło się</string>
+    <string name="uninstall_failed_msg">%1$s nie można odinstalować</string>
+    <string name="Parse_error_dlg_title">Błąd składni</string>
+    <string name="Parse_error_dlg_text">Istnieje problem przetwarzania pakietu.</string>
+    <string name="uninstall_application_question">Odinstalować aplikację?</string>
+    <string name="uninstall_update_question">Odinstalować uaktualnienie?</string>
+</resources>

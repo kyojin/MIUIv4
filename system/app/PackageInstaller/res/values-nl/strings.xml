@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pakket-installer</string>
+    <string name="install">Installeer</string>
+    <string name="done">Klaar</string>
+    <string name="security_settings_desc">Toestaan dat deze toepassing:</string>
+    <string name="cancel">Annuleren</string>
+    <string name="unknown">Onbekend</string>
+    <string name="installing">Installeren…</string>
+    <string name="install_done">Applicatie geïnstalleerd</string>
+    <string name="install_confirm_question">Wil je deze applicatie installeren?</string>
+    <string name="install_failed">Applicatie niet geïnstalleerd</string>
+    <string name="install_failed_msg">%1$s kan niet worden geïnstalleerd op deze telefoon.</string>
+    <string name="launch">Open</string>
+    <string name="unknown_apps_dlg_title">Te installeren geblokkeerd</string>
+    <string name="unknown_apps_dlg_text">Voor veiligheid, is uw telefoon ingesteld om de installatie van applicaties die niet zijn verkregen uit Android Market te blokkeren.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Instellingen</string>
+    <string name="manage_applications">Het beheer van applicaties</string>
+    <string name="dlg_app_replacement_title">Vervang de toepassing</string>
+    <string name="dlg_app_replacement_statement">"De applicatie die je installeerd zal de andere applicaite vervangen.
+
+Alle vorige gebruiker gegevens worden opgeslagen."</string>
+    <string name="dlg_sys_app_replacement_statement">"Dit is een systeem applicatie. Wilt u vervangen?
+
+Alle vorige gebruiker gegevens worden opgeslagen."</string>
+    <string name="out_of_space_dlg_title">Geen ruimte meer</string>
+    <string name="out_of_space_dlg_text">%1$s kan niet worden geïnstalleerd. Maak ruimte vrij en probeer het opnieuw.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Applicatie niet gevonden</string>
+    <string name="app_not_found_dlg_text">De applicatie is niet gevonden in de lijst van geïnstalleerde applicaties.</string>
+    <string name="uninstall_application_text">Deze toepassing zal worden verwijderd.</string>
+    <string name="uninstall_update_text">De applicatie-update zullen worden verwijderd. U kunt nog steeds gebruik maken van de fabriek versie van de applicatie.</string>
+    <string name="uninstalling">Wissen…</string>
+    <string name="uninstall_done">Klaar met wissen</string>
+    <string name="uninstall_failed">Wissen niet succesvol</string>
+    <string name="uninstall_failed_msg">%1$s konden niet worden verwijderd</string>
+    <string name="Parse_error_dlg_title">Ontleedfout</string>
+    <string name="Parse_error_dlg_text">Er is een probleem met het ontleden van de verpakking.</string>
+    <string name="uninstall_application_question">Applicatie wissen?</string>
+    <string name="uninstall_update_question">Update wissen?</string>
+</resources>

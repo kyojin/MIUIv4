@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_seconds_ago">
+        <item quantity="other">%d saniye önce</item>
+        <item quantity="one">1 saniye önce</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d mdakika önce</item>
+        <item quantity="one">1 mdakika önce</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">1 saat önce</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Son %d gün</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">dün</item>
+    </plurals>
+    <plurals name="in_num_seconds">
+        <item quantity="other">%d saniye içinde</item>
+        <item quantity="one">1 saniyede</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d dakika içinde</item>
+        <item quantity="one">1 dakika içinde</item>
+    </plurals>
+    <plurals name="in_num_hours">
+        <item quantity="other">%d saat içinde</item>
+        <item quantity="one">1 saat içinde</item>
+    </plurals>
+    <plurals name="in_num_days">
+        <item quantity="other">%d gün içinde</item>
+        <item quantity="one">yarın</item>
+    </plurals>
+    <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">%d sn önce</item>
+        <item quantity="one">1 sn önce</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d dk önce</item>
+        <item quantity="one">1 dk önce</item>
+    </plurals>
+    <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">1 saat önce</item>
+    </plurals>
+    <plurals name="abbrev_num_days_ago">
+        <item quantity="other">%d gün önce</item>
+        <item quantity="one">dün</item>
+    </plurals>
+    <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">%d saniye içinde</item>
+        <item quantity="one">1 saniye içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d dk içinde</item>
+        <item quantity="one">1 dk içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_num_hours">
+        <item quantity="other">%d saat içinde</item>
+        <item quantity="one">1 saat içinde</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">%d gün içinde</item>
+        <item quantity="one">yarın</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">Kablosuz ağlar mevcut</item>
+        <item quantity="one">Kablosuz ağ mevcut</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Açık kablosuz ağlar mevcut</item>
+        <item quantity="one">Açık Kablosuz ağ mevcut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Az önce</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Az önce</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Hemen</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Bir saat önce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Bir saat önce</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Bir saat önce</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Bir saat önce</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Yarım saat önce</item>
+    </plurals>
+</resources>

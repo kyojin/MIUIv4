@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-D</item>
+        <item>;-)</item>
+        <item>%-)</item>
+        <item>&amp;amp;amp;amp;amp;amp;lt;_>¦¦¦</item>
+        <item>∩_∩</item>
+        <item>;-></item>
+        <item>:-(</item>
+        <item>;-(</item>
+        <item>∠※</item>
+        <item>:-x</item>
+        <item>:-></item>
+        <item>B-)</item>
+        <item>*^‧^*</item>
+        <item>○^~^○</item>
+        <item>:-P</item>
+        <item>:-)</item>
+        <item>:-*</item>
+        <item>:-/</item>
+        <item>:-@</item>
+        <item>°ο°/~</item>
+        <item>:-@</item>
+        <item>:-O</item>
+        <item>⊙⊙?</item>
+        <item>~o~/~</item>
+        <item>:-J</item>
+        <item>→_→</item>
+        <item>\@ο@</item>
+        <item>^人^</item>
+        <item>人^人</item>
+        <item>^_^)Y</item>
+        <item>ōk</item>
+        <item>-ิo-ิ</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1-krat</item>
+        <item>2-krat</item>
+        <item>3-krat</item>
+        <item>5-krat</item>
+        <item>10-krat</item>
+    </string-array>
+    <string-array name="prefValues_ringtone_repeat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekundi</item>
+        <item>3 sekunde</item>
+        <item>4 sekunde</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
+        <item>10 sekund</item>
+        <item>Drugo...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Vedno</item>
+        <item>Samo v tihem načinu</item>
+        <item>Nikoli</item>
+    </string-array>
+    <string-array name="prefValues_vibrateWhen">
+        <item>vedno</item>
+        <item>tiho</item>
+        <item>nikoli</item>
+    </string-array>
+    <string-array name="extend_smiley_texts">
+        <item>::>_&amp;amp;amp;amp;amp;amp;lt;::</item>
+        <item>&amp;amp;amp;amp;amp;amp;lt;_>¦¦¦</item>
+        <item>~~~^_^~~~</item>
+        <item>~~~(>_&amp;amp;amp;amp;amp;amp;lt;)~~~</item>
+        <item>╮〔╯ε╰〕╭</item>
+        <item>^_^/~~</item>
+        <item>o∩_∩o</item>
+        <item>°ο°/~</item>
+        <item>^_^)Y</item>
+        <item>-ิo-ิ</item>
+        <item>^(oo)^</item>
+        <item>~o~/~</item>
+        <item>*^o^*</item>
+        <item>ˋ_ˊ¦¦</item>
+        <item>○^~^○</item>
+        <item>\#^_^</item>
+        <item>^口^</item>
+        <item>人^人</item>
+        <item>^人^</item>
+        <item>一-一</item>
+        <item>π_π</item>
+        <item>\@ο@</item>
+        <item>:-x</item>
+        <item>T_T</item>
+        <item>Ｏrz</item>
+        <item>:-P</item>
+        <item>:-O</item>
+        <item>︶︿︶</item>
+        <item>╯^╰</item>
+        <item>〒_〒</item>
+        <item>;-(</item>
+        <item>:-(</item>
+        <item>;-></item>
+        <item>∩_∩</item>
+        <item>%-)</item>
+        <item>→_→</item>
+        <item>¯^¯</item>
+        <item>⊙⊙?</item>
+        <item>⊙.⊙</item>
+        <item>:-@</item>
+        <item>;-)</item>
+        <item>^÷^</item>
+        <item>:-@</item>
+        <item>╰_╯</item>
+        <item>ˋ^ˊ</item>
+        <item>:-/</item>
+        <item>:-*</item>
+        <item>:-)</item>
+        <item>^_^</item>
+        <item>$_$</item>
+        <item>:-></item>
+        <item>:-D</item>
+        <item>B-)</item>
+        <item>b_d</item>
+        <item>:P</item>
+        <item>ōk</item>
+        <item>∠※</item>
+        <item>:-J</item>
+        <item>:)</item>
+        <item>:(</item>
+        <item>:D</item>
+    </string-array>
+</resources>

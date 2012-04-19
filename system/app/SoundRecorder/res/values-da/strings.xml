@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lydoptager</string>
+    <string name="recording">Optager</string>
+    <string name="recording_stopped">Optagelse stopppet</string>
+    <string name="storage_is_full">Lager er fyldt</string>
+    <string name="max_length_reached">Maks. længde er nået</string>
+    <string name="insert_sd_card">Indsæt SD-kort</string>
+    <string name="button_ok">OK</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">Mine optagelser</string>
+    <string name="audio_db_album_name">Lydoptagelser</string>
+    <string name="audio_db_playlist_name">Mine optagelser</string>
+    <string name="error_sdcard_access">Kan ikke få adgang til SD-kort</string>
+    <string name="error_app_internal">Intern applikationsfejl</string>
+    <string name="error_mediadb_new_record">Kan ikke gemme optaget lyd</string>
+    <string name="default_record_name">Ikke navngivet optagelse</string>
+    <string name="menu_view_record_list">Se liste over optagelser</string>
+    <string name="menu_setting">Indstillinger</string>
+    <string name="delete_dialog_title">Vil du slette nuværende optagelse?</string>
+    <string name="overwrite_dialog_title">"%s eksisterer allerede.
+Vil du overskrive?"</string>
+    <string name="preferences_title">Indsstillinger</string>
+    <string name="pref_title_record_type">Filtype på optagelse</string>
+    <string name="prefDialogTitle_recordType">Vælg venligst filtype</string>
+    <string name="prefDefault_recordType">audio/3gpp</string>
+    <string name="pref_title_enable_high_quality">Aktiver høj kvalitet</string>
+    <string name="pref_summary_enable_high_quality">Lydfiler i høj kvalitet kan være større</string>
+    <string name="pref_title_enable_sound_effect">Aktiver lydeffekt</string>
+    <string name="pref_summary_enable_sound_effect">Afspiller lydeffekt når indstillet</string>
+    <string name="notification_recording">Optager</string>
+    <string name="notification_stopped">Optagelse stoppet</string>
+    <string name="notification_warning">Lav lagerplads(mindre end %d minutter)...</string>
+    <string name="record_list">Liste over optagelser</string>
+    <string name="sd_card_not_available">SD-Kort ikke tilgængelig</string>
+    <string name="call_record">Optag opkald</string>
+    <string name="open_file_explorer">Åben Filhåndtering</string>
+    <string name="no_file">Ingen optagelse</string>
+    <string name="mark_now">(Nuværende)</string>
+    <string name="second">%d sekund</string>
+    <string name="minute">%d minut</string>
+    <string name="hour">%d time</string>
+    <string name="call_record_or">eller</string>
+    <string name="dialog_play">Afspil</string>
+    <string name="dialog_send">Send</string>
+    <string name="dialog_delete">Slet</string>
+    <string name="alert_message_delete_record">Vil du slette valgte optagelse?</string>
+</resources>

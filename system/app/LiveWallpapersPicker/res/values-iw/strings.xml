@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">תפריט רקעים חיים</string>
+    <string name="live_wallpaper_picker_title">רקעים חיים</string>
+    <string name="live_wallpaper_preview_title">הצגה של רקעים חיים</string>
+    <string name="configure_wallpaper">הגדרות...</string>
+    <string name="wallpaper_instructions">קבע רקע</string>
+    <string name="live_wallpaper_empty">אין רקעים חיים</string>
+    <string name="set_live_wallpaper">קבע רקע</string>
+    <string name="wallpaper_title_and_author" formatted="false">%1$s על %2$s</string>
+    <string name="live_wallpaper_loading">טוען רקע חי...</string>
+</resources>

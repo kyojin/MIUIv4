@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Темы</string>
+    <string name="theme_activity_lable">Менеджер тем</string>
+    <string name="theme_changing_dialog_title">Подготовка новой темы, пожалуйста, подождите ...</string>
+    <string name="theme_changed_message">Тема установлена!</string>
+    <string name="theme_changed_failed_message">Не удалось установить тему</string>
+    <string name="backup_preference_title">Резервирование текущей темы</string>
+    <string name="backup_theme_dialog_ok">Бэкап</string>
+    <string name="backup_theme_dialog_message">"Бэкап текущей темы на
+SD-карту:/MIUI/theme/backup/backup.mtz"</string>
+    <string name="backup_theme_progress_message">Бэкап...</string>
+    <string name="backup_theme_success_message">Резервное копирование темы успешно</string>
+    <string name="theme_description_title_default">Умолчания</string>
+    <string name="theme_description_title_customized">Настройка</string>
+    <string name="component_category_title">Изменить стиль</string>
+    <string name="theme_component_title_framework">Стили системы</string>
+    <string name="theme_component_title_mms">Стили сообщений</string>
+    <string name="theme_component_title_wallpaper">Обои раб.стола</string>
+    <string name="theme_component_title_lockwallpaper">Обои экрана блок.</string>
+    <string name="theme_component_title_icon">Иконки</string>
+    <string name="theme_component_title_boot_animation">Анимация загр.</string>
+    <string name="theme_component_title_boot_audio">Звуки загрузки</string>
+    <string name="theme_component_title_font">Шрифты</string>
+    <string name="theme_component_title_ringtone">Рингтон</string>
+    <string name="theme_component_title_notification">Уведомления</string>
+    <string name="theme_component_title_alarm">Будильник</string>
+    <string name="theme_component_title_contact">Контакты</string>
+    <string name="theme_component_title_lockstyle">Ползунок блок.</string>
+    <string name="theme_component_title_statusbar">Уведомления</string>
+    <string name="theme_component_title_launcher">Desktop</string>
+    <string name="theme_component_title_others">Прочее</string>
+    <string name="theme_component_title_all">Темы</string>
+    <string name="apply_theme_no_select_message">Выберите тему!</string>
+    <string name="apply_lockscreen_paper_tips">Custom lock screen is currently in use, the new lock screen wallpaper may not apply.</string>
+    <string name="theme_import">Импорт с SD-карты</string>
+    <string name="theme_select_others">Другие</string>
+    <string name="third_party_pickers_activity_title">Установить %1$s</string>
+    <string name="wallpaper_settings">Настройки обоев</string>
+    <string name="desktop_wallpaper">"Обои для
+рабочего стола"</string>
+    <string name="live_wallpaper">Живые обои</string>
+    <string name="lockscreen_wallpaper">"Обои
+экрана блокировки"</string>
+    <string name="component_settings_title">Настройка локальных тем</string>
+    <string name="component_select_title">Выберите (%1$s)</string>
+    <string name="component_include_title">Содержит (%1$s)</string>
+    <string name="component_screen_title">Обои</string>
+    <string name="resource_fail_to_show">The theme package does not contain the appropriate resources</string>
+    <string name="new_format_convert">Converting %s to new format</string>
+    <string name="old_format_title">Old format resources detected</string>
+    <string name="old_format_fail">Conversion failed, click Apply to try again. Re-download the latest format of the resource if unsuccessful!</string>
+    <string name="old_format_convert_tip1">This theme package is not the latest format and can not be directly applied, the conversion will take a long time, proceed with conversion?</string>
+    <string name="old_format_convert_tip2">You can also delete the resources, and then re-download the latest format of the resources.</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>اطلاعات وای-فای</item>
+        <item>همه برنامه ها</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>گالری</item>
+        <item>موسیقی</item>
+        <item>ضبط کننده</item>
+        <item>مرورگر</item>
+        <item>دوربین</item>
+        <item>مدیریت فایل</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>مخاطبین</item>
+        <item>لیست تماس</item>
+        <item>پیام ها</item>
+        <item>Multimedia Messages</item>
+        <item>تنظیمات سیستم</item>
+        <item>تنظیمات وای-فای</item>
+        <item>صفحه آرایی دسکتاپ</item>
+        <item>تنظیمات هشدار</item>
+        <item>یادداشت ها</item>
+        <item>تنظیمات DND</item>
+        <item>CurrentTheme</item>
+        <item>Superuser</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>(اطلاعات)</item>
+        <item>(برنامه ها)</item>
+        <item>(اطلاعات + برنامه ها)</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>مخاطبین</item>
+        <item>لیست تماس</item>
+        <item>پیام ها</item>
+        <item>تنظیمات وای-فای</item>
+        <item>یادداشت ها</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>مخاطبین</item>
+        <item>تنظیمات وای-فای</item>
+        <item>یادداشت ها</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>لیست تماس</item>
+        <item>پیام ها</item>
+    </string-array>
+</resources>

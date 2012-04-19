@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>آمریکا</item>
+        <item>اروپا</item>
+        <item>آفریقا</item>
+        <item>آسیا</item>
+        <item>استرالیا</item>
+        <item>اقیانوسیه</item>
+        <item>همه</item>
+    </string-array>
+</resources>

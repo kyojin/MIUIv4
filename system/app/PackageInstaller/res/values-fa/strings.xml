@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نصب کننده بسته</string>
+    <string name="install">نصب</string>
+    <string name="done">تایید</string>
+    <string name="security_settings_desc">برنامه به موارد زیر دسترسی خواهد داشت:</string>
+    <string name="cancel">لغو</string>
+    <string name="unknown">ناشناس</string>
+    <string name="installing">در حال نصب…</string>
+    <string name="install_done">برنامه کاربردی نصب شد</string>
+    <string name="install_confirm_question">می خواهید این برنامه را نصب کنید؟</string>
+    <string name="install_failed">برنامه کاربردی نصب نشد</string>
+    <string name="install_failed_msg">%1$s در این گوشی نصب نشد.</string>
+    <string name="launch">باز کردن</string>
+    <string name="unknown_apps_dlg_title">نصب مسدود شد</string>
+    <string name="unknown_apps_dlg_text">برای حفظ ایمنی، گوشی شما طوری تنظیم شده که نصب برنامه هایی که از Android Market دریافت نشده اند را مسدود کند.</string>
+    <string name="ok">تایید</string>
+    <string name="settings">تنظیمات</string>
+    <string name="manage_applications">مدیریت برنامه های کاربردی</string>
+    <string name="dlg_app_replacement_title">جایگزین کردن برنامه</string>
+    <string name="dlg_app_replacement_statement">برنامه ای که شما در حال نصب آن هستید با یک برنامه دیگر جایگزین می شود.تمام داده های کاربری قبلی ذخیره خواهند شد.</string>
+    <string name="dlg_sys_app_replacement_statement">این یک برنامه سیستمی است. هنوز می خواهید آن را جایگزین کنید؟تمام اطلاعات کاربری قبلی ذخیره خواهند شد.</string>
+    <string name="out_of_space_dlg_title">فضا کافی نیست</string>
+    <string name="out_of_space_dlg_text">%1$s نصب نشد. مقداری از فضا را آزاد کرده و دوباره امتحان کنید.</string>
+    <string name="dlg_ok">تایید</string>
+    <string name="app_not_found_dlg_title">برنامه کاربردی یافت نشد</string>
+    <string name="app_not_found_dlg_text">این برنامه در لیست برنامه های نصب شده یافت نشد.</string>
+    <string name="uninstall_application_text">این برنامه کاربردی حذف نصب می شود.</string>
+    <string name="uninstall_update_text">نسخه به روز این برنامه حذف نصب می شود. همچنان می توانید از نسخه کارخانه این برنامه استفاده کنید.</string>
+    <string name="uninstalling">در حال حذف نصب...</string>
+    <string name="uninstall_done">حذف نصب انجام شد</string>
+    <string name="uninstall_failed">حذف نصب ناموفق بود</string>
+    <string name="uninstall_failed_msg">%1$s نمی تواند حذف نصب شود</string>
+    <string name="Parse_error_dlg_title">خطای تجزیه</string>
+    <string name="Parse_error_dlg_text">مشکلی در تجزیه بسته وجود دارد.</string>
+    <string name="uninstall_application_question">برنامه حذف نصب شود؟</string>
+    <string name="uninstall_update_question">نسخه به روز حذف نصب شود؟</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">צריכת נתונים</string>
+    <string name="duration" formatted="false">משך רישום: %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">כבה אוטומטית</string>
+    <string name="menu_refresh">ריענון</string>
+    <string name="menu_sort_by_name">מיין לפי שם</string>
+    <string name="menu_sort_by_traffic">מיין לפי תעבורה</string>
+    <string name="menu_display_system_app">הצג יישומי מערכת</string>
+    <string name="menu_not_display_system_app">הסתר יישומי מערכת</string>
+    <string name="input_max_traffic">חבילה גלישה</string>
+    <string name="max_traffic_monthly">נפח חבילת גלישה</string>
+    <string name="monitor_starting_day">הוסף תאריך תחילת ניטור</string>
+    <string name="date_format">%s</string>
+    <string name="traffic_none">ללא תעבורה</string>
+    <string name="version_text">גירסה: %1$s</string>
+    <string name="duration_days" formatted="false">%d ימים %d שעות %d דקות</string>
+    <string name="duration_hours" formatted="false">%d שעות %d דקות</string>
+    <string name="duration_minutes">%d דקות</string>
+    <string name="traffic_data">תעבורה</string>
+    <string name="remain">" שמאלה "</string>
+    <string name="threshold">" התראה "</string>
+    <string name="used">" נוצל"</string>
+    <string name="exceed">" חריגה "</string>
+    <string name="settings">הגדר</string>
+    <string name="mobile">אינטרנט</string>
+    <string name="wifi">רשת אלחוטית</string>
+    <string name="mobile_format">אינטרנט: %s</string>
+    <string name="wifi_format">רשת אלחוטית: %s</string>
+    <string name="mobile_traffic">ניצול חבילת גלישה</string>
+    <string name="network_control">ניטור חומת אש של רשת</string>
+    <string name="network_monitor">חומת אש</string>
+    <string name="all_apps">כל היישומים</string>
+    <string name="refresh">ריענון</string>
+    <string name="display_system_app">הצג יישומי מערכת</string>
+    <string name="force_stop">כפה עצירה</string>
+    <string name="app_detail">פרטי יישום</string>
+    <string name="loading_apps_list">Loading program list, please wait...</string>
+    <string name="monitor_settings">העדפות</string>
+    <string name="sms_unit">" הודעות"</string>
+    <string name="mobile_unit">MB</string>
+    <string name="first_traffic_day">תאריך תחילת חשבונית</string>
+    <string name="confirm_disable_monitor">בעת ביטול צריכת הנתונים יגרום לאיפוס הסטטיסטיקות, להמשיך?</string>
+    <string name="input_monitor_starting_date">הערות לתאריך חיוב</string>
+    <string name="input_used_traffic">ניצול חבילת גלישה</string>
+    <string name="sms_package">הודעות</string>
+    <string name="mobile_package">אינטרנט סלולארי</string>
+    <string name="android_system">מערכת Android</string>
+    <string name="call_sms_detail_title">הודעות ושיחות החודש</string>
+    <string name="outgoing_call">שיחות יוצאות</string>
+    <string name="incoming_call">שיחה נכנסת</string>
+    <string name="outgoing_sms">הודעות שנשלחו</string>
+    <string name="outgoing_sms_number_format">%d</string>
+    <string name="traffic_detail">נתוני תעבורה</string>
+    <string name="upload_bytes">הודעה %s</string>
+    <string name="download_bytes">הורדה הושלמה: %s</string>
+    <string name="upload">העלה</string>
+    <string name="download">הורד</string>
+    <string name="package_settings">הגדרות</string>
+    <string name="sms_traffic_limit">מגבלת תעבורה</string>
+    <string name="mobile_traffic_limit">מגבלה</string>
+    <string name="display_status_bar_notification">הצג בשורת התראות</string>
+    <string name="notify_threshold_exceed">חריגה ממגבלה!</string>
+    <string name="fix_traffic">איפוס סטטיסטיקות שימוש</string>
+    <string name="mobile_traffic_used">נוצל</string>
+    <string name="mobile_used_toast">%sMB נוצלו החודש</string>
+    <string name="sms_traffic_used">אפס ניצול הודעות</string>
+    <string name="clear_traffic">נקה תעבורה</string>
+    <string name="click_to_input">לחץ להכנסה</string>
+    <string name="traffic_sms_detials">פרטי הודעה</string>
+    <string name="no_sms">יומן שיחות ריק</string>
+    <string name="loading_apps_list_failed">Failed to load program list</string>
+</resources>

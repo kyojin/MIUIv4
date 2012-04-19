@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Altijd aan</item>
+        <item>Altijd uit</item>
+        <item>Toon bij activering</item>
+    </string-array>
+    <string-array name="pref_content_plugins_values">
+        <item>AUTO</item>
+        <item>MANU</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Klein</item>
+        <item>Normaal</item>
+        <item>Groot</item>
+        <item>Enorm</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Ver</item>
+        <item>Medium</item>
+        <item>Dichtbij</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>vereenvoudigd Chinees (GBK)</item>
+        <item>Traditioneel Chinees (Big5)</item>
+        <item>Japans (ISO-2022-JP)</item>
+        <item>Japans (SHIFT_JIS)</item>
+        <item>Japans (EUC-JP)</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_values">
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+    </string-array>
+    <string-array name="bookmark_control_items">
+        <item>Creër nieuwe directory</item>
+        <item>Creër nieuwe bookmark</item>
+        <item>Importeer bookmarks</item>
+        <item>Exporteer bookmarks</item>
+    </string-array>
+    <string-array name="not_found_page_titles">
+        <item>geen webpagina gevonden</item>
+    </string-array>
+    <string-array name="pref_load_images_choice">
+        <item>Inschakelen</item>
+        <item>Uitschakelen</item>
+        <item>Inschakelen indien Wi-Fi</item>
+    </string-array>
+    <string-array name="pref_load_images_choice_value">
+        <item>ON</item>
+        <item>OFF</item>
+        <item>ON_FOR_WIFI</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice">
+        <item>Standaard</item>
+        <item>Scroll Pagina</item>
+        <item>Wissel Tab</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice_value">
+        <item>DEFAULT</item>
+        <item>SCROLL_PAGE</item>
+        <item>SWITCH_TAB</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice">
+        <item>Altijd gebruiken</item>
+        <item>Niet gebruiken i.c.m. muziek</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice_value">
+        <item>ALWAYS</item>
+        <item>ONLY_NO_MUSIC</item>
+    </string-array>
+    <string-array name="barcon_operation_items">
+        <item>Wijzig</item>
+        <item>Wis</item>
+    </string-array>
+    <string-array name="pref_reading_mode_choices">
+        <item>Automatisch invullen</item>
+        <item>Handmatig invullen</item>
+        <item>Uit</item>
+    </string-array>
+    <string-array name="pref_reading_mode_values">
+        <item>AUTO</item>
+        <item>MANU</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_forum_mode_choices">
+        <item>Automatisch invullen</item>
+        <item>Handmatig invullen</item>
+        <item>Uit</item>
+    </string-array>
+    <string-array name="pref_forum_mode_values">
+        <item>AUTO</item>
+        <item>HAND</item>
+        <item>UIT</item>
+    </string-array>
+    <string-array name="pref_text_size_values">
+        <item>SMALLER</item>
+        <item>NORMAL</item>
+        <item>LARGER</item>
+        <item>LARGEST</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_choices">
+        <item>Toon</item>
+        <item>Verberg terug/vooruit in full screen modus</item>
+        <item>Auto-verberg</item>
+        <item>floating knoppen nooit tonen</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_values">
+        <item>NEEDED</item>
+        <item>EXCEPT_FULLSCREEN</item>
+        <item>AUTO</item>
+        <item>NEVER_SHOW</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_choices">
+        <item>Statusbalk altijd tonen</item>
+        <item>Statusbalk altijd verbergen</item>
+        <item>Automatisch</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_values">
+        <item>ALTIJD_TONEN</item>
+        <item>ALTIJD_VERBERGEN</item>
+        <item>AUTO</item>
+    </string-array>
+    <string-array name="pref_simple_mode_choices">
+        <item>Uitschakelen</item>
+        <item>Inschakelen</item>
+        <item>Inschakelen in non-wifi connectie</item>
+    </string-array>
+    <string-array name="pref_simple_mode_values">
+        <item>UIT</item>
+        <item>AAN</item>
+        <item>AAN_VOOR_NON_WIFI</item>
+    </string-array>
+    <string-array name="pref_web_default_zoom_values">
+        <item>VER</item>
+        <item>MEDIUM</item>
+        <item>DICHTBIJ</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices">
+        <item>Standaard</item>
+        <item>Chrome Desktop</item>
+        <item>iPhone 3</item>
+        <item>iPhone 4</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices_values">
+        <item>STANDAARD</item>
+        <item>CHROME</item>
+        <item>IPHONE3</item>
+        <item>IPHONE4</item>
+        <item>IPAD</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices">
+        <item>Geen</item>
+        <item>Ga terug-vooruit</item>
+        <item>Wissel tabs</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices_values">
+        <item>GEEN</item>
+        <item>TERUG_VOORUIT</item>
+        <item>WISSEL_TABS</item>
+    </string-array>
+    <string-array name="pref_single_click_choices">
+        <item>Open link in huidige tab</item>
+        <item>Open link in nieuwe tab</item>
+        <item>Open link in nieuwe tab op de achtergrond</item>
+    </string-array>
+    <string-array name="pref_long_click_choices">
+        <item>Toon menu opties</item>
+        <item>Open link in nieuwe tab</item>
+        <item>Open link in nieuwe tab op de achtergrond</item>
+    </string-array>
+    <string-array name="pref_link_choices_values">
+        <item>STANDAARD</item>
+        <item>NIEUWE_TAB</item>
+        <item>ACHTERGROND_TAB</item>
+    </string-array>
+</resources>

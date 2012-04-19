@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>همیشه روشن</item>
+        <item>همیشه خاموش</item>
+        <item>نشان دادن همیشگی</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>کوچک</item>
+        <item>عادی</item>
+        <item>بزرگ</item>
+        <item>بزرگتر</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>دور</item>
+        <item>متوسط</item>
+        <item>بستن</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>لاتین-1 (ISO-8859-1)</item>
+        <item>یونیکد (UTF-8)</item>
+        <item>چینی (GBK)</item>
+        <item>چینی (Big5)</item>
+        <item>ژاپنی (ISO-2022-JP)</item>
+        <item>ژاپنی (SHIFT_JIS)</item>
+        <item>ژاپنی (EUC-JP)</item>
+    </string-array>
+    <string-array name="bookmark_control_items">
+        <item>ایجاد یک شاخه جدید</item>
+        <item>ایجاد نشانک جدید</item>
+        <item>وارد کردن نشانک ها</item>
+        <item>صادر کردن نشانک ها</item>
+    </string-array>
+    <string-array name="not_found_page_titles">
+        <item>صفحه وب یافت نشد</item>
+    </string-array>
+    <string-array name="pref_load_images_choice">
+        <item>فعال</item>
+        <item>غیرفعال</item>
+        <item>فعال در اتصال وای فای</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice">
+        <item>پیش فرض</item>
+        <item>حرکت در صفحه</item>
+        <item>تعویض زبانه</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice">
+        <item>همیشه تنظیمات کلید تنظیم صدااعمال شود</item>
+        <item>فقط زمانی که پلیر باز نباشد اعمال شود</item>
+    </string-array>
+    <string-array name="pref_reading_mode_choices">
+        <item>به صورت خودکار وارد شو</item>
+        <item>به صورت دستی وارد شو</item>
+        <item>خاموش</item>
+    </string-array>
+    <string-array name="pref_forum_mode_choices">
+        <item>به صورت خودکار وارد شو</item>
+        <item>به صورت دستی وارد شو</item>
+        <item>خاموش</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_choices">
+        <item>نشان دادن</item>
+        <item>مخفی کردن عقب / جلو​در حالت تمام صفحه</item>
+        <item>خودکار مخفی</item>
+        <item>کلیدهای شناور را هرگز نشان نده</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_choices">
+        <item>همیشه نوار وضعیت را نشان بده</item>
+        <item>همیشه نوار وضعیت را مخفی کن</item>
+        <item>خودکار</item>
+    </string-array>
+    <string-array name="pref_simple_mode_choices">
+        <item>غیرفعال</item>
+        <item>فعال</item>
+        <item>فعال در اتصال غیر وای فای</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices">
+        <item>پیش فرض</item>
+        <item>مرورگر کروم</item>
+        <item>آیفون 3</item>
+        <item>آیفون 4</item>
+        <item>آیپد</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices">
+        <item>هیچ کدام</item>
+        <item>بازگشت به جلو</item>
+        <item>تعویض زبانه ها</item>
+    </string-array>
+    <string-array name="pref_single_click_choices">
+        <item>باز کردن لینک در زبانه فعلی</item>
+        <item>باز کردن لینک در زبانه جدید و تغییر زبانه</item>
+        <item>باز کردن لینک در زبانه جدید در پس زمینه</item>
+    </string-array>
+    <string-array name="pref_long_click_choices">
+        <item>نمایش منوی زمینه</item>
+        <item>باز کردن لینک در زبانه جدید و تغییر زبانه</item>
+        <item>باز کردن لینک در زبانه جدید در پس زمینه</item>
+    </string-array>
+</resources>

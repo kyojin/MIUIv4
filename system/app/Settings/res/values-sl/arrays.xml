@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item>yyyy-MM-dd</item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+    </string-array>
+    <string-array name="date_format_titles">
+        <item>Year-Month-Date</item>
+        <item>Month-Date-Year</item>
+        <item>Date-Month-Year</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>Brez animacij</item>
+        <item>Nekatere animacije</item>
+        <item>Vse animacije</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>Prikazana ni nobena animacija oken.</item>
+        <item>Nekatere animacije oken so prikazane</item>
+        <item>Prikazane so vse animacije oken</item>
+    </string-array>
+</resources>

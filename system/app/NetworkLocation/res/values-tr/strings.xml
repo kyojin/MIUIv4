@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ağ Konumu</string>
+    <string name="location_warning_title">Konum onayı</string>
+    <string name="location_warning_message">"Anonim Konum verileri toplamak için Google'a izin ver."</string>
+    <string name="agree">Katılıyorum</string>
+    <string name="disagree">Katılmıyorum</string>
+</resources>

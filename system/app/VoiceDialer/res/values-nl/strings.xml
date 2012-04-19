@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voiceDialer">Spraak kiezer</string>
+    <string name="tool_tip_title">Wist u dat…</string>
+    <string name="tool_tip_message">Druk &amp; houd de groene beltoets in en de spraak kiezer opent.</string>
+    <string name="examples">" Voorbeelden:"</string>
+    <string name="title">Spraak Kiezer</string>
+    <string name="bluetooth_title">Bluetooth Spraak Kiezer</string>
+    <string name="initializing">Opstarten.</string>
+    <string name="listening">Luisteren…</string>
+    <string name="please_try_again">Probeer opnieuw.</string>
+    <string name="failure">Mislukt</string>
+    <string name="recognition_error">Je kan proberen je telefoon opnieuw op te starten.</string>
+    <string name="headset_connection_lost">Connectie koptelefoon verloren.</string>
+    <string name="at_home">" in huis"</string>
+    <string name="on_mobile">" op mobiel"</string>
+    <string name="at_work">" op werk"</string>
+    <string name="at_other">" ergens anders"</string>
+    <string name="logging_enabled">Spraak kiezer logging ingeschakeld.</string>
+    <string name="logging_disabled">Spraak kiezer logging uitgeschakeld.</string>
+    <string name="speak_now_tts">Spreek nu.</string>
+    <string name="no_results_tts">Geen resultaten, probeer opnieuw.</string>
+    <string name="invalid_choice_tts">Ongeldige keuze.</string>
+    <string name="goodbye_tts">Tot ziens.</string>
+</resources>

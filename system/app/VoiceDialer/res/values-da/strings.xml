@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voiceDialer">Voice Dialer</string>
+    <string name="tool_tip_title">Vidste du…</string>
+    <string name="tool_tip_message">Klik &amp; hold den grønne opkaldsknap starter Voice Dialer.</string>
+    <string name="examples">" Eksempler: "<b>" 
+\"Ring til Jens Petersen\" 
+\"Ring til Jens Petersen hjemme, …\" 
+\"Ring til telefonsvarer\" 
+\"Tast (866) 555 0123\" 
+\"Tast 911, 811, …\" 
+\"Tast +44 7333 444 555\" 
+\"Genopkald\" 
+\"Åben kalender\" "</b>" "</string>
+    <string name="title">Voice Dialer</string>
+    <string name="bluetooth_title">Bluetooth Voice Dialer</string>
+    <string name="initializing">Starter op.</string>
+    <string name="listening">Lytter…</string>
+    <string name="please_try_again">Prøve igen.</string>
+    <string name="failure">Fejl</string>
+    <string name="recognition_error">Du kan også prøve at genstarte telefonen.</string>
+    <string name="headset_connection_lost">Forbindelse til Headset tabt.</string>
+    <string name="at_home">" hjemme"</string>
+    <string name="on_mobile">" mobil"</string>
+    <string name="at_work">" arbejde"</string>
+    <string name="at_other">" andet"</string>
+    <string name="logging_enabled">Voice Dialer registrering er aktiveret.</string>
+    <string name="logging_disabled">Voice Dialer registrering er deaktiveret.</string>
+    <string name="speak_now_tts">Tal nu.</string>
+    <string name="no_results_tts">Ingen resultater, prøve igen.</string>
+    <string name="invalid_choice_tts">Ugyldigt valg.</string>
+    <string name="goodbye_tts">Farvel.</string>
+</resources>

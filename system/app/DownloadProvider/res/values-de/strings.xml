@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Download-Manager</string>
+    <string name="permlab_downloadManager">Auf Download-Manager zugreifen</string>
+    <string name="permdesc_downloadManager">Ermöglicht der App den Zugriff auf den Download-Manager zum Herunterladen von Dateien. Diese Funktion kann von bösartigen Apps dazu verwendet werden, Ladevorgänge zu unterbrechen und auf private Daten zuzugreifen.</string>
+    <string name="permlab_downloadManagerAdvanced">Erweiterte Funktionen des Download-Managers.</string>
+    <string name="permdesc_downloadManagerAdvanced">Der Anwendung wird ermöglicht, auf die erweiterten Funktionen des Download-Managers zuzugreifen. Schädliche Anwendungen können so Downloads unterbrechen und auf persönliche Daten zugreifen.</string>
+    <string name="permlab_downloadCompletedIntent">Benachrichtigungen zu Ladevorgängen senden</string>
+    <string name="permdesc_downloadCompletedIntent">Ermöglicht es der Anwendung, Benachrichtigungen zu abgeschlossenen Ladevorgängen zu senden. Diese Funktion kann von bösartigen Anwendungen dazu verwendet werden, den Ladevorgang anderer Anwendungen zu stören.</string>
+    <string name="permlab_seeAllExternal">Alle USB-Speicher-Downloads anz.</string>
+    <string name="permdesc_seeAllExternal">Ermöglicht der App, alle Downloads an die SD-Karte anzuzeigen, unabhängig davon, von welcher App sie heruntergeladen wurden</string>
+    <string name="permlab_downloadCacheNonPurgeable">Speicherplatz im Download-Cache reservieren</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Ermöglicht das Herunterladen von Dateien in den Download-Cache, die nicht automatisch gelöscht werden können, wenn der Download-Manager mehr Speicher benötigt</string>
+    <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
+    <string name="permdesc_downloadWithoutNotification">Ermöglicht der App, Dateien über den Download-Manager herunterzuladen, ohne dass dem Nutzer Benachrichtigungen angezeigt werden</string>
+    <string name="permlab_accessAllDownloads">Zugriff auf alle System-Downloads</string>
+    <string name="permdesc_accessAllDownloads">Die Anwendung darf alle Downloads anzeigen und ändern, die von Systemanwendungen veranlasst wurden.</string>
+    <string name="download_unknown_title">&lt;Unbenannt></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" und %d weitere"</string>
+    <string name="notification_download_complete">Ladevorgang abgeschlossen</string>
+    <string name="notification_download_failed">Download fehlgeschlagen</string>
+    <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN</string>
+    <string name="notification_paused_in_background">Im Hintergrund pausiert</string>
+    <string name="wifi_required_title">Download zu groß für Netzwerk dieses Betreibers.</string>
+    <string name="wifi_required_body" formatted="false">"Dieser Download (%s ) ist nur über WLAN möglich. 
+
+Klicken Sie auf %s  und der Download wird bei Ihrer nächsten WLAN-Einwahl durchgeführt."</string>
+    <string name="wifi_recommended_title">Datei zu groß (%s)</string>
+    <string name="wifi_recommended_body">"Dieser Download könnte die Akkulaufzeit verkürzen und/oder Ihre mobile Datenverbindung überlasten. Je nach Vertrag können Ihnen zusätzliche Kosten entstehen.
+
+ Klicken Sie auf \"Queue\" und der Download wird bei Ihrer nächsten WLAN-Einwahl durchgeführt.
+
+ Sie können die Standardeinstellungen in \"Einstellungen\" preference page."</string>
+    <string name="button_queue_for_wifi">Warteschlange</string>
+    <string name="button_cancel_download">Abbrechen</string>
+    <string name="button_start_now">Jetzt starten</string>
+    <string name="download_percent">%d %%</string>
+    <string name="dialog_insufficient_space_on_external">Nicht genügend Speicherplatz auf externen Speicher</string>
+    <string name="dialog_insufficient_space_on_cache">Nicht genügend Speicherplatz auf internen Speicher</string>
+</resources>

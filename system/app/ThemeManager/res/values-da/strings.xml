@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Temaer</string>
+    <string name="theme_activity_lable">Temaer</string>
+    <string name="theme_changing_dialog_title">Klargører nyt tema, vent venligst...</string>
+    <string name="theme_changed_message">Indstilling lykkedes!</string>
+    <string name="theme_changed_failed_message">Indstilling af tema slog fejl</string>
+    <string name="backup_preference_title">Backup tilpasset tema</string>
+    <string name="backup_theme_dialog_ok">Backup</string>
+    <string name="backup_theme_dialog_message">"Backup nuværende tema til:
+ SD-kort
+ Sti: \\MIUI\\theme\\backup
+ Navn: backup.mtz"</string>
+    <string name="backup_theme_progress_message">"Laver backup af temafiler,
+vent venligst..."</string>
+    <string name="backup_theme_success_message">Backup af tema lykkedes</string>
+    <string name="theme_description_title_default">Standard</string>
+    <string name="theme_description_title_customized">Tilpas</string>
+    <string name="component_category_title">Rediger tema</string>
+    <string name="component_category_style_title">Layout</string>
+    <string name="component_category_wallpaper_title">Tapet</string>
+    <string name="component_category_ringtone_title">Ringetone</string>
+    <string name="theme_component_title_framework">Systemtema</string>
+    <string name="theme_component_title_mms">Beskedtema</string>
+    <string name="theme_component_title_wallpaper">Skrivebord</string>
+    <string name="theme_component_title_lockwallpaper">Låseskærm</string>
+    <string name="theme_component_title_icon">Ikon Sæt</string>
+    <string name="theme_component_title_boot_animation">Boot Animation</string>
+    <string name="theme_component_title_boot_audio">Boot Lyd</string>
+    <string name="theme_component_title_font">Skrifttype</string>
+    <string name="theme_component_title_ringtone">Ringetone</string>
+    <string name="theme_component_title_notification">Notifikationstone</string>
+    <string name="theme_component_title_alarm">Alarm</string>
+    <string name="theme_component_title_contact">Opkaldstema</string>
+    <string name="theme_component_title_lockstyle">Lås</string>
+    <string name="theme_component_title_statusbar">Statusmenu</string>
+    <string name="theme_component_title_launcher">Launcher</string>
+    <string name="theme_component_title_audio_effect">Lydeffekt</string>
+    <string name="theme_component_title_others">Andet</string>
+    <string name="theme_component_title_all">Temaer</string>
+    <string name="apply_theme_no_select_message">Vælg fra elementer!</string>
+    <string name="apply_lockscreen_paper_tips">Brugerdefineret låseskærm er i brug, det nye låseskærmstapet vil muligvis ikke blive anvendt.</string>
+    <string name="play_all_audio_effect">Afspil lydeffekt (total: %1$s)</string>
+    <string name="theme_import">Importer tema fra SD-kort</string>
+    <string name="theme_select_others">Andre</string>
+    <string name="third_party_pickers_activity_title">Indstil %1$s</string>
+    <string name="wallpaper_settings">Indstillinger for tapet</string>
+    <string name="desktop_wallpaper">Skrivebord</string>
+    <string name="live_wallpaper">Live Tapet</string>
+    <string name="lockscreen_wallpaper">Låseskærm</string>
+    <string name="component_settings_title">Tilpas aktuelle tema</string>
+    <string name="component_select_title">Vælg element(er) (%1$s)</string>
+    <string name="component_include_title">Inkluderede elementer (%1$s)</string>
+    <string name="component_screen_title">Inkluder tapet</string>
+    <string name="resource_fail_to_show">Temaet indeholder ikke de valgte elementer</string>
+    <string name="new_format_convert">Konverterer %s til nyt format</string>
+    <string name="old_format_title">Gammelt tema format</string>
+    <string name="old_format_fail">Konvertering mislykkedes, prøv igen, eller tryk på anvend for at gen-downloade elementerne i det korrekte format</string>
+    <string name="old_format_convert_tip1">Dette tema er ikke i det seneste format, og kan ikke anvendes direkte, konverteringen tager lang tid, vil du fortsætte?</string>
+    <string name="old_format_convert_tip2">Du kan også slette elementerne, og gen-downloade det i seneste format</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="callrecordview_menu_show_values">
+        <item>@string/callrecordview_menu_show_all</item>
+        <item>@string/callrecordview_menu_show_missed</item>
+        <item>@string/callrecordview_menu_show_called</item>
+        <item>@string/callrecordview_menu_show_accepted</item>
+        <item>@string/callrecordview_menu_show_stranger</item>
+    </array>
+    <string-array name="pick_photo_values">
+        <item>Fénykép készítése</item>
+        <item>Albumból</item>
+        <item>Avatarok</item>
+        <item>Alapértelmezés visszaállítása</item>
+    </string-array>
+    <string-array name="pick_incoming_call_photo_values">
+        <item>Fénykép készítése</item>
+        <item>Választás albumból</item>
+    </string-array>
+    <string-array name="edit_incoming_call_photo_values">
+        <item>Fénykép készítése</item>
+        <item>Választás albumból</item>
+        <item>Kép méretének módosítása</item>
+        <item>Törlés</item>
+    </string-array>
+    <string-array name="click_shortcut_entries">
+        <item>Hívás</item>
+        <item>Névjegy megtekintése</item>
+        <item>Parancsikonok</item>
+    </string-array>
+    <string-array name="click_shortcut_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <array name="dialer_item_click_guide_options">
+        <item>@string/dialer_item_click_guide_call</item>
+        <item>@string/dialer_item_click_guide_view_contacts</item>
+    </array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">계산기</string>
+    <string name="error">수식이 잘못되었습니다</string>
+    <string name="basic">간단 계산기</string>
+    <string name="advanced">공학용 계산기</string>
+    <string name="clear_history">기록 삭제</string>
+    <string name="Error1">수식이 잘못되었습니다</string>
+    <string name="Error2">수식이 잘못되었습니다</string>
+    <string name="Error3">수식이 잘못되었습니다</string>
+    <string name="Error7">연산 오류</string>
+    <string name="Error10">입력수치오류</string>
+    <string name="Error13">연산기호오류</string>
+    <string name="Error17">수식이 잘못되었습니다</string>
+    <string name="OK">확인</string>
+    <string name="copy_all">모두 복사</string>
+    <string name="copy">복사</string>
+    <string name="cut_all">모두 자르기</string>
+    <string name="cut">잘라내기</string>
+    <string name="paste">붙여넣기</string>
+    <string name="select_all">모두 선택</string>
+    <string name="start_selecting">텍스트 선택</string>
+    <string name="stop_selecting">텍스트 선택 중지</string>
+    <string name="Etc">***</string>
+    <string name="errorparen">수식이 잘못되었습니다</string>
+</resources>

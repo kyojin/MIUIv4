@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="counter_names">
+        <item>Danes</item>
+        <item>Ta teden</item>
+        <item>Ta mesec</item>
+        <item>Prejšnji mesec</item>
+    </string-array>
+</resources>

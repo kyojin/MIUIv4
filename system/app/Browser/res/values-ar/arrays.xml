@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="search_engines">
+        <item>google</item>
+        <item>baidu</item>
+        <item>yahoo_cn</item>
+        <item>bing_zh_CN</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>مفتوح دائما</item>
+        <item>فتح عند الحاجة</item>
+        <item>أغلق</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>صغير جداً</item>
+        <item>صغير</item>
+        <item>عادي</item>
+        <item>كبير</item>
+        <item>كبير جداً</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>بعيد</item>
+        <item>عادي</item>
+        <item>قريب</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>لاتينية-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>الصينية (GBK)</item>
+        <item>الصينية (Big5)</item>
+        <item>اللغة اليابانية (ISO-2022-JP)</item>
+        <item>اللغة اليابانية (SHIFT_JIS)</item>
+        <item>اللغة اليابانية (EUC-JP)</item>
+    </string-array>
+</resources>

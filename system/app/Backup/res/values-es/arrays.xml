@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Contactos</item>
+        <item>Aplicaciones</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Gallery</item>
+        <item>Music</item>
+        <item>Recorder</item>
+        <item>Browser</item>
+        <item>Camera</item>
+        <item>File Explorer</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Contactos</item>
+        <item>Registro de llamadas</item>
+        <item>Mensajes</item>
+        <item>Multimedia Messages</item>
+        <item>Ajustes de Sistema</item>
+        <item>Conexiones WIFI</item>
+        <item>Escritorios</item>
+        <item>Alarmas</item>
+        <item>Notas</item>
+        <item>Block Settings</item>
+        <item>CurrentTheme</item>
+        <item>Superuser</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>(Datos)</item>
+        <item>(Aplicaciones)</item>
+        <item>(Aplicaciones + Datos)</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Contactos</item>
+        <item>Registro de Llamadas</item>
+        <item>Mensajes</item>
+        <item>Conexiones WIFI</item>
+        <item>Notas</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Contacts</item>
+        <item>WLAN Settings</item>
+        <item>Notes</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Call Logs</item>
+        <item>Messages</item>
+    </string-array>
+</resources>

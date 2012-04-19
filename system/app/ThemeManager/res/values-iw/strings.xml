@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ערכות נושא</string>
+    <string name="theme_activity_lable">ערכות נושא</string>
+    <string name="theme_changing_dialog_title">מכין את ערכת הנושא, אנא המתן...</string>
+    <string name="theme_changed_message">ערכת הנושא הותקנה בהצלחה!</string>
+    <string name="theme_changed_failed_message">שינוי ערכת נושא נכשלה!</string>
+    <string name="backup_preference_title">גיבוי ההגדרות</string>
+    <string name="backup_theme_dialog_ok">גיבוי</string>
+    <string name="backup_theme_dialog_message">"גיבוי ערכת הנושא הנוכחית אל
+ כרטיס הזכרון /MIUI/theme folder
+ השם הוא %1$s"</string>
+    <string name="backup_theme_progress_message">מגבה קבצי ערכת נושא , אנא המתן...</string>
+    <string name="backup_theme_success_message">הגיבוי בוצע בהצלחה</string>
+    <string name="theme_description_title_default">ברירת מחדל</string>
+    <string name="theme_description_title_customized">ערכת נושא מותאמת אישית</string>
+    <string name="component_category_title">ערוך הגדרות ערכת נושא</string>
+    <string name="theme_component_title_framework">סיגנון מערכת</string>
+    <string name="theme_component_title_mms">סיגנון הודעות</string>
+    <string name="theme_component_title_wallpaper">רקע מסכי הבית</string>
+    <string name="theme_component_title_lockwallpaper">רקע מסך נעילה</string>
+    <string name="theme_component_title_icon">אייקון</string>
+    <string name="theme_component_title_boot_animation">אנימציית פתיחה</string>
+    <string name="theme_component_title_boot_audio">אודיו פתיחה</string>
+    <string name="theme_component_title_font">גופן</string>
+    <string name="theme_component_title_ringtone">צלצולים</string>
+    <string name="theme_component_title_notification">צלילים של התראות</string>
+    <string name="theme_component_title_alarm">שעון מעורר</string>
+    <string name="theme_component_title_contact">חייגן</string>
+    <string name="theme_component_title_lockstyle">סגנון נעילה</string>
+    <string name="theme_component_title_statusbar">מסך התראות</string>
+    <string name="theme_component_title_launcher">מסך הבית</string>
+    <string name="theme_component_title_others">אחרים</string>
+    <string name="theme_component_title_all" />
+    <string name="apply_theme_no_select_message">Select from modules!</string>
+    <string name="apply_lockscreen_paper_tips">Custom lock screen is currently in use, the new lock screen wallpaper may not apply.</string>
+    <string name="theme_import">ייבא ערכות נושא</string>
+    <string name="theme_select_others">אחר</string>
+    <string name="third_party_pickers_activity_title">קבע %1$s</string>
+    <string name="wallpaper_settings">הגדרות רקעים</string>
+    <string name="desktop_wallpaper">רקע מסכי הבית</string>
+    <string name="live_wallpaper">רקע חי</string>
+    <string name="lockscreen_wallpaper">רקע מסך נעילה</string>
+    <string name="component_settings_title">ערוך את ערכת הנושא</string>
+    <string name="component_select_title">Choose module(%1$s)</string>
+    <string name="component_include_title">Included module(%1$s)</string>
+    <string name="component_screen_title">פריטים נבחרו</string>
+    <string name="resource_fail_to_show">The theme package does not contain the appropriate resources</string>
+    <string name="new_format_convert">Converting %s to new format</string>
+    <string name="old_format_title">Old format resources detected</string>
+    <string name="old_format_fail">Conversion failed, click Apply to try again. Re-download the latest format of the resource if unsuccessful!</string>
+    <string name="old_format_convert_tip1">This theme package is not the latest format and can not be directly applied, the conversion will take a long time, proceed with conversion?</string>
+    <string name="old_format_convert_tip2">You can also delete the resources, and then re-download the latest format of the resources.</string>
+</resources>

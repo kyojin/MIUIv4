@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_content_plugins_choices">
+        <item>Sempre attivi</item>
+        <item>A richiesta</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="pref_content_plugins_values">
+        <item>ON</item>
+        <item>OFF</item>
+        <item>ON_DEMAND</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Piccolo</item>
+        <item>Normale</item>
+        <item>Grande</item>
+        <item>Molto grande</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Lontano</item>
+        <item>Medio</item>
+        <item>Vicino</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_values">
+        <item>Latin-1</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>Big5</item>
+        <item>ISO-2022-JP</item>
+        <item>SHIFT_JIS</item>
+        <item>EUC-JP</item>
+    </string-array>
+    <string-array name="bookmark_control_items">
+        <item>Crea nuova cartella</item>
+        <item>Crea nuovo segnalibro</item>
+        <item>Importa segnalibri</item>
+        <item>Esporta segnalibri</item>
+    </string-array>
+    <string-array name="not_found_page_titles">
+        <item>Pagina non trovata</item>
+    </string-array>
+    <string-array name="pref_load_images_choice">
+        <item>Abilita</item>
+        <item>Disabilita</item>
+        <item>Abilita in WIFI</item>
+    </string-array>
+    <string-array name="pref_load_images_choice_value">
+        <item>ON</item>
+        <item>OFF</item>
+        <item>ON_FOR_WIFI</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice">
+        <item>Default</item>
+        <item>Scorri pagina</item>
+        <item>Cambia Tab</item>
+    </string-array>
+    <string-array name="pref_volume_setting_choice_value">
+        <item>DEFAULT</item>
+        <item>SCROLL_PAGE</item>
+        <item>SWITCH_TAB</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice">
+        <item>Applica sempre</item>
+        <item>"Solo se non c'è musica in riproduzione"</item>
+    </string-array>
+    <string-array name="pref_volume_setting_enable_choice_value">
+        <item>ALWAYS</item>
+        <item>ONLY_NO_MUSIC</item>
+    </string-array>
+    <string-array name="pref_reading_mode_choices">
+        <item>Inserisci Automaticamente</item>
+        <item>Inserisci Manualmente</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="pref_reading_mode_values">
+        <item>AUTO</item>
+        <item>MANU</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_forum_mode_choices">
+        <item>Inserisci Automaticamente</item>
+        <item>Inserisci Manualmente</item>
+        <item>Disattivato</item>
+    </string-array>
+    <string-array name="pref_forum_mode_values">
+        <item>AUTO</item>
+        <item>MANU</item>
+        <item>OFF</item>
+    </string-array>
+    <string-array name="pref_text_size_values">
+        <item>SMALLER</item>
+        <item>NORMAL</item>
+        <item>LARGER</item>
+        <item>LARGEST</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_choices">
+        <item>Mostra</item>
+        <item>Nascondi a schermo intero</item>
+        <item>Nascondi automaticamente</item>
+        <item>Non mostrare pulsanti mobili</item>
+    </string-array>
+    <string-array name="pref_hide_buttons_in_fullscreen_values">
+        <item>NEEDED</item>
+        <item>EXCEPT_FULLSCREEN</item>
+        <item>AUTO</item>
+        <item>NEVER_SHOW</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_choices">
+        <item>Mostra sempre barra di stato</item>
+        <item>Nascondi sempre barra di stato</item>
+        <item>Automatico</item>
+    </string-array>
+    <string-array name="pref_hide_statusbar_values">
+        <item>ALWAYS_SHOW</item>
+        <item>ALWAYS_HIDE</item>
+        <item>AUTO</item>
+    </string-array>
+    <string-array name="pref_simple_mode_choices">
+        <item>Disabilita</item>
+        <item>Abilita</item>
+        <item>Abilita in connessioni non Wi-Fi</item>
+    </string-array>
+    <string-array name="pref_simple_mode_values">
+        <item>OFF</item>
+        <item>ON</item>
+        <item>ON_FOR_NON_WIFI</item>
+    </string-array>
+    <string-array name="pref_web_default_zoom_values">
+        <item>FAR</item>
+        <item>MEDIUM</item>
+        <item>CLOSE</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices">
+        <item>Default</item>
+        <item>Desktop Chrome</item>
+        <item>iPhone 3</item>
+        <item>iPhone 4</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_user_agent_choices_values">
+        <item>DEFAULT</item>
+        <item>CHROME</item>
+        <item>IPHONE3</item>
+        <item>IPHONE4</item>
+        <item>IPAD</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices">
+        <item>Nessuna</item>
+        <item>Avanza</item>
+        <item>Cambia tab</item>
+    </string-array>
+    <string-array name="pref_left_right_gesture_choices_values">
+        <item>NONE</item>
+        <item>BACK_FORWARD</item>
+        <item>SWITCH_TABS</item>
+    </string-array>
+    <string-array name="pref_single_click_choices">
+        <item>Apri link nel tab corrente</item>
+        <item>Apri link in nuovo Tab e cambia</item>
+        <item>Apri link in nuovo Tab in background</item>
+    </string-array>
+    <string-array name="pref_long_click_choices">
+        <item>Mostra menu contestuale</item>
+        <item>Apri link in nuovo Tab e cambia</item>
+        <item>Apri link in nuovo Tab in background</item>
+    </string-array>
+    <string-array name="pref_link_choices_values">
+        <item>DEFAULT</item>
+        <item>NEW_TAB</item>
+        <item>BACKGROUND_TAB</item>
+    </string-array>
+</resources>

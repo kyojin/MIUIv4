@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motywy</string>
+    <string name="theme_activity_lable">Motywy</string>
+    <string name="theme_changing_dialog_title">Ustawianie nowego motywu...</string>
+    <string name="theme_changed_message">Motyw zastosowany!</string>
+    <string name="theme_changed_failed_message">Ustawianie motywu: nieudane</string>
+    <string name="backup_preference_title">Zapisz zmodyfikowany motyw</string>
+    <string name="backup_theme_dialog_ok">OK</string>
+    <string name="backup_theme_dialog_message">"Lokalizacja motywu: Karta SD
+ Ścieżka: \\MIUI\\theme\\backup
+ Nazwa: backup.mtz"</string>
+    <string name="backup_theme_progress_message">Kopiowanie plików motywu...</string>
+    <string name="backup_theme_success_message">Kopia motywu zachowana pomyślnie</string>
+    <string name="theme_description_title_default">Domyślnie</string>
+    <string name="theme_description_title_customized">Zmień</string>
+    <string name="component_category_title">Własne</string>
+    <string name="component_category_style_title">Style</string>
+    <string name="component_category_wallpaper_title">Tapety</string>
+    <string name="component_category_ringtone_title">Dźwięki</string>
+    <string name="theme_component_title_framework">Motyw pulpitu</string>
+    <string name="theme_component_title_mms">Motyw SMS</string>
+    <string name="theme_component_title_wallpaper">Tapeta pulpitu</string>
+    <string name="theme_component_title_lockwallpaper">Tapeta blokady</string>
+    <string name="theme_component_title_icon">Ikony</string>
+    <string name="theme_component_title_boot_animation">Animacja uruch.</string>
+    <string name="theme_component_title_boot_audio">Dźwięk uruch.</string>
+    <string name="theme_component_title_font">Czcionki</string>
+    <string name="theme_component_title_ringtone">Dzwonek</string>
+    <string name="theme_component_title_notification">Powiadomienia</string>
+    <string name="theme_component_title_alarm">Alarm</string>
+    <string name="theme_component_title_contact">Motyw Dialera</string>
+    <string name="theme_component_title_lockstyle">Ekran blokady</string>
+    <string name="theme_component_title_statusbar">Pasek statusu</string>
+    <string name="theme_component_title_launcher">Pulpit</string>
+    <string name="theme_component_title_others">Inne</string>
+    <string name="theme_component_title_all">Motywy</string>
+    <string name="apply_theme_no_select_message">Wybierz z modułów!</string>
+    <string name="apply_lockscreen_paper_tips">Ekran blokady jest w użyciu, tapeta ekranu blokady może się nie zastosować.</string>
+    <string name="theme_import">Wczytaj motyw z karty SD</string>
+    <string name="theme_select_others">Inne</string>
+    <string name="third_party_pickers_activity_title">Ustaw %1$s</string>
+    <string name="wallpaper_settings">Tapety</string>
+    <string name="desktop_wallpaper">Tapeta pulpitu</string>
+    <string name="live_wallpaper">Żywa tapeta</string>
+    <string name="lockscreen_wallpaper">Tapeta blokady ekranu</string>
+    <string name="component_settings_title">Dostosuj motyw</string>
+    <string name="component_select_title">Wybierz składniki(%1$s)</string>
+    <string name="component_include_title">Wybrane(%1$s)</string>
+    <string name="component_screen_title">Dodaj zaznaczone</string>
+    <string name="resource_fail_to_show">Paczka z motywem nie zawiera odpowiednich zasobów</string>
+    <string name="new_format_convert">Konwertowanie %1$s do nowego formatu</string>
+    <string name="old_format_title">Stary format</string>
+    <string name="old_format_fail">Konwertowanie nieudane, spróbuj ponownie lub kliknij Zastosuj by pobrać ponownie motyw w nowym formacie!</string>
+    <string name="old_format_convert_tip1">Ten motyw nie może zostać zastosowany, ponieważ nie został utworzony w nowym formacie. Konwertowanie na nowy format zajmie dużo czasu. Kontynuować?</string>
+    <string name="old_format_convert_tip2">Możesz także usunąć motywy i pobrać ponownie w nowym formacie.</string>
+</resources>

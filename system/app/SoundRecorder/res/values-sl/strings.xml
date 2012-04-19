@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Snemalnik zvoka</string>
+    <string name="recording">Snemam</string>
+    <string name="recording_stopped">Snemanje prekinjeno</string>
+    <string name="storage_is_full">Shramba je polna</string>
+    <string name="max_length_reached">Dosežena je največja dolžina</string>
+    <string name="insert_sd_card">Vstavite kartico SD</string>
+    <string name="button_ok">V redu</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">dd-MM-yyyy HH:mm:ss</string>
+    <string name="audio_db_artist_name">Vaši posnetki</string>
+    <string name="audio_db_album_name">Zvočni posnetki</string>
+    <string name="audio_db_playlist_name">Moji posnetki</string>
+    <string name="error_sdcard_access">Dostop do kartice SD ni mogoč</string>
+    <string name="error_app_internal">Notranja programska napaka</string>
+    <string name="error_mediadb_new_record">Zvočnega posnetka ni bilo mogoče shraniti</string>
+    <string name="default_record_name">Neimenovan posnetek</string>
+    <string name="menu_view_record_list">Poglej posnetke</string>
+    <string name="menu_setting">Nastavitve</string>
+    <string name="delete_dialog_title">Izbrišem trenuten posnetek?</string>
+    <string name="preferences_title">Nastavitve</string>
+    <string name="pref_title_record_type">Kodek za snemanje</string>
+    <string name="prefDialogTitle_recordType">Izberite kodek</string>
+    <string name="prefDefault_recordType">audio/amr</string>
+    <string name="pref_title_enable_high_quality">Visoka kvaliteta</string>
+    <string name="pref_summary_enable_high_quality">Visoka kvaliteta posnetkov bo zavzela več prostora</string>
+    <string name="pref_title_enable_sound_effect">Omogoči zvočni efekt</string>
+    <string name="pref_summary_enable_sound_effect">Nastavi zvočni efekt posnetku</string>
+</resources>

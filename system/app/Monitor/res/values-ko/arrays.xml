@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="counter_names">
+        <item>오늘</item>
+        <item>이번 주</item>
+        <item>이번 달</item>
+    </string-array>
+</resources>

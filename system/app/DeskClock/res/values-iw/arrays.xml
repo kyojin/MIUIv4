@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>שעון המעורר מכוון לפחות מדקה מעכשיו.</item>
+        <item>שעון המעורר מכוון ל %1$s מעכשיו.</item>
+        <item>שעון המעורר מכוון ל %2$s מעכשיו.</item>
+        <item>שעון המעורר מכוון ל %1$1$s ו- %2$2$s מעכשיו.</item>
+        <item>שעון המעורר מכוון ל %3$s מעכשיו.</item>
+        <item>שעון המעורר מכוון ל %1$1$s ו- %2$3$s מעכשיו.</item>
+        <item>שעון המעורר מכוון ל %1$2$s ו- %2$3$s מעכשיו.</item>
+        <item>שעון המעורר מכוון ל %1$1$s, %2$2$s, ו- %3$3$s מעכשיו.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 דקות</item>
+        <item>10 דקות</item>
+        <item>15 דקות</item>
+        <item>20 דקות</item>
+        <item>25 דקות</item>
+        <item>30 דקות</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>ללא</item>
+        <item>נודניק</item>
+        <item>הפסק</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

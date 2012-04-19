@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>همه دانلودها</item>
+        <item>برنامه مارکت</item>
+        <item>موزیک</item>
+        <item>تم ها</item>
+        <item>مرورگر</item>
+        <item>سایر</item>
+    </string-array>
+</resources>

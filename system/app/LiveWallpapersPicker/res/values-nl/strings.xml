@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Live Achtergronden Kiezer</string>
+    <string name="live_wallpaper_picker_title">Live achtergronden</string>
+    <string name="live_wallpaper_preview_title">Live achtergronden preview</string>
+    <string name="configure_wallpaper">Instellingen...</string>
+    <string name="wallpaper_instructions">Achtergrond instellen</string>
+    <string name="live_wallpaper_empty">Geen live achtergronden.</string>
+    <string name="set_live_wallpaper">Achtergrond instellen</string>
+    <string name="wallpaper_title_and_author" formatted="false">%1$s door %2$s</string>
+    <string name="live_wallpaper_loading">Laden live achtergrond...</string>
+</resources>

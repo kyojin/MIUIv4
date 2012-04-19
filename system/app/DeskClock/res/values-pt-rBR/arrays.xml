@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Este alarme está definido para menos de um minuto a partir de agora.</item>
+        <item>Este alarme está definido para %1$s a partir de agora.</item>
+        <item>Este alarme está definido para %2$s a partir de agora.</item>
+        <item>Este alarme está definido para %1$1$s e %2$2$s a partir de agora.</item>
+        <item>Este alarme está definido para %3$s a partir de agora.</item>
+        <item>Este alarme está definido para %1$1$s e %2$3$s a partir de agora.</item>
+        <item>Este alarme está definido para %1$2$s e %2$3$s a partir de agora.</item>
+        <item>Este alarme está definido para %1$1$s, %2$2$s e %3$3$s a partir de agora.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Nenhum</item>
+        <item>Colocar em modo de espera</item>
+        <item>Descartar</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

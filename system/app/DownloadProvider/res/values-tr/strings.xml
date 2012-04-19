@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">İndirme yöneticisi</string>
+    <string name="permlab_downloadManager">İndirme yöneticisini aç</string>
+    <string name="permdesc_downloadManager">Uygulamalara indirme yöneticisine erişmek için izin vermek, bazı kötü niyetli uygulamaların ve sitelerin özel bilgi erişmesine neden olabilir.</string>
+    <string name="permlab_downloadManagerAdvanced">Gelişmiş indirme yöneticisi işlevleri.</string>
+    <string name="permdesc_downloadManagerAdvanced">Uygulamalara indirme yöneticisinin gelişmiş fonksiyonlarına erişmek için izin verir .Kötü niyetli uygulamalar sitelere erişim ve özel bilgilerinize erişmek için bunu kullanabilir.</string>
+    <string name="permlab_downloadCompletedIntent">Yükleme bildirimleri gönder.</string>
+    <string name="permdesc_downloadCompletedIntent">İndirilme ilgili bildirimleri göndermek için uygulamalara izin verir.Kötü niyetli uygulamalar burada da dikkat ediyoruz.</string>
+    <string name="permlab_seeAllExternal">İndirilenleri SD Kartta gör</string>
+    <string name="permdesc_seeAllExternal">Uygulamalara SD Karta erişim izni verir.</string>
+    <string name="permlab_downloadCacheNonPurgeable">indirme alan boşluğunu rezerve et</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Uygulamayı indirme alan boşluğuna indirmeye izin verir ancak daha fazla yere ihtiyaç duyulduğunda indirme yöneticisi otomatik olarak indirme alan boşluğunu temizleyemez.</string>
+    <string name="permlab_downloadWithoutNotification">Dosyaları uyarı vermeden indir</string>
+    <string name="permdesc_downloadWithoutNotification">Uygulamayı indirme yöneticisi tarafından kullanıcıya uyarı vermeden indirmeye izin verir.</string>
+    <string name="permlab_accessAllDownloads">Tüm sistem indirimlerine eriş</string>
+    <string name="permdesc_accessAllDownloads">Sistemde herhangi bir uygulama tarafıdan başlatılan tüm başvurları inceleme ve düzenlemeye izin verir.</string>
+    <string name="download_unknown_title">&lt;Başlıksız></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" ve %d daha"</string>
+    <string name="notification_download_complete">İndirme tamamlandı</string>
+    <string name="notification_download_failed">İndirme başarısız</string>
+    <string name="notification_need_wifi_for_size">İndirme boyutu Wi-Fi gerektiriyor</string>
+    <string name="wifi_required_title">İndirme dosyası mobil ağ için çok büyük</string>
+    <string name="wifi_required_body" formatted="false">"%s inidirme işlemi tamamlamak için WiFi kullanmalısınız. 
+
+Bir dahaki sefere WiFi ağına balandığında indirme işlemini tamamlamak için %s tıklayın."</string>
+    <string name="wifi_recommended_title">Daha sonra indirmek için kuyruğa al?</string>
+    <string name="wifi_recommended_body" formatted="false">"Bu (%s) indirme işlemini başlatmak telefonun pil sürecini kısaltabilir ve/veya telefon data bağlantısını aşırı kullanımına sebep olabilir.
+
+Bir dahaki sefere WiFi ağına balandığında indirme işlemini tamamlamak için %s tıklayın."</string>
+    <string name="button_queue_for_wifi">Kuyruk</string>
+    <string name="button_cancel_download">İptal</string>
+    <string name="button_start_now">Şimdi başlat</string>
+</resources>

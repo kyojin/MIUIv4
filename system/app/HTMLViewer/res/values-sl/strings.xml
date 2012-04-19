@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Pregledovalnik HTML</string>
+    <string name="permlab_accessDrm">Dostop do vsebine DRM.</string>
+    <string name="permdesc_accessDrm">Omogoča programu dostop do vsebine z zaščito DRM.</string>
+</resources>

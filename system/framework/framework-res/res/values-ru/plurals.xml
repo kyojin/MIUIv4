@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="num_seconds_ago">
+        <item quantity="other">%d секунды назад</item>
+        <item quantity="one">1 секунду назад</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d минуты назад</item>
+        <item quantity="one">1 минуту назад</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d часов назад</item>
+        <item quantity="one">1 час назад</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Последний %d дней назад</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d дней назад</item>
+        <item quantity="one">вчера</item>
+    </plurals>
+    <plurals name="in_num_seconds">
+        <item quantity="other">через %d секунд</item>
+        <item quantity="one">через 1 секунду</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">через %d минут</item>
+        <item quantity="one">через 1 минуту</item>
+    </plurals>
+    <plurals name="in_num_hours">
+        <item quantity="other">через %d часов</item>
+        <item quantity="one">через 1 час</item>
+    </plurals>
+    <plurals name="in_num_days">
+        <item quantity="other">через %d дней</item>
+        <item quantity="one">завтра</item>
+    </plurals>
+    <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">%d сек. назад</item>
+        <item quantity="one">1 сек. назад</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d мин. назад</item>
+        <item quantity="one">1 мин. назад</item>
+    </plurals>
+    <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">%d час. назад</item>
+        <item quantity="one">1 час назад</item>
+    </plurals>
+    <plurals name="abbrev_num_days_ago">
+        <item quantity="other">%d дней назад</item>
+        <item quantity="one">вчера</item>
+    </plurals>
+    <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">через %d сек.</item>
+        <item quantity="one">через 1 сек.</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">через %d мин.</item>
+        <item quantity="one">через 1 мин.</item>
+    </plurals>
+    <plurals name="abbrev_in_num_hours">
+        <item quantity="other">через %d часов</item>
+        <item quantity="one">через 1 час</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">через %d дней</item>
+        <item quantity="one">завтра</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">Wi-Fi сети</item>
+        <item quantity="one">Wi-Fi сеть</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Открытые Wi-Fi сети</item>
+        <item quantity="one">Открытая Wi-Fi сеть</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Только что</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Только что</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Немедленно</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Немедленно</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 час назад</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 час назад</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">1 час назад</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 час назад</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Полчаса назад</item>
+    </plurals>
+</resources>

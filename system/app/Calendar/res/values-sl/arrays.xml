@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>1 ura</item>
+        <item>2 uri</item>
+        <item>3 ure</item>
+        <item>12 ur</item>
+        <item>24 ur</item>
+        <item>2 dni</item>
+        <item>1 teden</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Brez</item>
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>1 ura</item>
+        <item>2 uri</item>
+        <item>3 ure</item>
+        <item>12 ur</item>
+        <item>24 ur</item>
+        <item>2 dni</item>
+        <item>1 teden</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshallovi otoki</item>
+        <item>Otok Midway</item>
+        <item>Havaji</item>
+        <item>Aljaska</item>
+        <item>Tihooceanski čas</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Gorski čas</item>
+        <item>Srednja Amerika</item>
+        <item>Osrednji čas</item>
+        <item>Ciudad Mexico</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Vzhodni čas</item>
+        <item>Venezuela</item>
+        <item>Atlantski čas</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Nova Fundlandija</item>
+        <item>Brazilija</item>
+        <item>Buenos Aires</item>
+        <item>Grenlandija</item>
+        <item>Montevideo</item>
+        <item>Srednji Atlantik</item>
+        <item>Azori</item>
+        <item>Zelenortski otoki</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Beograd</item>
+        <item>Bruselj</item>
+        <item>Sarajevo</item>
+        <item>Pariz</item>
+        <item>Windhoek</item>
+        <item>Zahodnoafriški čas</item>
+        <item>Aman, Jordanija</item>
+        <item>Atene, Istanbul</item>
+        <item>Bejrut, Libanon</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jeruzalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kuvajt</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Erevan</item>
+        <item>Dubaj</item>
+        <item>Kabul</item>
+        <item>Islamabad, Karači</item>
+        <item>Uralsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Šrilanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Jangon</item>
+        <item>Krasnojarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Tajpej</item>
+        <item>Seul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fidži</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="timezone_values">
+        <item>Pacifik/Majuro</item>
+        <item>Pacifik/Midway</item>
+        <item>Pacifik/Honolulu</item>
+        <item>Amerika/Anchorage</item>
+        <item>Amerika/Los_Angeles</item>
+        <item>Amerika/Tijuana</item>
+        <item>Amerika/Phoenix</item>
+        <item>Amerika/Chihuahua</item>
+        <item>Amerika/Denver</item>
+        <item>Amerika/Kostarika</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Mexico_City</item>
+        <item>Amerika/Regina</item>
+        <item>Amerika/Bogota</item>
+        <item>Amerika/New_York</item>
+        <item>Amerika/Caracas</item>
+        <item>Amerika/Barbados</item>
+        <item>Amerika/Manaus</item>
+        <item>Amerika/Santiago</item>
+        <item>Amerika/St_Johns</item>
+        <item>Amerika/Sao_Paulo</item>
+        <item>Amerika/Argentina/Buenos_Aires</item>
+        <item>Amerika/Godthab</item>
+        <item>Amerika/Montevideo</item>
+        <item>Atlantik/Južna_Georgia</item>
+        <item>Atlantik/Azori</item>
+        <item>Atlantik/Cape_Verde</item>
+        <item>Afrika/Casablanca</item>
+        <item>Evropa/London</item>
+        <item>Evropa/Amsterdam</item>
+        <item>Evropa/Beograd</item>
+        <item>Evropa/Bruselj</item>
+        <item>Evropa/Sarajevo</item>
+        <item>Evropa/Pariz</item>
+        <item>Afrika/Windhoek</item>
+        <item>Afrika/Brazzaville</item>
+        <item>Azija/Amman</item>
+        <item>Evropa/Atene</item>
+        <item>Azija/Bejrut</item>
+        <item>Afrika/Kairo</item>
+        <item>Evropa/Helsinki</item>
+        <item>Azija/Jeruzalem</item>
+        <item>Evropa/Minsk</item>
+        <item>Afrika/Harare</item>
+        <item>Azija/Baghdad</item>
+        <item>Evropa/Moskva</item>
+        <item>Azija/Kuvajt</item>
+        <item>Afrika/Nairobi</item>
+        <item>Azija/Tehran</item>
+        <item>Azija/Baku</item>
+        <item>Azija/Tbilisi</item>
+        <item>Azija/Yerevan</item>
+        <item>Azija/Dubaj</item>
+        <item>Azija/Kabul</item>
+        <item>Azija/Karachi</item>
+        <item>Azija/Oral</item>
+        <item>Azija/Yekaterinburg</item>
+        <item>Azija/Calcutta</item>
+        <item>Azija/Colombo</item>
+        <item>Azija/Katmandu</item>
+        <item>Azija/Almaty</item>
+        <item>Azija/Rangoon</item>
+        <item>Azija/Krasnoyarsk</item>
+        <item>Azija/Bangkok</item>
+        <item>Azija/Šanghaj</item>
+        <item>Azija/Hong_Kong</item>
+        <item>Azija/Irkutsk</item>
+        <item>Azija/Kuala_Lumpur</item>
+        <item>Australia/Perth</item>
+        <item>Azija/Taipei</item>
+        <item>Azija/Seoul</item>
+        <item>Azija/Tokyo</item>
+        <item>Azija/Yakutsk</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Sydney</item>
+        <item>Azija/Vladivostok</item>
+        <item>Pacific/Guam</item>
+        <item>Azija/Magadan</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Tongatapu</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Zasedeno</item>
+        <item>Na voljo</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Privzeto</item>
+        <item>Zasebno</item>
+        <item>Javno</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>prvi</item>
+        <item>sekunda</item>
+        <item>tretji</item>
+        <item>četrti</item>
+        <item>zadnji</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Brez odziva)</item>
+        <item>Da</item>
+        <item>Morda</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Samo ta dogodek</item>
+        <item>Ti in prihodnji dogodki</item>
+        <item>Vsi dogodki</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Ti in prihodnji dogodki</item>
+        <item>Vsi dogodki</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Samo za ta primer</item>
+        <item>Vsi dogodki v nizu</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Vedno</item>
+        <item>Samo v tihem načinu</item>
+        <item>Nikoli</item>
+    </string-array>
+    <string-array name="prefValues_alerts_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Opozorilo</item>
+        <item>Obvestilo vrstice stanja</item>
+        <item>Izključeno</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Da</item>
+        <item>Morda</item>
+        <item>Ne</item>
+    </string-array>
+</resources>

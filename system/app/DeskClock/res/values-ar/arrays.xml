@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>已将此闹钟设置为从现在起不到 1 分钟后提醒。</item>
+        <item>已将此闹钟设置为从现在起 %1$s后再提醒。</item>
+        <item>已将此闹钟设置为从现在起 %2$s后再提醒。</item>
+        <item>已将此闹钟设置为从现在起 %1$1$s %2$2$s后再提醒。</item>
+        <item>已将此闹钟设置为从现在起 %3$s后再提醒。</item>
+        <item>已将此闹钟设置为从现在起 %1$1$s %2$3$s后再提醒。</item>
+        <item>已将此闹钟设置为从现在起 %1$2$s %2$3$s后再提醒。</item>
+        <item>已将该闹钟设置为从现在起 %1$1$s %2$2$s %3$3$s后再提醒。</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 دقائق</item>
+        <item>10 دقائق</item>
+        <item>15 دقائق</item>
+        <item>20 دقائق</item>
+        <item>25 دقائق</item>
+        <item>30 دقائق</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>لا</item>
+        <item>ايقاف</item>
+        <item>إغلاق</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

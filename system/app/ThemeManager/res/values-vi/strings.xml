@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý Giao diện</string>
+    <string name="theme_activity_lable">Giao diện</string>
+    <string name="theme_changing_dialog_title">Đang đổi giao diện mới, vui lòng đợi...</string>
+    <string name="theme_changed_message">Áp dụng thành công!</string>
+    <string name="theme_changed_failed_message">Không đổi được Giao diện!</string>
+    <string name="backup_preference_title">Sao lưu</string>
+    <string name="backup_theme_dialog_ok">Sao lưu</string>
+    <string name="backup_theme_dialog_message">"Sao lưu Giao diện hiện tại vào Thẻ nhớ:
+ \\MIUI\\theme\\backup\\backup.mtz"</string>
+    <string name="backup_theme_progress_message">Đang sao lưu các tập tin Giao diện, vui lòng đợi...</string>
+    <string name="backup_theme_success_message">Sao lưu Giao diện thành công</string>
+    <string name="theme_description_title_default">Mặc định</string>
+    <string name="theme_description_title_customized">Tự chọn</string>
+    <string name="component_category_title">Tùy biến Giao diện</string>
+    <string name="theme_component_title_framework">Giao diện</string>
+    <string name="theme_component_title_mms">Giao diện SMS</string>
+    <string name="theme_component_title_wallpaper">Hình nền</string>
+    <string name="theme_component_title_lockwallpaper">Màn hình khóa</string>
+    <string name="theme_component_title_icon">Biểu tượng</string>
+    <string name="theme_component_title_boot_animation">Hình khởi động</string>
+    <string name="theme_component_title_boot_audio">Âm khởi động</string>
+    <string name="theme_component_title_font">Phông chữ</string>
+    <string name="theme_component_title_ringtone">Nhạc chuông</string>
+    <string name="theme_component_title_notification">Âm thông báo</string>
+    <string name="theme_component_title_alarm">Báo thức</string>
+    <string name="theme_component_title_contact">Bàn phím gọi</string>
+    <string name="theme_component_title_lockstyle">Khóa màn hình</string>
+    <string name="theme_component_title_statusbar">Thanh trạng thái</string>
+    <string name="theme_component_title_launcher">Màn hình chính</string>
+    <string name="theme_component_title_others">Khác</string>
+    <string name="theme_component_title_all">Giao diện</string>
+    <string name="apply_theme_no_select_message">Vui lòng chọn một Giao diện!</string>
+    <string name="apply_lockscreen_paper_tips">Màn hình khóa đang được sử dụng, màn hình xem trước có thể không được hiển thị!</string>
+    <string name="theme_import">Nhập Giao diện</string>
+    <string name="theme_select_others">Khác</string>
+    <string name="third_party_pickers_activity_title">Đặt %1$s</string>
+    <string name="wallpaper_settings">Thiết lập Hình nền</string>
+    <string name="desktop_wallpaper">Nền Màn hình chủ</string>
+    <string name="live_wallpaper">Hình nền động</string>
+    <string name="lockscreen_wallpaper">Nền Màn hình khóa</string>
+    <string name="component_settings_title">Tùy biến Giao diện</string>
+    <string name="component_select_title">Chọn (%1$s) mục</string>
+    <string name="component_include_title">Bao gồm (%1$s) mục</string>
+    <string name="component_screen_title">Hình nền</string>
+    <string name="resource_fail_to_show">Tập tin mtz không có đủ thông tin, không thể hiển thị được</string>
+    <string name="new_format_convert">Đang chuyển đổi %s qua định dạng mới</string>
+    <string name="old_format_title">Giao diện cũ</string>
+    <string name="old_format_fail">Không thể chuyển đổi định dạng, nhấn Áp dụng để thử lại</string>
+    <string name="old_format_convert_tip1">Gói Giao diện không thuộc định dạng mới, quá trình chuyển đổi sẽ hoàn thành trong thời gian ngắn</string>
+    <string name="old_format_convert_tip2">Dữ liệu cũ có thể xóa và cập nhật lên phiên bản mới thông qua việc tải về.</string>
+</resources>

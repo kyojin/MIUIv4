@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">녹음기</string>
+    <string name="recording">녹음중</string>
+    <string name="recording_stopped">녹음 중지됨</string>
+    <string name="storage_is_full">저장공간이 부족합니다</string>
+    <string name="max_length_reached">최대 녹음시간에 근접하였습니다</string>
+    <string name="insert_sd_card">SD카드를 삽입하세요</string>
+    <string name="button_ok">확인</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
+    <string name="audio_db_artist_name">Your recordings</string>
+    <string name="audio_db_album_name">Audio recordings</string>
+    <string name="audio_db_playlist_name">My recordings</string>
+    <string name="error_sdcard_access">SD카드에 접근할 수 없습니다</string>
+    <string name="error_app_internal">내부 응용프로그램 오류</string>
+    <string name="error_mediadb_new_record">녹음파일을 저장할 수 없습니다</string>
+    <string name="default_record_name">제목 없음</string>
+    <string name="menu_view_record_list">녹음목록 보기</string>
+    <string name="menu_setting">설정</string>
+    <string name="delete_dialog_title">현재 녹음파일을 삭제하시겠습니까?</string>
+    <string name="overwrite_dialog_title">%s가 이미 존재합니다, 덮어씌우시겠습니까?</string>
+    <string name="preferences_title">설정</string>
+    <string name="pref_title_record_type">녹음파일 형식</string>
+    <string name="prefDialogTitle_recordType">파일형식을 선택해 주세요</string>
+    <string name="prefDefault_recordType">audio/3gpp</string>
+    <string name="pref_title_enable_high_quality">고음질 사용</string>
+    <string name="pref_summary_enable_high_quality">고음질 기능을 사용하면 파일크기가 커집니다</string>
+    <string name="pref_title_enable_sound_effect">소리효과 사용</string>
+    <string name="pref_summary_enable_sound_effect">동작환경 변경시 소리효과로 알립니다</string>
+    <string name="notification_recording">녹음중</string>
+    <string name="notification_stopped">녹음 중지됨</string>
+</resources>

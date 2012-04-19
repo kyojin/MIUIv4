@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcolatrice</string>
+    <string name="error">Formato errato</string>
+    <string name="basic">Calcolatrice semplice</string>
+    <string name="advanced">Calcolatrice scientifica</string>
+    <string name="clear_history">Cancella cronologia</string>
+    <string name="Error1">Formato errato</string>
+    <string name="Error2">Formato errato</string>
+    <string name="Error3">Formato errato</string>
+    <string name="Error7">Oper. non valida</string>
+    <string name="Error10">Immis nn valida</string>
+    <string name="Error13">Funz. non valida</string>
+    <string name="Error17">Formato errato</string>
+    <string name="OK">OK</string>
+    <string name="copy_all">Copia tutto</string>
+    <string name="copy">Copia</string>
+    <string name="cut_all">Taglia tutto</string>
+    <string name="cut">Taglia</string>
+    <string name="paste">Incolla</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="start_selecting">Seleziona testo</string>
+    <string name="stop_selecting">Arresta selezione testo</string>
+    <string name="Etc">***</string>
+    <string name="errorparen">Formato errato</string>
+</resources>

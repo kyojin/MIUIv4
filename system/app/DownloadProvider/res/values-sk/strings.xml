@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Správce sťahování</string>
+    <string name="permlab_downloadManager">Získať prístup k správcovi sťahovania.</string>
+    <string name="permdesc_downloadManager">Umožní aplikácii získať prístup k správcovi sťahovania a sťahovať pomocou neho súbory. Škodlivé aplikácie môžu pomocou tohto nastavenia narušiť sťahovanie a získať prístup k súkromným informáciám.</string>
+    <string name="permlab_downloadManagerAdvanced">Pokročilé funkcie správcu sťahovania.</string>
+    <string name="permdesc_downloadManagerAdvanced">Umožňuje aplikácii prístup k pokročilým funkciám správcu sťahovania. Škodlivé aplikácie to môžu využiť a narušiť sťahovanie alebo získať prístup k dôverným informáciam</string>
+    <string name="permlab_downloadCompletedIntent">Odoslať oznámenie o sťahovaní.</string>
+    <string name="permdesc_downloadCompletedIntent">Umožní aplikácii odoslať oznámenie o dokončení sťahovania. Škodlivé aplikácie môžu pomocou tohto nastavenia zmiasť iné aplikácie, ktoré sťahujú súbory.</string>
+    <string name="permlab_seeAllExternal">Zobrazenie všetkých položiek stiahnutých na kartu SD</string>
+    <string name="permdesc_seeAllExternal">Umožňuje aplikácii zobraziť všetky položky stiahnuté na kartu SD bez ohľadu na to, ktorá aplikácia ich stiahla.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Rezervovať miesto v medzipamäti sťahovania</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Umožňuje aplikácii stiahnuť súbory do medzipamäti sťahovania, ktorú nejde automaticky zmazať, pokiaľ správca sťahovania potrebuje viac miesta.</string>
+    <string name="permlab_downloadWithoutNotification">Sťahovať súbory bez upozornenia</string>
+    <string name="permdesc_downloadWithoutNotification">Umožňuje aplikácii sťahovať súbory prostredníctvom správcu sťahovania, bez toho aby sa zobrazilo upozornenie užívateľovi.</string>
+    <string name="permlab_accessAllDownloads">Prístup ku všetkým systémovým sťahovaniam</string>
+    <string name="permdesc_accessAllDownloads">Umožní aplikácii zobraziť a upravovať všetok obsah spustený akoukoľvek aplikáciou v systéme.</string>
+    <string name="download_unknown_title">&lt;Bez názvu></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" a ešte %d"</string>
+    <string name="notification_download_complete">Sťahovanie bolo dokončené</string>
+    <string name="notification_download_failed">Stiahnutie sa nepodarilo.</string>
+    <string name="notification_need_wifi_for_size">Vyžaduje WiFi (veľkosť)</string>
+    <string name="wifi_required_title">Sťahovaný súbor je pre sieť operátora príliš veľký</string>
+    <string name="wifi_required_body" formatted="false">"K stiahnutiu tohto súboru o veľkosti %s  je potrebné použiť sieť WiFi. \u000d
+\u000d
+Ak kliknete na tlačidlo %s , súbor sa stiahne pri ďalšom pripojení k sieti WiFi."</string>
+    <string name="wifi_recommended_title">Zaradit do fronty pre neskoršie stiahnutie?</string>
+    <string name="wifi_recommended_body" formatted="false">"Pokiaľ toto (%s ) stiahnete teraz, skráti sa výdrž batérie a operátor vám sťahovanie týchto dát môže naúčtovať.\u000d
+\u000d
+ Ak kliknete na tlačidlo %s, k stiahnutiu dôjde pri ďalšom pripojení k sieti WiFi."</string>
+    <string name="button_queue_for_wifi">Fronta</string>
+    <string name="button_cancel_download">Zrušiť</string>
+    <string name="button_start_now">Spustiť</string>
+</resources>

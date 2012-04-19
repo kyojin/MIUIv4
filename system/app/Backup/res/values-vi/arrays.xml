@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Dữ liệu Wifi</item>
+        <item>Tất cả ứng dụng</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Gallery</item>
+        <item>Music</item>
+        <item>Recorder</item>
+        <item>Browser</item>
+        <item>Camera</item>
+        <item>File Explorer</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Danh bạ</item>
+        <item>Nhật ký cuộc gọi</item>
+        <item>Tin nhắn SMS</item>
+        <item>Multimedia Messages</item>
+        <item>Thiết lập Hệ thống</item>
+        <item>Thiết lập Wifi</item>
+        <item>Bố trí Màn hình chủ</item>
+        <item>Thiết lập Báo thức</item>
+        <item>Ghi chép</item>
+        <item>Tường lửa</item>
+        <item>CurrentTheme</item>
+        <item>Superuser</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>(Dữ liệu)</item>
+        <item>(Ứng dụng)</item>
+        <item>(Ứng dụng + Dữ liệu)</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Danh bạ</item>
+        <item>Nhật ký cuộc gọi</item>
+        <item>Tin nhắn SMS</item>
+        <item>Thiết lập Wifi</item>
+        <item>Ghi chép</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Danh bạ</item>
+        <item>Thiết lập Wifi</item>
+        <item>Ghi chú</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Cuộc gọi</item>
+        <item>Tin nhắn</item>
+    </string-array>
+</resources>

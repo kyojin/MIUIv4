@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Prikaz %d stikov s telefonskimi številkami</item>
+        <item quantity="one">Prikazan 1 stik s telefonsko številko</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Prikazanih %d stikov</item>
+        <item quantity="one">Prikazan 1 stik</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Najdenih %d stikov</item>
+        <item quantity="one">Najden je bil 1 stik</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d stikov</item>
+        <item quantity="one">1 stik</item>
+    </plurals>
+    <plurals name="groupDescrip">
+        <item quantity="other">%0$d stikov</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">%1$1$d stikov, %2$2$d s telefoni</item>
+    </plurals>
+</resources>

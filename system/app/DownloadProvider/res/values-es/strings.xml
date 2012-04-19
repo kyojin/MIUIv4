@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Download Manager</string>
+    <string name="permlab_downloadManager">Acceso al Download Manager.</string>
+    <string name="permdesc_downloadManager">Permite el acceso al Download Manager para la descarga de archivos. Ojo con las aplicaciones maliciosas que pueden hacer uso de esto para robar información.</string>
+    <string name="permlab_downloadManagerAdvanced">Funciones avanzadas del Download Manager.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite el acceso a las funciones avanzadas del Download Manager. Ojo con las aplicaciones maliciosas que pueden hacer uso de esto para robar información.</string>
+    <string name="permlab_downloadCompletedIntent">Mostrar notificaciones de descarga completa.</string>
+    <string name="permdesc_downloadCompletedIntent">Mostrar notificaciones de descarga completa. Ojo con las aplicaciones maliciosas que pueden hacer uso de esto para robar información.</string>
+    <string name="permlab_seeAllExternal">Mostrar todas las descargas en la SD.</string>
+    <string name="permdesc_seeAllExternal">Permite mostrar todas las descargas en la SD, independientemente de que aplicación las ha descargado.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservar espacio en la cache de descarga</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite que la aplicación descargue archivos a la cache sin que sea borrada automáticamente cuando se necesite más espacio.</string>
+    <string name="permlab_downloadWithoutNotification">descargar archivos sin notificación</string>
+    <string name="permdesc_downloadWithoutNotification">Permite que la aplicación descargue archivos sin mostrar un aviso al usuario</string>
+    <string name="permlab_accessAllDownloads">Acceder a todas las descargas de sistema</string>
+    <string name="permdesc_accessAllDownloads">Permite que la aplicación vea y modifique todas las descargas iniciadas por cualquier aplicación del sistema.</string>
+    <string name="download_unknown_title">&lt;Sin t´tulo></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" y %d más"</string>
+    <string name="notification_download_complete">Descarga completa</string>
+    <string name="notification_download_failed">Descarga fallida</string>
+    <string name="notification_need_wifi_for_size">El tamaño de descarga requiere WI-FI</string>
+    <string name="wifi_required_title">Descarga muy grande para una red de operador</string>
+    <string name="wifi_required_body" formatted="false">"Debe usar WiFi para completar la descarga %s. 
+
+Presione %s para comenzar esta descarga la próxima vez que se conecte a una red wifi."</string>
+    <string name="wifi_recommended_title">¿Poner en cola de descarga?</string>
+    <string name="wifi_recommended_body" formatted="false">"Comenzar esta descarga %s puede descargar su batería y aumentar los cargos de facturación por dato.
+
+ Presione %s debajo para decargar la próxima vez que se conecte a una red WIFI."</string>
+    <string name="button_queue_for_wifi">En cola</string>
+    <string name="button_cancel_download">Cancelar</string>
+    <string name="button_start_now">Comenzar</string>
+</resources>

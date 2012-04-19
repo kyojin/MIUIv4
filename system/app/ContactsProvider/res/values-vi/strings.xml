@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Lưu trữ Danh bạ</string>
+    <string name="provider_label">Danh bạ</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Nâng cấp danh bạ cần thêm bộ nhớ</string>
+    <string name="upgrade_out_of_memory_notification_title">Đang nâng cấp danh bạ lưu trữ</string>
+    <string name="upgrade_out_of_memory_notification_text">Chọn để hoàn thành việc nâng cấp.</string>
+    <string name="pound_search_tip">Nhập số để tìm kiếm cho</string>
+    <string name="create_contact">Tạo số liên lạc mới</string>
+    <string name="send_sms">Gửi Tin nhắn</string>
+    <string name="edit_contact">Sửa số liên lạc</string>
+</resources>

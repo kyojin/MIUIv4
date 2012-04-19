@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_minutes_labels">
+        <item>1 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>15 perc</item>
+        <item>20 perc</item>
+        <item>25 perc</item>
+        <item>30 perc</item>
+        <item>45 perc</item>
+        <item>1 óra</item>
+        <item>2 óra</item>
+        <item>3 óra</item>
+        <item>12 óra</item>
+        <item>24 óra</item>
+        <item>2 nap</item>
+        <item>1 hét</item>
+    </string-array>
+    <string-array name="reminder_minutes_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Semelyik</item>
+        <item>1 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>15 perc</item>
+        <item>20 perc</item>
+        <item>25 perc</item>
+        <item>30 perc</item>
+        <item>45 perc</item>
+        <item>1 óra</item>
+        <item>2 óra</item>
+        <item>3 óra</item>
+        <item>12 óra</item>
+        <item>24 óra</item>
+        <item>2 nap</item>
+        <item>1 hét</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>45</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshall-szigetek</item>
+        <item>Midway-szigetek</item>
+        <item>Hawaii</item>
+        <item>Alaszka</item>
+        <item>Csendes-óceáni idő</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Hegyvidéki idő</item>
+        <item>Közép-amerikai idő</item>
+        <item>Amerikai középidő</item>
+        <item>Mexikóváros</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Keleti idő</item>
+        <item>Venezuela</item>
+        <item>Atlanti idő</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Újfundland</item>
+        <item>Brazíliaváros</item>
+        <item>Buenos Aires</item>
+        <item>Grönland</item>
+        <item>Montevideo</item>
+        <item>Közép-atlanti</item>
+        <item>Azori-szigetek</item>
+        <item>Zöld-foki-szigetek</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amszterdam, Berlin</item>
+        <item>Belgrád</item>
+        <item>Brüsszel</item>
+        <item>Szarajevó</item>
+        <item>Párizs</item>
+        <item>Windhoek</item>
+        <item>Nyugat-afrikai idő</item>
+        <item>Ammán, Jordánia</item>
+        <item>Athén, Isztambul</item>
+        <item>Bejrút, Libanon</item>
+        <item>Kairó</item>
+        <item>Helsinki</item>
+        <item>Jeruzsálem</item>
+        <item>Minszk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moszkva</item>
+        <item>Kuvait</item>
+        <item>Nairobi</item>
+        <item>Teherán</item>
+        <item>Baku</item>
+        <item>Tbiliszi</item>
+        <item>Jereván</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Iszlámábád, Karacsi</item>
+        <item>"Ural'sk"</item>
+        <item>Jekatyerinburg</item>
+        <item>Kolkata</item>
+        <item>Srí Lanka</item>
+        <item>Katmandu</item>
+        <item>Asztana</item>
+        <item>Rangun</item>
+        <item>Krasznojarszk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutszk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Tajpej</item>
+        <item>Szöul</item>
+        <item>Tokió, Oszaka</item>
+        <item>Jakutszk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vlagyivosztok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fidzsi-szigetek</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="timezone_values">
+        <item>Pacific/Majuro</item>
+        <item>Pacific/Midway</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Anchorage</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Tijuana</item>
+        <item>America/Phoenix</item>
+        <item>America/Chihuahua</item>
+        <item>America/Denver</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Chicago</item>
+        <item>America/Mexico_City</item>
+        <item>America/Regina</item>
+        <item>America/Bogota</item>
+        <item>America/New_York</item>
+        <item>America/Caracas</item>
+        <item>America/Barbados</item>
+        <item>America/Manaus</item>
+        <item>America/Santiago</item>
+        <item>America/St_Johns</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Argentina/Buenos_Aires</item>
+        <item>America/Godthab</item>
+        <item>America/Montevideo</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Africa/Casablanca</item>
+        <item>Europe/London</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Sarajevo</item>
+        <item>Europe/Paris</item>
+        <item>Africa/Windhoek</item>
+        <item>Africa/Brazzaville</item>
+        <item>Asia/Amman</item>
+        <item>Europe/Athens</item>
+        <item>Asia/Beirut</item>
+        <item>Africa/Cairo</item>
+        <item>Europe/Helsinki</item>
+        <item>Asia/Jerusalem</item>
+        <item>Europe/Minsk</item>
+        <item>Africa/Harare</item>
+        <item>Asia/Baghdad</item>
+        <item>Europe/Moscow</item>
+        <item>Asia/Kuwait</item>
+        <item>Africa/Nairobi</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Colombo</item>
+        <item>Asia/Katmandu</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Australia/Perth</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Sydney</item>
+        <item>Asia/Vladivostok</item>
+        <item>Pacific/Guam</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Tongatapu</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Elfoglalt</item>
+        <item>Elérhető</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Alapértelmezett</item>
+        <item>Privát</item>
+        <item>Nyilvános</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>első</item>
+        <item>másodperc</item>
+        <item>harmadik</item>
+        <item>negyedik</item>
+        <item>utolsó</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Nincs válasz)</item>
+        <item>Igen</item>
+        <item>Lehet</item>
+        <item>Nem</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Csak a jelenlegi esemény</item>
+        <item>A jelen és a további események</item>
+        <item>Összes esemény</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>A jelenlegi és a további események</item>
+        <item>Összes esemény</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Csak erre az alkalomra</item>
+        <item>A sorozat összes eseményére</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak néma üzemmódban</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="prefValues_alerts_vibrateWhen">
+        <item>mindig</item>
+        <item>néma</item>
+        <item>soha</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Riasztás</item>
+        <item>Állapotsor-értesítés</item>
+        <item>Ki</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Igen</item>
+        <item>Lehet</item>
+        <item>Nem</item>
+    </string-array>
+</resources>

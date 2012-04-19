@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pakke installer</string>
+    <string name="install">Installér</string>
+    <string name="done">Færdig</string>
+    <string name="security_settings_desc">Tillad denne applikation:</string>
+    <string name="cancel">Annuller</string>
+    <string name="unknown">Ukendt</string>
+    <string name="installing">Installerer…</string>
+    <string name="install_done">Applikation installeret</string>
+    <string name="install_confirm_question">Vil du installere denne applikation?</string>
+    <string name="install_failed">Applikation ikke installeret</string>
+    <string name="install_failed_msg">%1$s kunne ikke installeres på telefonen.</string>
+    <string name="launch">Åben</string>
+    <string name="unknown_apps_dlg_title">Installering blokeret</string>
+    <string name="unknown_apps_dlg_text">Af sikkerhedsårsager er telefonen indstillet til at blokere installation af applikationer som ikke er fra Android Marked.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Indstillinger</string>
+    <string name="manage_applications">Håndter applikationer</string>
+    <string name="dlg_app_replacement_title">Erstat applikation</string>
+    <string name="dlg_app_replacement_statement">"Applikationen du vil installere erstatter en anden.
+
+Alle tidligere brugerdata vil blive gemt."</string>
+    <string name="dlg_sys_app_replacement_statement">"Dette er en system applikation. Vil du stadig erstatte den?
+
+Alle tidligere brugerdata vil blive gemt."</string>
+    <string name="out_of_space_dlg_title">Ikke mere plads</string>
+    <string name="out_of_space_dlg_text">%1$s Kunne ikke installeres. Frigør plads og prøv igen.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Applikation ikke fundet</string>
+    <string name="app_not_found_dlg_text">Applikationen blev ikke fundet i listen med installerede applikationer.</string>
+    <string name="uninstall_application_text">Denne applikation vil blive afinstalleret.</string>
+    <string name="uninstall_update_text">Applikationsopdateringen vil blive afinstalleret. Du kan stadig bruge fabriksudgaven af applikationen.</string>
+    <string name="uninstalling">Afinstallerer…</string>
+    <string name="uninstall_done">Afinstallering fuldført</string>
+    <string name="uninstall_failed">Afinstallering mislykkedes</string>
+    <string name="uninstall_failed_msg">%1$s kunne ikke afinstalleres</string>
+    <string name="Parse_error_dlg_title">Parse fejl</string>
+    <string name="Parse_error_dlg_text">Der opstod et problem med at parse pakken.</string>
+    <string name="uninstall_application_question">Afinstaller applikation?</string>
+    <string name="uninstall_update_question">Afinstaller opdatering?</string>
+</resources>

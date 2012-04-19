@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voiceDialer">Marcação por Voz</string>
+    <string name="tool_tip_title">Você sabia…</string>
+    <string name="tool_tip_message">Pressionando &amp; segurando o botão verde de Chamar executa a marcação por voz.</string>
+    <string name="examples">" Exemplos: &lt;b> 
+\"Call John Doe\" 
+\"Call John Doe at home, …\" 
+\"Call voicemail\" 
+\"Dial (866) 555 0123\" 
+\"Dial 911, 811, …\" 
+\"Dial +44 7333 444 555\" 
+\"Redial\" 
+\"Open Calendar\" &lt;/b> "</string>
+    <string name="title">Marcação por Voz</string>
+    <string name="bluetooth_title">Marcação por Voz Bluetooth</string>
+    <string name="initializing">Iniciando.</string>
+    <string name="listening">Ouvindo…</string>
+    <string name="please_try_again">Tente novamente.</string>
+    <string name="failure">Falhou</string>
+    <string name="recognition_error">Pode tentar reiniciar o aparelho.</string>
+    <string name="headset_connection_lost">Ligação com o auricular de ouvido perdida.</string>
+    <string name="at_home">" em casa"</string>
+    <string name="on_mobile">" no móvel"</string>
+    <string name="at_work">" no trabalho"</string>
+    <string name="at_other">" no outro"</string>
+    <string name="logging_enabled">Registo de marcação por Voz está activado.</string>
+    <string name="logging_disabled">Registo de marcação por Voz está desactivado.</string>
+    <string name="speak_now_tts">Fale agora.</string>
+    <string name="no_results_tts">Nenhum resultado, tente novamente.</string>
+    <string name="invalid_choice_tts">Escolha inválida.</string>
+    <string name="goodbye_tts">Adeus.</string>
+</resources>

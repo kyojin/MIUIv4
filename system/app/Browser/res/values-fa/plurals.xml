@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="matches_found">
+        <item quantity="other">%d تطبیق</item>
+        <item quantity="zero">بدون تطبیق</item>
+        <item quantity="one">1 تطبیق</item>
+        <item quantity="few">%d تطبیق</item>
+    </plurals>
+</resources>

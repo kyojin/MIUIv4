@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">1 دقیقه</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">1 دقیقه</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">1 ساعت</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d روز</item>
+        <item quantity="one">1 روز</item>
+    </plurals>
+</resources>

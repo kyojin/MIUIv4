@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">HTML megtekintő</string>
+    <string name="permlab_accessDrm">Hozzáférés DRM-tartalmakhoz.</string>
+    <string name="permdesc_accessDrm">Az alkalmazás hozzáférhet DRM-védett tartalmakhoz.</string>
+</resources>

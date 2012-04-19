@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">מציג %d אנשי קשר עם מספר טלפון</item>
+        <item quantity="one">מציג 1 איש קשר עם מספר טלפון</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">מציג %d אנשי קשר</item>
+        <item quantity="one">מציג 1 איש קשר</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">נמצאו %d אנשי קשר</item>
+        <item quantity="one">נמצא 1 איש קשר</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d אנשי קשר</item>
+        <item quantity="one">1 איש קשר</item>
+    </plurals>
+    <plurals name="groupDescrip">
+        <item quantity="other">%0$d אנשי קשר</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">%1$1$d אנשי קשר, %2$2$d עם טלפון</item>
+    </plurals>
+</resources>

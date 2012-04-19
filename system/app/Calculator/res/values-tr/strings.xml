@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hesap makinesi</string>
+    <string name="error">Yanlış biçim</string>
+    <string name="basic">Basit hesap makinesi</string>
+    <string name="advanced">Bilimsel hesap makinesi</string>
+    <string name="clear_history">Geçmişi sil</string>
+    <string name="Error1">Yanlış biçim</string>
+    <string name="Error2">Yanlış biçim</string>
+    <string name="Error3">Yanlış biçim</string>
+    <string name="Error7">Geçersiz işlem</string>
+    <string name="Error10">Geçersiz giriş</string>
+    <string name="Error13">Geçersiz işlev</string>
+    <string name="Error17">Yanlış biçim</string>
+    <string name="OK">Tmm</string>
+    <string name="copy_all">Tümünü kopyala</string>
+    <string name="copy">Kopyala</string>
+    <string name="cut_all">Tümünü kes</string>
+    <string name="cut">Kes</string>
+    <string name="paste">Yapıştır</string>
+    <string name="select_all">Hepsini seç</string>
+    <string name="start_selecting">Metin seç</string>
+    <string name="stop_selecting">Metin seçmeyi durdur</string>
+    <string name="Etc">***</string>
+    <string name="errorparen">Yanlış biçim</string>
+</resources>

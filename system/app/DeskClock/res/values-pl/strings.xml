@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+    <string name="app_label">Zegar</string>
+    <string name="alarm_list_title">Alarmy</string>
+    <string name="add_alarm">Dodaj alarm</string>
+    <string name="menu_desk_clock">Budzik</string>
+    <string name="menu_edit_alarm">Edytuj alarm</string>
+    <string name="delete_alarm">Usuń alarm</string>
+    <string name="enable_alarm">Włącz alarm</string>
+    <string name="disable_alarm">Wyłącz alarm</string>
+    <string name="delete_alarm_confirm">Alarm zostanie usunięty</string>
+    <string name="label">Opis</string>
+    <string name="default_label">Alarm</string>
+    <string name="set_alarm">Ustaw alarm</string>
+    <string name="alarm_vibrate">Wibracja</string>
+    <string name="alarm_repeat">Powtórz</string>
+    <string name="alert">Dzwonek</string>
+    <string name="time">Czas</string>
+    <string name="alarm_alert_dismiss_text">Odrzuć</string>
+    <string name="alarm_alert_alert_silenced">Wyciszony o %d minut</string>
+    <string name="alarm_alert_snooze_text">Drzemka</string>
+    <string name="alarm_alert_snooze_set">%d minutowa drzemka.</string>
+    <string name="day">1 dzień</string>
+    <string name="days">%s dni</string>
+    <string name="hour">1 godzina</string>
+    <string name="hours">%s godzin</string>
+    <string name="minute">1 minuta</string>
+    <string name="minutes">%s minut</string>
+    <string name="every_day">Codziennie</string>
+    <string name="never">Nigdy</string>
+    <string name="day_concat">", "</string>
+    <string name="analog_gadget">Zegar analogowy</string>
+    <string name="settings">Ustawienia</string>
+    <string name="alarm_in_silent_mode_title">Alarm w trybie cichym</string>
+    <string name="alarm_in_silent_mode_summary">Odtwórz alarm gdy telefon jest w trybie cichym</string>
+    <string name="snooze_duration_title">Drzemka</string>
+    <string name="done">Zrobione</string>
+    <string name="revert">Powrót</string>
+    <string name="delete">Usuń</string>
+    <string name="alarm_volume_title">Głośność alarmu</string>
+    <string name="alarm_volume_summary">Ustaw głośność alarmu</string>
+    <string name="silent_alarm_summary">Cichy</string>
+    <string name="alarm_notify_text">Wybierz, aby wyciszyć lub odrzucić ten alarm.</string>
+    <string name="alarm_notify_snooze_label">%s (drzemka)</string>
+    <string name="alarm_notify_snooze_text">Alarm ustawiony %s. Wybierz, aby anulować.</string>
+    <string name="volume_button_setting_title">Głośność i aparat</string>
+    <string name="volume_button_dialog_title">Działanie przycisków bocznych</string>
+    <string name="volume_button_setting_summary">Wybierz co zrobić, gdy przyciski z boku telefonu zostaną wciśnięte</string>
+    <string name="alarm_button_description">Alarmy</string>
+    <string name="gallery_button_description">Galeria</string>
+    <string name="music_button_description">Muzyka</string>
+    <string name="nightmode_button_description">Przygaś</string>
+    <string name="home_button_description">Launcher</string>
+    <string name="battery_charging_level">%d%%</string>
+    <string name="weather_fetch_failure">Informacja o pogodzie jest obecnie niedostępna.</string>
+    <string name="menu_item_dock_settings">Ustawienia stacji dokującej</string>
+    <string name="alarm_klaxon_service_desc">Sound playback service for alarms set in DeskClock.</string>
+    <string name="default_alarm_alert">Dzwięk alarmu</string>
+    <string name="correct_time_msg">Kliknij tu by ustawić datę i godzinę!</string>
+    <item type="string" name="APKTOOL_DUMMY_003a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_003b">false</item>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Local da rede</string>
+    <string name="location_warning_title">Consentimento de localização</string>
+    <string name="location_warning_message">Permitir que o serviço de localização do Google colete dados anônimos de localização. A coleta ocorrerá mesmo quando nenhum aplicativo estiver em execução.</string>
+    <string name="agree">Concordo</string>
+    <string name="disagree">Não concordo</string>
+</resources>

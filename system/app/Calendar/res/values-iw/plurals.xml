@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Tải về</string>
+    <string name="permlab_downloadManager">Truy cập quản lý tải về.</string>
+    <string name="permdesc_downloadManager">Cho phép ứng dụng truy cập vào chức năng quản lý tải về và sử dụng nó để tải về. Nhiều ứng dụng độc hại có thể dùng nó để điều khiển tải về và truy cập thông tin trái phép.</string>
+    <string name="permlab_downloadManagerAdvanced">Chức năng quản lý tải về nâng cao.</string>
+    <string name="permdesc_downloadManagerAdvanced">Cho phép ứng dụng truy cập vào chức năng quản lý tải về nâng cao và sử dụng nó để tải về. Nhiều ứng dụng độc hại có thể dùng nó để điều khiển tải về và truy cập thông tin trái phép.</string>
+    <string name="permlab_downloadCompletedIntent">Gửi thông báo tải về.</string>
+    <string name="permdesc_downloadCompletedIntent">Cho phép ứng dụng gửi thông báo tải về hoàn thành. Các ứng dụng độc hại có thể gửi thông báo gây nhầm lẫn với ứng dụng tải về khác.</string>
+    <string name="permlab_seeAllExternal">Xem tất cả các tiến trình tải về thẻ nhớ</string>
+    <string name="permdesc_seeAllExternal">Cho phép ứng dụng xem tất cả các tải về thẻ nhớ, không phân biệt ứng dụng nào đã tải về</string>
+    <string name="permlab_downloadCacheNonPurgeable">Xóa bộ nhớ tạm hỗ trợ tải về</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Cho phép ứng dụng tải về tập tin vào bộ nhớ tạm mà không thể xóa bộ nhớ khi trình quản lý tải về cần nhiều bộ nhớ hơn.</string>
+    <string name="permlab_downloadWithoutNotification">tải tập tin mà không thông báo</string>
+    <string name="permdesc_downloadWithoutNotification">Cho phép ứng dụng tải tập tin mà không cần thông báo với người dùng.</string>
+    <string name="permlab_accessAllDownloads">Truy cập vào hệ thống tải về</string>
+    <string name="permdesc_accessAllDownloads">Cho phép ứng dụng xem và sửa đổi tất cả những gì đã khởi tạo từ bất kỳ ứng dụng nào khác trên hệ thống.</string>
+    <string name="download_unknown_title">&lt;Không đề></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" và %d nữa"</string>
+    <string name="notification_download_complete">Tải về hoàn tất</string>
+    <string name="notification_download_failed">Tải về không thành công</string>
+    <string name="notification_need_wifi_for_size">Yêu cầu dùng Wi-Fi</string>
+    <string name="wifi_required_title">Cỡ tập tin quá lớn đối với mạng di dộng</string>
+    <string name="wifi_required_body" formatted="false">"Bạn phải sử dụng Wifi để tải %s. 
+
+Nhấn %s để bắt đầu tải vào lần tới khi bạn đã kết nối Wifi."</string>
+    <string name="wifi_recommended_title">Xếp hàng tải sau?</string>
+    <string name="wifi_recommended_body" formatted="false">"Đang bắt đầu %s Tải về ngay bây giờ có thể làm tiêu tốn nhiều cước phí dữ liệu và cả thời lượng sử dụng pin.
+
+ Nhấn %s bên dưới để bắt đầu tải lại sau khi bạn đã kết nối Wifi."</string>
+    <string name="button_queue_for_wifi">Xếp hàng</string>
+    <string name="button_cancel_download">Hủy</string>
+    <string name="button_start_now">Bắt đầu ngay</string>
+</resources>

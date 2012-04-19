@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">התקנת חבילות</string>
+    <string name="install">התקן</string>
+    <string name="done">סיים</string>
+    <string name="security_settings_desc">אפשר ליישום זה:</string>
+    <string name="cancel">בטל</string>
+    <string name="unknown">לא ידוע</string>
+    <string name="installing">מתקין...</string>
+    <string name="install_done">היישום הותקן</string>
+    <string name="install_confirm_question">האם ברצונך להתקין את יישום זה?</string>
+    <string name="install_failed">היישום לא הותקן</string>
+    <string name="install_failed_msg">אין אפשרות להתקין את %1$s על מכשיר זה</string>
+    <string name="launch">פתח</string>
+    <string name="unknown_apps_dlg_title">ההתקנה נחסמה</string>
+    <string name="unknown_apps_dlg_text">עבור ענייני ביטחון, הטלפון מוגדר לחסום התקנה של יישומים שלא התקבלו מ-Android Market.</string>
+    <string name="ok">אשר</string>
+    <string name="settings">הגדרות</string>
+    <string name="manage_applications">נהל יישומים</string>
+    <string name="dlg_app_replacement_title">החלף יישום</string>
+    <string name="dlg_app_replacement_statement">"היישום שאתה מתקין יחליף יישום אחר.
+
+כל נתוני המשתמש הקודמים יישמרו."</string>
+    <string name="dlg_sys_app_replacement_statement">"זהו יישום מערכת. האם אתה עדיין רוצה להחליף אותו?
+
+כל נתוני המשתמש הקודמים יישמרו."</string>
+    <string name="out_of_space_dlg_title">אין מספיק מקום</string>
+    <string name="out_of_space_dlg_text">אין אפשרות להתקין את %1$s. פנה מקום בזיכרון ונסה שוב.</string>
+    <string name="dlg_ok">אשר</string>
+    <string name="app_not_found_dlg_title">היישום לא נמצא</string>
+    <string name="app_not_found_dlg_text">היישום לא נמצא ברשימה של היישומים המותקנים.</string>
+    <string name="uninstall_application_text">יישום זה יוסר.</string>
+    <string name="uninstall_update_text">עדכון היישום יוסר. אתה יכול עדיין להשתמש בגירסה המקורית של יישום.</string>
+    <string name="uninstalling">מסיר...</string>
+    <string name="uninstall_done">ההסרה הושלמה</string>
+    <string name="uninstall_failed">ההסרה לא הושלמה</string>
+    <string name="uninstall_failed_msg">אין אפשרות להסיר את %1$s</string>
+    <string name="Parse_error_dlg_title">שגיאת פתיחה</string>
+    <string name="Parse_error_dlg_text">יש בעיה בפתיחת החבילה.</string>
+    <string name="uninstall_application_question">הסר יישום?</string>
+    <string name="uninstall_update_question">הסר עדכון?</string>
+</resources>

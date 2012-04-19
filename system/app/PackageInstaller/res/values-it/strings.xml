@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Installazione pacchetti</string>
+    <string name="install">Installa</string>
+    <string name="done">Fatto</string>
+    <string name="security_settings_desc">Permetti a questa applicazione di:</string>
+    <string name="cancel">Annulla</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="installing">Installazione…</string>
+    <string name="install_done">Applicazione installata</string>
+    <string name="install_confirm_question">Vuoi installare questa applicazione?</string>
+    <string name="install_failed">Applicazione non installata</string>
+    <string name="install_failed_msg">Impossibile installare %1$s.</string>
+    <string name="launch">Apri</string>
+    <string name="unknown_apps_dlg_title">Installazione bloccata</string>
+    <string name="unknown_apps_dlg_text">"Per sicurezza, il telefono è impostato per bloccare le applicazioni non scaricate dall'Android Market."</string>
+    <string name="ok">Ok</string>
+    <string name="settings">Impostazioni</string>
+    <string name="manage_applications">Gestisci applicazioni</string>
+    <string name="dlg_app_replacement_title">Sostituisci applicazione</string>
+    <string name="dlg_app_replacement_statement">"L'applicazione che si sta installando sostituirà un'altra applicazione.
+
+Tutti i dati utente saranno salvati."</string>
+    <string name="dlg_sys_app_replacement_statement">"Questa è un'applicazione di sistema. Vuoi realmente sostituirla?
+
+Tutti i dati utente saranno salvati."</string>
+    <string name="out_of_space_dlg_title">Spazio insufficente</string>
+    <string name="out_of_space_dlg_text">%1$s potrebbe non essere stata installata. Liberare spazio e riprovare.</string>
+    <string name="dlg_ok">Ok</string>
+    <string name="app_not_found_dlg_title">Applicazione non trovata</string>
+    <string name="app_not_found_dlg_text">"Applicazione non trovata nell'elenco delle applicazioni installate."</string>
+    <string name="uninstall_application_text">Questa applicazione sarà disinstallata.</string>
+    <string name="uninstall_update_text">"L'aggiornamento sarà disinstallato. Sarà ancora possibile usare la versione originaria dell'applicazione."</string>
+    <string name="uninstalling">Disinstallazione…</string>
+    <string name="uninstall_done">Disinstallazione terminata</string>
+    <string name="uninstall_failed">Disinstallazione non riuscita</string>
+    <string name="uninstall_failed_msg">Impossibile disinstallare %1$s.</string>
+    <string name="Parse_error_dlg_title">Errore di controllo</string>
+    <string name="Parse_error_dlg_text">Si è verificato un errore in fase di controllo.</string>
+    <string name="uninstall_application_question">"Disinstallare l'applicazione?"</string>
+    <string name="uninstall_update_question">"Disinstallare l'applicazione?"</string>
+</resources>

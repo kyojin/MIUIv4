@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lommeregner</string>
+    <string name="error">Forkert format</string>
+    <string name="basic">Enkel lommeregner</string>
+    <string name="advanced">Videnskabelig lommeregner</string>
+    <string name="clear_history">Ryd oversigt</string>
+    <string name="Error1">Forkert format</string>
+    <string name="Error2">Forkert format</string>
+    <string name="Error3">Forkert format</string>
+    <string name="Error7">Ugyldig handl.</string>
+    <string name="Error10">Ugyld. indtast.</string>
+    <string name="Error13">Ugyldig funkt.</string>
+    <string name="Error17">Forkert format</string>
+    <string name="OK">OK</string>
+    <string name="copy_all">Kopier alle</string>
+    <string name="copy">Kopier</string>
+    <string name="cut_all">Klip alle</string>
+    <string name="cut">Klip</string>
+    <string name="paste">Indsæt</string>
+    <string name="select_all">Vælg alle</string>
+    <string name="start_selecting">Vælg tekst</string>
+    <string name="stop_selecting">Stop valg af tekst</string>
+    <string name="Etc">***</string>
+    <string name="errorparen">Forkert format</string>
+</resources>

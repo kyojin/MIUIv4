@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="counter_names">
+        <item>Dnes</item>
+        <item>Týždeň</item>
+        <item>Mesiac</item>
+    </string-array>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kiểm soát</string>
+    <string name="duration" formatted="false">Thời gian %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">Tự động ngắt</string>
+    <string name="menu_refresh">Cập nhật</string>
+    <string name="menu_sort_by_name">Sắp xếp theo tên</string>
+    <string name="menu_sort_by_traffic">Sắp xếp theo lưu lượng</string>
+    <string name="menu_display_system_app">Hiện ứng dụng Hệ thống</string>
+    <string name="menu_not_display_system_app">Ẩn ứng dụng Hệ thống</string>
+    <string name="input_max_traffic">Giới hạn dữ liệu</string>
+    <string name="max_traffic_monthly">Dữ liệu cho phép hàng tháng</string>
+    <string name="monitor_starting_day">Ngày bắt đầu giám sát</string>
+    <string name="date_format">%s</string>
+    <string name="traffic_none">Chưa có</string>
+    <string name="version_text">Phiên bản: %1$s</string>
+    <string name="duration_days" formatted="false">%d ngày %d giờ %d phút</string>
+    <string name="duration_hours" formatted="false">%d giờ %d phút</string>
+    <string name="duration_minutes">%d phút</string>
+    <string name="traffic_data">Lưu lượng</string>
+    <string name="remain">" Trái "</string>
+    <string name="threshold">" Alert "</string>
+    <string name="used">"Sử dụng "</string>
+    <string name="exceed">" Vượt "</string>
+    <string name="settings">Cấu hình</string>
+    <string name="mobile">2G/3G</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">Dữ liệu: %s</string>
+    <string name="wifi_format">Wi-Fi: %s</string>
+    <string name="mobile_traffic">Dữ liệu đã sử dụng</string>
+    <string name="network_control">Theo dõi tường lửa mạng</string>
+    <string name="network_monitor">Tường lửa</string>
+    <string name="all_apps">Tất cả ứng dụng</string>
+    <string name="refresh">Cập nhật lại</string>
+    <string name="display_system_app">Hiện Ứng dụng hệ thống</string>
+    <string name="force_stop">Đóng ngay</string>
+    <string name="app_detail">Chi tiết ứng dụng</string>
+    <string name="loading_apps_list">Đang tải ứng dụng..</string>
+    <string name="monitor_settings">Thiết lập</string>
+    <string name="sms_unit">Tin nhắn</string>
+    <string name="mobile_unit">MB</string>
+    <string name="first_traffic_day">Bắt đầu thời hạn thanh toán</string>
+    <string name="confirm_disable_monitor">Khi bạn vô hiệu hóa theo dõi thì tất cả các thiết lập sẽ được đặt lại, bạn có tiếp tục không?</string>
+    <string name="input_monitor_starting_date">Ngày bắt đầu tính cước</string>
+    <string name="input_used_traffic">Dung lượng đã sử dụng</string>
+    <string name="sms_package">Tin nhắn</string>
+    <string name="mobile_package">Mạng di động</string>
+    <string name="android_system">Hệ thống Android</string>
+    <string name="call_sms_detail_title">Cuộc gọi và tin nhắn trong tháng</string>
+    <string name="outgoing_call">Gọi đi</string>
+    <string name="incoming_call">Gọi đến</string>
+    <string name="outgoing_sms">Tin gửi</string>
+    <string name="outgoing_sms_number_format">%d</string>
+    <string name="traffic_detail">Chi tiết lưu lượng</string>
+    <string name="upload_bytes">Đã tải lên %s</string>
+    <string name="download_bytes">Đã tải xuống %s</string>
+    <string name="upload">Tải lên</string>
+    <string name="download">Tải xuống</string>
+    <string name="package_settings">Cấu hình</string>
+    <string name="sms_traffic_limit">Giới hạn tin nhắn</string>
+    <string name="mobile_traffic_limit">Giới hạn dữ liệu</string>
+    <string name="display_status_bar_notification">Hiện thông báo</string>
+    <string name="notify_threshold_exceed">Vượt quá giới hạn!</string>
+    <string name="fix_traffic">Khôi phục tình trạng giám sát</string>
+    <string name="mobile_traffic_used">Đặt dung lượng 2G-3G/Tháng</string>
+    <string name="mobile_used_toast">Sử dụng hàng tháng là %sMB</string>
+    <string name="sms_traffic_used">Đặt số lượng SMS/tháng</string>
+    <string name="clear_traffic">Xóa dữ liệu lưu lượng</string>
+    <string name="click_to_input">Yêu cầu nhập vào mục này</string>
+    <string name="traffic_sms_detials">Chi tiết tin nhắn</string>
+    <string name="no_sms">Nhật ký tin nhắn rỗng</string>
+    <string name="loading_apps_list_failed">Không tải được danh sách ứng dụng</string>
+</resources>

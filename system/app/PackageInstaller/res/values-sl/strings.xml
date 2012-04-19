@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namestitveni program za paket</string>
+    <string name="install">Namesti</string>
+    <string name="done">Dokončano</string>
+    <string name="security_settings_desc">Dovoli temu programu:</string>
+    <string name="cancel">Prekliči</string>
+    <string name="unknown">Neznano</string>
+    <string name="installing">Nameščanje …</string>
+    <string name="install_done">Program je nameščen</string>
+    <string name="install_confirm_question">Ali želite namestiti ta program?</string>
+    <string name="install_failed">Program ni nameščen</string>
+    <string name="install_failed_msg">Programa %1$s ni bilo mogoče namestiti v ta telefon.</string>
+    <string name="launch">Odpri</string>
+    <string name="unknown_apps_dlg_title">Namestitev je blokirana</string>
+    <string name="unknown_apps_dlg_text">Iz varnostnih razlogov je telefon nastavljen tako, da blokira namestitev programov, ki niso pridobljeni prek storitve Android Market.</string>
+    <string name="ok">V redu</string>
+    <string name="settings">Nastavitve</string>
+    <string name="manage_applications">Upravljanje programov</string>
+    <string name="dlg_app_replacement_title">Zamenjava programa</string>
+    <string name="dlg_app_replacement_statement">"Program, ki ga nameščate, bo zamenjal drug program.
+
+Vsi predhodni podatki uporabnika bodo shranjeni."</string>
+    <string name="dlg_sys_app_replacement_statement">"To je sistemski program. Ali ga kljub temu želite zamenjati?
+
+Vsi prejšnji podatki uporabnika bodo shranjeni."</string>
+    <string name="out_of_space_dlg_title">Zmanjkalo je prostora</string>
+    <string name="out_of_space_dlg_text">Programa %1$s ni bilo mogoče namestiti. Sprostite nekaj prostora in poskusite znova.</string>
+    <string name="dlg_ok">V redu</string>
+    <string name="app_not_found_dlg_title">Programa ni bilo mogoče najti</string>
+    <string name="app_not_found_dlg_text">Programa ni bilo mogoče najti na seznamu nameščenih programov.</string>
+    <string name="uninstall_application_text">Program bo odstranjen.</string>
+    <string name="uninstall_update_text">Posodobitev programa bo odstranjena. Še naprej lahko uporabljate tovarniško različico programa.</string>
+    <string name="uninstalling">Odstranjevanje ...</string>
+    <string name="uninstall_done">Odstranitev je dokončana</string>
+    <string name="uninstall_failed">Odstranitev ni bila uspešna</string>
+    <string name="uninstall_failed_msg">Programa %1$s ni mogoče odstraniti.</string>
+    <string name="Parse_error_dlg_title">Napaka razčlenitve</string>
+    <string name="Parse_error_dlg_text">Pri razčlenjevanju paketa je prišlo do napake.</string>
+    <string name="uninstall_application_question">Ali želite odstraniti program?</string>
+    <string name="uninstall_update_question">Ali želite odstraniti posodobitev?</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Veri İzleyici</string>
+    <string name="duration" formatted="false">Dönem: %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">Otomatik olarak kapat</string>
+    <string name="menu_refresh">Yenile</string>
+    <string name="menu_sort_by_name">Ada göre sırala</string>
+    <string name="menu_sort_by_traffic">Trafiğe göre sırala</string>
+    <string name="menu_display_system_app">Sistem uygulamalarını göster</string>
+    <string name="menu_not_display_system_app">Sistem uygulamalarını gizle</string>
+    <string name="input_max_traffic">Trafik Limiti</string>
+    <string name="max_traffic_monthly">Aylık 2G/3G Maksimum Limitini Girin</string>
+    <string name="monitor_starting_day">İzleme Başlangıç Tarihi</string>
+    <string name="date_format">%s gün</string>
+    <string name="traffic_none">Yok</string>
+    <string name="version_text">Sürüm: %1$s</string>
+    <string name="duration_days" formatted="false">%d gün %d saat %d dakika</string>
+    <string name="duration_hours" formatted="false">%d saat %d dakika</string>
+    <string name="duration_minutes">%d dakika</string>
+    <string name="traffic_data">Trafik</string>
+    <string name="remain">" Kalan: "</string>
+    <string name="threshold">" Uyarı: "</string>
+    <string name="used">"Kullanılan: "</string>
+    <string name="exceed">" Aşılan: "</string>
+    <string name="settings">Yapılandır</string>
+    <string name="mobile">Veri</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_format">2G/3G:%s</string>
+    <string name="wifi_format">WIFI:%s</string>
+    <string name="mobile_traffic">Kullanılabilir 2G/3G Veri</string>
+    <string name="network_control">Ağ İzleyicisi</string>
+    <string name="network_monitor">Güvenlik Duvarı</string>
+    <string name="all_apps">Uygulamalar</string>
+    <string name="refresh">Yenile</string>
+    <string name="display_system_app">Sistem uygulamalarını göster</string>
+    <string name="force_stop">Kapanmaya zorla</string>
+    <string name="app_detail">Uygulama Detayları</string>
+    <string name="loading_apps_list">Program listesi yükleniyor, lütfen bekleyin...</string>
+    <string name="apply_rules_failed_known">Tamam</string>
+    <string name="apply_rules_failed">Uygulama Güvenlik Duvarı başarısız oldu, tekrar deneyin</string>
+    <string name="monitor_settings">Tercihler</string>
+    <string name="sms_unit">" Mesajlar"</string>
+    <string name="mobile_unit">MB</string>
+    <string name="first_traffic_day">Fatura dönemi başı</string>
+    <string name="confirm_disable_monitor">İzlemeyi devre dışı bıraktığınızda tüm izlemeler devre dışı bırakılacak, tekrar açmak istediğinizde verileri yeniden girmeniz gerekecek, devam ?</string>
+    <string name="input_monitor_starting_date">Başlangıç tarihi gir</string>
+    <string name="input_used_traffic">Kullanılmış miktar</string>
+    <string name="sms_package">Mesajlar</string>
+    <string name="mobile_package">Mobil İnternet</string>
+    <string name="android_system">Android Sistemi</string>
+    <string name="call_sms_detail_title">Bu ay, arama ve mesajlar</string>
+    <string name="outgoing_call">Gidenler</string>
+    <string name="incoming_call">Gelenler</string>
+    <string name="outgoing_sms">Giden mesajlar</string>
+    <string name="outgoing_sms_number_format">%d</string>
+    <string name="traffic_detail">Trafik detayları</string>
+    <string name="upload_bytes">%s Yükleme</string>
+    <string name="download_bytes">İndirilen %s</string>
+    <string name="upload">Yüklemeler</string>
+    <string name="download">İndirilenler</string>
+    <string name="package_settings">Yapılandırma</string>
+    <string name="sms_traffic_limit">Mesaj limiti</string>
+    <string name="mobile_traffic_limit">Trafik Limiti</string>
+    <string name="display_status_bar_notification">Bildirim çubuğunda göster</string>
+    <string name="notify_threshold_exceed">Eşik sınırı aşıldı!</string>
+    <string name="fix_traffic">Trafik istatistikleri sıfırlayın</string>
+    <string name="mobile_traffic_used">Mobil İnternet kullanımı sıfırlayın</string>
+    <string name="mobile_used_toast">Aylık kullanım %sMB</string>
+    <string name="sms_traffic_used">Bu ay gönderilen SMS</string>
+    <string name="clear_traffic">Trafik verilerini temizle</string>
+    <string name="click_to_input">Bu alan boş olamaz</string>
+    <string name="traffic_sms_detials">Mesaj Ayrıntıları</string>
+    <string name="no_sms">Mesaj geçmişi boş</string>
+    <string name="loading_apps_list_failed">Listesi yüklenemedi</string>
+</resources>

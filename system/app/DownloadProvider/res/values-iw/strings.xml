@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">מנהל הורדות</string>
+    <string name="permlab_downloadManager">גישה למנהל ההורדות</string>
+    <string name="permdesc_downloadManager">אפשר ליישום לגשת למנהל ההורדות ולהשתמש בו כדי להוריד קבצים. יישומים זדוניים יכולים להשתמש בזה כדי לשבש הורדות ולגשת למידע פרטי.</string>
+    <string name="permlab_downloadManagerAdvanced">אפשרויות מתקדמות של מנהל ההורדות.</string>
+    <string name="permdesc_downloadManagerAdvanced">מאפשר ליישום גישה לאפשרויות מתקדמות של מנהל ההורדות. Malicious applications can use this to disrupt downloads and access private information.</string>
+    <string name="permlab_downloadCompletedIntent">שליחת התראות הורדה.</string>
+    <string name="permdesc_downloadCompletedIntent">מאפשר ליישום לשלוח התראות על השלמת הורדות. יישומים זדוניים יכולים להשתמש בזה כדי לבלבל יישומים אחרים שמורידים קבצים.</string>
+    <string name="permlab_seeAllExternal">לראות את כל ההורדות לכרטיס הזיכרון</string>
+    <string name="permdesc_seeAllExternal">מאפשר ליישום לראות את כל ההורדות לכרטיס הזיכרון, ללא קשר ליישום שהוריד אותם.</string>
+    <string name="permlab_downloadCacheNonPurgeable">שמירת שטח במטמון ההורדות</string>
+    <string name="permdesc_downloadCacheNonPurgeable">מאפשר ליישום להוריד קבצים אל מטמון ההורדות אשר שלא ניתן למחוק משם באופן אוטומטי כאשר מנהל ההורדות צריך יותר מקום.</string>
+    <string name="permlab_downloadWithoutNotification">הורדת קבצים ללא התראה</string>
+    <string name="permdesc_downloadWithoutNotification">מאפשר ליישום להוריד קבצים דרך מנהל ההורדות ללא כל התראה שמוצגת למשתמש.</string>
+    <string name="permlab_accessAllDownloads">גישה לכל הורדות המערכת</string>
+    <string name="permdesc_accessAllDownloads">מאפשר ליישום להציג ולשנות כל מה שנעשה על ידי יישומים במערכת.</string>
+    <string name="download_unknown_title">&lt;ללא שם></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">"  ו %d עוד"</string>
+    <string name="notification_download_complete">ההורדה הושלמה</string>
+    <string name="notification_download_failed">ההורדה לא הושלמה</string>
+    <string name="notification_need_wifi_for_size">גודל ההורדה מחייב רשת אלחיטית</string>
+    <string name="wifi_required_title">ההורדה גדולה מדי עבור הורדה בחיבור נתונים</string>
+    <string name="wifi_required_body" formatted="false">"אתה חייב להשתמש ברשת אלחוטית כדי להשלים את הורדת %s 
+
+לחץ %s כדי להתחיל הורדה זו בפעם הבאה שאתה מחובר לרשת אלחוטית."</string>
+    <string name="wifi_recommended_title">בתור להורדה מאוחר יותר?</string>
+    <string name="wifi_recommended_body" formatted="false">"להתחיל את הורדת %s עכשיו עלול לקצר את חיי הסוללה שלכם ו/או לגרום לשימוש מופרז של חיבור הרשת הסלולרית שלך, מה שיכול להוביל לחיובים על ידי המפעיל הסלולרי שלך בהתאם לתוכנית שלך.
+
+ לחץ על %s מתחת כדי להתחיל הורדה זו בפעם הבאה שאתה מחובר לרשת WiFi."</string>
+    <string name="button_queue_for_wifi">בתור</string>
+    <string name="button_cancel_download">בטל</string>
+    <string name="button_start_now">התחל עכשיו</string>
+</resources>

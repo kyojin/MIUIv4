@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Monitor podatkov</string>
+    <string name="duration" formatted="false">Obdobje %d/%d/%d - %d/%d/%d</string>
+    <string name="auto_turn_off_mobile">Onemogoči, ko je meja dosežena</string>
+    <string name="menu_refresh">Osveži</string>
+    <string name="menu_sort_by_name">Razvrsti po imenu</string>
+    <string name="menu_sort_by_traffic">Razvrsti po prometu</string>
+    <string name="menu_display_system_app">Prikaži sistemske aplikacije</string>
+    <string name="menu_not_display_system_app">Skrij sistemske aplikacije</string>
+    <string name="input_max_traffic">Enter traffic limit</string>
+    <string name="max_traffic_monthly">Max monthly 2G/3G</string>
+    <string name="monitor_starting_day">Start date</string>
+    <string name="date_format">Day %s</string>
+    <string name="traffic_none">None</string>
+    <string name="version_text">Version %1$s</string>
+    <string name="duration_days" formatted="false">%d dni %d ur %d minut</string>
+    <string name="duration_hours" formatted="false">%d ur %d minut</string>
+    <string name="duration_minutes">%d minut</string>
+    <string name="traffic_data">Poraba podatkov</string>
+    <string name="remain">"Še na voljo: "</string>
+    <string name="threshold">"Opozorilo: "</string>
+    <string name="used">"Porabljeno: "</string>
+    <string name="exceed">"Prekoračeno: "</string>
+    <string name="settings">Konfiguriraj</string>
+    <string name="mobile">2G/3G</string>
+    <string name="wifi">WIFI</string>
+    <string name="mobile_format">2G/3G: %s</string>
+    <string name="wifi_format">Wi-Fi:%s</string>
+    <string name="mobile_traffic">2G/3G data</string>
+    <string name="network_control">Connection control</string>
+    <string name="network_monitor">Monitor aplikacij</string>
+    <string name="all_apps">Aplikacije</string>
+    <string name="refresh">Osveži</string>
+    <string name="display_system_app">Upravljaj sistemske aplikacije</string>
+    <string name="force_stop">Prisilno zapri</string>
+    <string name="app_detail">Podrobnosti o aplikaciji</string>
+    <string name="loading_apps_list">Loading program list, please wait...</string>
+    <string name="monitor_settings">Nastavitve</string>
+    <string name="sms_unit">Sporočila</string>
+    <string name="mobile_unit">MB</string>
+    <string name="first_traffic_day">Začetek obdobja zaračunavanja</string>
+    <string name="confirm_disable_monitor">Ko onemogočite monitor, bodo vsi podatki pobrisani, želite nadaljevati?</string>
+    <string name="input_monitor_starting_date">Enter start date</string>
+    <string name="input_used_traffic">Input data used</string>
+    <string name="sms_package">Nastavitve sporočil</string>
+    <string name="mobile_package">Nastavitve podatkov</string>
+    <string name="android_system">Android sistem</string>
+    <string name="call_sms_detail_title">Call and Messages</string>
+    <string name="outgoing_call">Outgoing calls</string>
+    <string name="incoming_call">Incoming calls</string>
+    <string name="outgoing_sms">Outgoing messages</string>
+    <string name="outgoing_sms_number_format">%d sms</string>
+    <string name="traffic_detail">Povzetek prometa</string>
+    <string name="upload_bytes">Naloženo %s</string>
+    <string name="download_bytes">Preneseno %s</string>
+    <string name="upload">Nalaganja</string>
+    <string name="download">Prenosi</string>
+    <string name="package_settings">Nastavitve podatkov in sporočil</string>
+    <string name="sms_traffic_limit">Meja sporočil</string>
+    <string name="mobile_traffic_limit">Meja podatkov</string>
+    <string name="display_status_bar_notification">Obvestilo v vrstici stanja</string>
+    <string name="notify_threshold_exceed">Obvestilo praga</string>
+    <string name="fix_traffic">Popravljanje podatkov</string>
+    <string name="mobile_traffic_used">Porabljeni podatki ta mesec</string>
+    <string name="mobile_used_toast">Mesečna poraba je %sMB</string>
+    <string name="sms_traffic_used">SMSi poslani ta mesec</string>
+    <string name="clear_traffic">Počisti podatke o prometu</string>
+    <string name="click_to_input">To polje zahteva vnos</string>
+    <string name="traffic_sms_detials">Message details</string>
+    <string name="no_sms">Message log is empty</string>
+    <string name="loading_apps_list_failed">Failed to load program list</string>
+</resources>

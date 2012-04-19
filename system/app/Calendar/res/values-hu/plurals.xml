@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">1 perc</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d p</item>
+        <item quantity="one">1 p</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">1 óra</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d nap</item>
+        <item quantity="one">1 nap</item>
+    </plurals>
+</resources>

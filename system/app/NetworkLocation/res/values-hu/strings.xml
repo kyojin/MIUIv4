@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Hálózati helymeghatározás</string>
+    <string name="location_warning_title">Hozzájárulás helyadatokhoz</string>
+    <string name="location_warning_message">A Google helyszolgáltatása gyűjthet anonim helyadatokat. Az adatgyűjtés akkor is folytatódik, ha nem futnak alkalmazások.</string>
+    <string name="agree">Elfogad</string>
+    <string name="disagree">Elutasít</string>
+</resources>

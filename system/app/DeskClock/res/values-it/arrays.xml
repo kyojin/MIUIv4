@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Questa sveglia è impostata a meno di un minuto da adesso.</item>
+        <item>Questa sveglia è impostata a %1$s da adesso.</item>
+        <item>Questa sveglia è impostata a %2$s da adesso.</item>
+        <item>Questa sveglia è impostata a %1$1$s e %2$2$s da adesso.</item>
+        <item>Questa sveglia è impostata a %3$s da adesso.</item>
+        <item>Questa sveglia è impostata a %1$1$s e %2$3$s da adesso.</item>
+        <item>Questa sveglia è impostata a %1$2$s e %2$3$s da adesso.</item>
+        <item>Questa sveglia è impostata a %1$1$s, %2$2$s, e %3$3$s da adesso.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>20 minuti</item>
+        <item>25 minuti</item>
+        <item>30 minuti</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Niente</item>
+        <item>Sospendi</item>
+        <item>Disattiva</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

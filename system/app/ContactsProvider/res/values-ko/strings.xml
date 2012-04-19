@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">연락처 저장소</string>
+    <string name="provider_label">연락처</string>
+    <string name="upgrade_out_of_memory_notification_ticker">연락처 업그레이드에 추가 메모리가 필요합니다</string>
+    <string name="upgrade_out_of_memory_notification_title">연락처 저장 업그레이드</string>
+    <string name="upgrade_out_of_memory_notification_text">업그레이드를 위해 선택하세요.</string>
+    <string name="pound_search_tip">검색할 번호를 입력하세요</string>
+    <string name="create_contact">연락처 생성</string>
+    <string name="send_sms">SMS 보내기</string>
+    <string name="edit_contact">연락처 편집</string>
+</resources>

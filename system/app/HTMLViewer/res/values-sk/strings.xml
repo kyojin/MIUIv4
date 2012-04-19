@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Prehliadač HTML</string>
+    <string name="permlab_accessDrm">Získať prístup k obsahu DRM.</string>
+    <string name="permdesc_accessDrm">Umožní aplikácii získať přístup k obsahu chránenému technológiou DRM.</string>
+</resources>

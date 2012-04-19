@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearanceSuper">
+        <item name="android:textSize">33.0sp</item>
+        <item name="android:textColorLink">#ff0000ff</item>
+    </style>
+    <style name="TextAppearanceLarge">
+        <item name="android:textSize">26.0sp</item>
+        <item name="android:textColorLink">#ff0000ff</item>
+    </style>
+    <style name="TextAppearanceMedium">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColorLink">#ff0000ff</item>
+    </style>
+    <style name="TextAppearancePrimaryItem">
+        <item name="android:textSize">@android:dimen/navigation_bar_width</item>
+        <item name="android:textColor">@color/primary_text_dark</item>
+    </style>
+    <style name="TextAppearanceSecondaryItem">
+        <item name="android:textSize">@android:dimen/status_bar_icon_size</item>
+        <item name="android:textColor">@color/secondary_text_dark</item>
+    </style>
+    <style name="TextAppearanceUnderMenuIcon">
+        <item name="android:textSize">@android:dimen/navigation_bar_height</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="TextAppearanceSmall">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColorLink">#ff0000ff</item>
+    </style>
+</resources>

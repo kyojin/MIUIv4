@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>عائلة</item>
+        <item>الوحدة</item>
+        <item>أخرى</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>ياهو الصين</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>الوحدة</item>
+        <item>أخرى</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>هاتف المنزل</item>
+        <item>جوال</item>
+        <item>هاتف العمل</item>
+        <item>فاكس العمل</item>
+        <item>فاكس المنزل</item>
+        <item>بيجر</item>
+        <item>أخرى</item>
+        <item>مخصص</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>المنزل</item>
+        <item>الوحدة</item>
+        <item>أخرى</item>
+        <item>مخصص</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>39937795</item>
+        <item>116387224</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>2</item>
+    </integer-array>
+    <string-array name="imAddressTypes">
+        <item>المنزل</item>
+        <item>الوحدة</item>
+        <item>أخرى</item>
+        <item>مخصص</item>
+    </string-array>
+</resources>

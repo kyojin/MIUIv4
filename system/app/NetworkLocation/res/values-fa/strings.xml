@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">موقعیت شبکه</string>
+    <string name="location_warning_title">موافقت با موقعیت</string>
+    <string name="location_warning_message">اجازه از خدمات مکان گوگل به جمع آوری داده های مکان ناشناس. این کار زمانی که هیچ برنامه های کاربردی در حال اجرا هستند رخ خواهد داد.</string>
+    <string name="agree">موافقت</string>
+    <string name="disagree">مخالف</string>
+</resources>

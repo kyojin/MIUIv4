@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_bluetoothShareManager">Toegang download manager.</string>
+    <string name="permdesc_bluetoothShareManager">Staat de Applicatie toe om toegang te krijgen tot de BluetoothShare manager en bestanden over te brengen.</string>
+    <string name="bt_share_picker_label">Bluetooth</string>
+    <string name="unknown_device">Onbekend apparaat</string>
+    <string name="unknownNumber">Onbekend</string>
+    <string name="airplane_error_title">Vliegtuig modus</string>
+    <string name="airplane_error_msg">U kan Bluetooth niet gebruiken wanneer vliegtuigmodus ingeschakeld is!</string>
+    <string name="bt_enable_title">Bluetooth</string>
+    <string name="bt_enable_line1">Om Bluetooth te gebruiken, moet je eerts Bluetooth aanzetten.</string>
+    <string name="bt_enable_line2">Bluetooth nu aanzetten?</string>
+    <string name="bt_enable_cancel">Annuleer</string>
+    <string name="bt_enable_ok">Zet aan</string>
+    <string name="incoming_file_confirm_title">Bestandsoverdracht</string>
+    <string name="incoming_file_confirm_content" formatted="false">"\"%1$s\" wil je zenden %2$s (%3$s). 
+
+ Bestand accepteren?"</string>
+    <string name="incoming_file_confirm_cancel">Afnemen</string>
+    <string name="incoming_file_confirm_ok">Accepteren</string>
+    <string name="incoming_file_confirm_timeout_ok">OK</string>
+    <string name="incoming_file_confirm_timeout_content">Er was een time-out om inkomende bestanden te aanvaarden \"%1$s\"</string>
+    <string name="incoming_file_confirm_Notification_title">Bluetooth share: Inkomend bestand</string>
+    <string name="incoming_file_confirm_Notification_caption">Bevestigen dat je dit bestand wilt ontvangen</string>
+    <string name="incoming_file_toast_msg">Er is een inkomend bestand van een ander apparaat, bevestig dat u dit bestand wilt ontvangen</string>
+    <string name="notification_receiving">Bluetooth share: Ontvangen %1$s</string>
+    <string name="notification_received">Bluetooth share: Ontvangen %1$s</string>
+    <string name="notification_received_fail">Bluetooth share: Bestand %1$s niet ontvangen</string>
+    <string name="notification_sending">Bluetooth share: Versturen %1$s</string>
+    <string name="notification_sent">Bluetooth share: verstuurn %1$s</string>
+    <string name="notification_sent_complete">100% compleet</string>
+    <string name="notification_sent_fail">Bluetooth share: Bestand %1$s niet verzonden</string>
+    <string name="download_title">Bestandoverdracht</string>
+    <string name="download_line1">Van: \"%1$s\"</string>
+    <string name="download_line2">Bestand: %1$s</string>
+    <string name="download_line3">Bestandsgroote: %1$s</string>
+    <string name="download_line4" />
+    <string name="download_line5">Bestand ontvangen…</string>
+    <string name="download_cancel">Stop</string>
+    <string name="download_ok">Verberg</string>
+    <string name="download_fail_line1">Bestand niet ontvangen</string>
+    <string name="download_fail_line2">Bestand: %1$s</string>
+    <string name="download_fail_line3">Fout reden: %1$s</string>
+    <string name="download_fail_ok">OK</string>
+    <string name="download_succ_line5">Bestand ontvangen</string>
+    <string name="download_succ_ok">Open</string>
+    <string name="upload_line1">Aan: \"%1$s\"</string>
+    <string name="upload_line3" formatted="false">Bestandstype: %1$s (%2$s)</string>
+    <string name="upload_line5">Bestand versturen…</string>
+    <string name="upload_succ_line5">Bestand verzonden</string>
+    <string name="upload_succ_ok">OK</string>
+    <string name="upload_fail_line1">Het bestand is niet verzonden naar \"%1$s\".</string>
+    <string name="upload_fail_line1_2">Bestand: %1$s</string>
+    <string name="upload_fail_ok">Probeer opnieuw</string>
+    <string name="upload_fail_cancel">Sluiten</string>
+    <string name="bt_error_btn_ok">OK</string>
+    <string name="unknown_file">Onbekend bestand</string>
+    <string name="unknown_file_desc">"Er is geen toepassing om dit bestand type te verwerken. 
+"</string>
+    <string name="not_exist_file">Bestand bestaat niet</string>
+    <string name="not_exist_file_desc">"Het bestand bestaat niet! 
+"</string>
+    <string name="enabling_progress_title">Even geduld aub…</string>
+    <string name="enabling_progress_content">Bluetooth aanzetten…</string>
+    <string name="bt_toast_1">Het bestand wordt ontvangen. Controleer de vooruitgang in het meldingsvenster.</string>
+    <string name="bt_toast_2">Het bestand wordt niet ontvangen.</string>
+    <string name="bt_toast_3">Ontvangen bestand van \"%1$s\" gestopt</string>
+    <string name="bt_toast_4">Bestand sturen naar \"%1$s\"</string>
+    <string name="bt_toast_5" formatted="false">Sturen %1$s bestanden naar \"%2$s\"</string>
+    <string name="bt_toast_6">Bestand sturen naar \"%1$s\" gestopt</string>
+    <string name="bt_sm_2_1">Er is niet genoeg ruimte op de SD-kaart om bestand \"%1$s\" op te slaan</string>
+    <string name="bt_sm_2_2">Ruimte nodig: %1$s</string>
+    <string name="ErrorTooManyRequests">Te veel verzoeken worden verwerkt. Probeer later opnieuw.</string>
+    <string name="status_pending">Bestandsoverdracht nog niet gestart</string>
+    <string name="status_running">Bestandoverdracht is aan de gang</string>
+    <string name="status_success">De bestandsoverdracht is geslaagd</string>
+    <string name="status_not_accept">De telefoon kan niet overweg met dit type inhoud</string>
+    <string name="status_forbidden">Deze overdracht is verboden door het doelapparaat</string>
+    <string name="status_canceled">Overdracht gestopt door gebruiker</string>
+    <string name="status_file_error">Opslag probleem</string>
+    <string name="status_no_sd_card">Geen SD-kaart. Plaatst een SD-kaart om overgedragen bstanden op te slaan.</string>
+    <string name="status_connection_error">Verbindingsfout</string>
+    <string name="status_protocol_error">De aanvraag kan nietcorrect worden behandeld</string>
+    <string name="status_unknown_error">Onbekende fout</string>
+    <string name="btopp_live_folder">Bluetooth ontvangen</string>
+    <string name="download_success">%1$s Ontvangen.</string>
+    <string name="upload_success">%1$s Verzonden.</string>
+    <string name="inbound_history_title">Inkomende overdrachten</string>
+    <string name="outbound_history_title">Uitgaande overdrachten</string>
+    <string name="no_transfers">Overdracht geschiedenis is leeg.</string>
+    <string name="transfer_clear_dlg_msg">Alle items worden gewist van de lijst.</string>
+    <string name="outbound_noti_title">Bluetooth delen: Verzonden bestanden</string>
+    <string name="inbound_noti_title">Bluetooth delen: Ontvangen bestanden</string>
+    <string name="noti_caption" formatted="false">%1$s geslaagd, %2$s mislukt.</string>
+    <string name="transfer_menu_clear_all">Wis lijst</string>
+    <string name="transfer_menu_open">Open</string>
+    <string name="transfer_menu_clear">Wissen van de lijst</string>
+    <string name="transfer_clear_dlg_title">Wissen</string>
+    <string name="bluetooth_share_file_name">bluetooth_inhoud_delen</string>
+    <string name="sharedUserId" />
+    <string name="process" />
+    <string name="pbap_session_key_dialog_title">Type sessie sleutel voor %1$s</string>
+    <string name="pbap_session_key_dialog_header">Bluetooth sessie sleutel nodig</string>
+    <string name="pbap_acceptance_timeout_message">Er was een time-out om verbinding te accepteren met %1$s</string>
+    <string name="pbap_authentication_timeout_message">Er was een time-out om input sessie sleutel met %1$s</string>
+    <string name="auth_notif_ticker">Obex verificatieverzoek</string>
+    <string name="auth_notif_title">Sessie Sleutel</string>
+    <string name="auth_notif_message">Type sessie sleutel voor %1$s</string>
+    <string name="defaultname">Carkit</string>
+    <string name="unknownName">Onbekende naam</string>
+    <string name="localPhoneName">Mijn naam</string>
+    <string name="defaultnumber">000000</string>
+    <string name="hello">Hallo Wereld, TestActiviteit</string>
+    <string name="app_name">Bluetooth Delen</string>
+    <string name="insert_record">Plaats record</string>
+    <string name="update_record">Bevestig record</string>
+    <string name="ack_record">Ack record</string>
+    <string name="deleteAll_record">Verwijder alle records</string>
+    <string name="ok_button">OK</string>
+    <string name="delete_record">Verwijder record</string>
+    <string name="start_server">Start TCP server</string>
+    <string name="notify_server">Informeer TCP server</string>
+    <string name="pbap_acceptance_dialog_title" formatted="false">%1$s Wil graag toegang tot je contacten en belgeschiedenis. Geef toegang tot %2$s?</string>
+    <string name="pbap_acceptance_dialog_header">Telefoonboek toegang</string>
+    <string name="pbap_notif_ticker">Telefoonboek toegangsverzoek</string>
+    <string name="pbap_notif_title">PBAP verzoek</string>
+    <string name="pbap_notif_message">Geef telefoonboek toegang tot %1$s</string>
+    <string name="alwaysallowed">Altijd toestaan?</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Kontakt opbevarelse</string>
+    <string name="provider_label">Kontakter</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Kontakt opgradering har brug for mere hukommelse</string>
+    <string name="upgrade_out_of_memory_notification_title">Opgraderer kontakt hukommelse</string>
+    <string name="upgrade_out_of_memory_notification_text">Vælg for at færdiggøre opgraderingen.</string>
+    <string name="pound_search_tip">\"#\" og tast et tal for at søge</string>
+    <string name="create_contact">Ny kontaktperson</string>
+    <string name="send_sms">Send besked</string>
+    <string name="edit_contact">Føj til eksisterende kontakt</string>
+</resources>

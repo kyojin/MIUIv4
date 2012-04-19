@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thema beheer</string>
+    <string name="theme_activity_lable">Thema stijl</string>
+    <string name="theme_changing_dialog_title">Configureren</string>
+    <string name="theme_changed_message">Thema toegepast</string>
+    <string name="theme_changed_failed_message">Theme toepassen mislukt</string>
+    <string name="backup_preference_title">Backup huidig thema</string>
+    <string name="backup_theme_dialog_ok">Backup</string>
+    <string name="backup_theme_dialog_message">"Back-up huidige thema naar:
+ SD-kaart
+ Loc: \\MIUI\\theme\\backup
+ Naam: backup.mtz"</string>
+    <string name="backup_theme_progress_message">Bezig met backup...</string>
+    <string name="backup_theme_success_message">Thema met success gebackupt</string>
+    <string name="theme_description_title_default">Standaard</string>
+    <string name="theme_description_title_customized">Aangepast</string>
+    <string name="component_category_title">Thema aanpassen</string>
+    <string name="component_category_style_title">Stylen</string>
+    <string name="component_category_wallpaper_title">Achtergronden</string>
+    <string name="component_category_ringtone_title">Geluiden</string>
+    <string name="theme_component_title_framework">Systeem stijl</string>
+    <string name="theme_component_title_mms">Berichtstijl</string>
+    <string name="theme_component_title_wallpaper">Achtergrond</string>
+    <string name="theme_component_title_lockwallpaper">Lock achtergrond</string>
+    <string name="theme_component_title_icon">Iconen</string>
+    <string name="theme_component_title_boot_animation">Opstart animatie</string>
+    <string name="theme_component_title_boot_audio">Opstart muziek</string>
+    <string name="theme_component_title_font">Lettertype</string>
+    <string name="theme_component_title_ringtone">Ringtone</string>
+    <string name="theme_component_title_notification">Melding</string>
+    <string name="theme_component_title_alarm">Alarm</string>
+    <string name="theme_component_title_contact">Kiezer thema</string>
+    <string name="theme_component_title_lockstyle">Lock stijl</string>
+    <string name="theme_component_title_statusbar">Status balk</string>
+    <string name="theme_component_title_launcher">Launcher</string>
+    <string name="theme_component_title_audio_effect">Geluidseffect</string>
+    <string name="theme_component_title_others">Andere</string>
+    <string name="theme_component_title_all">"Thema's"</string>
+    <string name="apply_theme_no_select_message">Geen modules geselecteerd</string>
+    <string name="apply_lockscreen_paper_tips">Lockscreen thema al ingebruik, nieuw lockscreen voorbeeld wellicht niet zichtbaar!</string>
+    <string name="play_all_audio_effect">Speel geluidseffect (totaal: %1$s)</string>
+    <string name="theme_import">Importeer thema van SD-kaart</string>
+    <string name="theme_select_others">Overige</string>
+    <string name="third_party_pickers_activity_title">%1$s instellen</string>
+    <string name="wallpaper_settings">Achtergrond kiezen</string>
+    <string name="desktop_wallpaper">Achtergrond</string>
+    <string name="live_wallpaper">Live achtergrond</string>
+    <string name="lockscreen_wallpaper">Lock achtergrond</string>
+    <string name="component_settings_title">Aanpassen huidige thema</string>
+    <string name="component_select_title">Kies module(%1$s)</string>
+    <string name="component_include_title">Inbegrepen module(%1$s)</string>
+    <string name="component_screen_title">Inclusief geselecteerde</string>
+    <string name="resource_fail_to_show">Het thema bevat niet de benodigde onderdelen</string>
+    <string name="new_format_convert">Converteren %s thema naar nieuw formaat</string>
+    <string name="old_format_title">Thema is in het oude formaat</string>
+    <string name="old_format_fail">Coverteren mislukt klik op toepassen om op nieuw te proberen. Controleer of er een nieuwe versie van thema beschikbaar is.</string>
+    <string name="old_format_convert_tip1">Thema is in het oude formaat, converteren kan enige tijd in beslag nemen.Doorgaan ?</string>
+    <string name="old_format_convert_tip2">U kunt ook het huidige thema verwijderen en controleren of er een nieuwe versie is.</string>
+</resources>

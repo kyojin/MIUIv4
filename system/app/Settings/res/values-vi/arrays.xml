@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item>yyyy-MM-dd</item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+    </string-array>
+    <string-array name="date_format_titles">
+        <item>Năm-Tháng-Ngày</item>
+        <item>Tháng-Ngày-Năm</item>
+        <item>Ngày-Tháng-Năm</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>Tắt</item>
+        <item>Trung bình</item>
+        <item>Đầy đủ</item>
+    </string-array>
+    <string-array name="access_control_privacy_mode_entries">
+        <item>Không bảo vệ</item>
+        <item>Bảo vệ</item>
+    </string-array>
+    <string-array name="access_control_app_entries">
+        <item>Không bảo vệ</item>
+        <item>Ẩn biểu tượng ứng dụng</item>
+        <item>Bảo vệ bằng mật khẩu</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>Các cửa sổ không có Hiệu ứng</item>
+        <item>Hiệu ứng cho một vài cửa sổ</item>
+        <item>Hiệu ứng cho tất cả các sửa sổ</item>
+    </string-array>
+</resources>

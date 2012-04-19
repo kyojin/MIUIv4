@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_bluetoothShareManager">İndirme yöneticisini aç.</string>
+    <string name="permdesc_bluetoothShareManager">Uygulamanın BluetoothShare erişimini ve dosya aktarmasını sağlar.</string>
+    <string name="bt_share_picker_label">Bluetooth</string>
+    <string name="unknown_device">Bilinmeyen aygıt</string>
+    <string name="unknownNumber">Bilinmeyen</string>
+    <string name="airplane_error_title">Uçak modu</string>
+    <string name="airplane_error_msg">Bluetooth telefon uçak modunda iken kullanılmaz.</string>
+    <string name="bt_enable_title">Bluetooth</string>
+    <string name="bt_enable_line1">Bluetooth hizmetlerini kullanmak için Bluetooth etkinleştirilmeli.</string>
+    <string name="bt_enable_line2">"Şimdi Bluetooth'u aç?"</string>
+    <string name="bt_enable_cancel">İptal</string>
+    <string name="bt_enable_ok">Aç</string>
+    <string name="incoming_file_confirm_title">Dosya transferi</string>
+    <string name="incoming_file_confirm_content" formatted="false">"\"%1$s\" size %2$s dosyasını göndermek istiyor (%3$s). 
+
+ Kabul edilsin mi?"</string>
+    <string name="incoming_file_confirm_cancel">Reddet</string>
+    <string name="incoming_file_confirm_ok">Kabul et</string>
+    <string name="incoming_file_confirm_timeout_ok">Tamam</string>
+    <string name="incoming_file_confirm_timeout_content">\"%1$s\" cihazından gelen dosya zaman aşımına uğradı</string>
+    <string name="incoming_file_confirm_Notification_title">Bluetooth Paylaşımı: Gelen dosya</string>
+    <string name="incoming_file_confirm_Notification_caption">Lütfen bu dosyayı almak istediğinizi onaylayın</string>
+    <string name="incoming_file_toast_msg">Başka bir aygıttan gelen dosya, lütfen bu dosyayı almak istediğinizi onaylayın</string>
+    <string name="notification_receiving">Bluetooth Paylaşımı: %1$s alınıyor</string>
+    <string name="notification_received">Bluetooth Paylaşımı: %1$s alındı</string>
+    <string name="notification_received_fail">Bluetooth Paylaşımı: Alınamayan dosya %1$s</string>
+    <string name="notification_sending">Bluetooth Paylaşımı: %1$s gönderiliyor</string>
+    <string name="notification_sent">Bluetooth Paylaşımı: %1$s gönderildi</string>
+    <string name="notification_sent_complete">%100 tamamlandı</string>
+    <string name="notification_sent_fail">Bluetooth Paylaşımı: Gönderilemeyen dosya %1$s</string>
+    <string name="download_title">Dosya transferi</string>
+    <string name="download_line1">Kimden: \"%1$s\"</string>
+    <string name="download_line2">Dosya: %1$s</string>
+    <string name="download_line3">Dosya boyutu: %1$s</string>
+    <string name="download_line4" />
+    <string name="download_line5">Dosya alınıyor ...</string>
+    <string name="download_cancel">Durdurmak</string>
+    <string name="download_ok">Gizlemek</string>
+    <string name="download_fail_line1">Dosya alınmadı</string>
+    <string name="download_fail_line2">Dosya:%1$s</string>
+    <string name="download_fail_line3">Hata nedeni: %1$s</string>
+    <string name="download_fail_ok">Tamam</string>
+    <string name="download_succ_line5">Dosya alındı</string>
+    <string name="download_succ_ok">Aç</string>
+    <string name="upload_line1">Kime: \"%1$s\"</string>
+    <string name="upload_line3" formatted="false">Dosya türü: %1$s (%2$s)</string>
+    <string name="upload_line5">Dosya gönderiliyor ...</string>
+    <string name="upload_succ_line5">Dosya gönderdi</string>
+    <string name="upload_succ_ok">Tamam</string>
+    <string name="upload_fail_line1">Dosya \"%1$s\" konumuna gönderilemedi.</string>
+    <string name="upload_fail_line1_2">Dosya: %1$s</string>
+    <string name="upload_fail_ok">Tekrar deneyin</string>
+    <string name="upload_fail_cancel">Kapat</string>
+    <string name="bt_error_btn_ok">Tamam</string>
+    <string name="unknown_file">Bilinmeyen dosya</string>
+    <string name="unknown_file_desc">"Bu dosya türünü işlemek için hiçbir uygulama bulunmamaktadır.
+"</string>
+    <string name="not_exist_file">Dosya yok</string>
+    <string name="not_exist_file_desc">"Dosya yok!
+"</string>
+    <string name="enabling_progress_title">Lütfen bekleyin</string>
+    <string name="enabling_progress_content">Bluetoothu aç</string>
+    <string name="bt_toast_1">Dosya alınacaktır. Bildirimler panelinde ilerlemeleri kontrol edin.</string>
+    <string name="bt_toast_2">Dosya alınmayacak.</string>
+    <string name="bt_toast_3">\"%1$s\" konumundan aktarım durdu</string>
+    <string name="bt_toast_4">\"%1$s\" konumuna dosya gönderiliyor</string>
+    <string name="bt_toast_5" formatted="false">%1$s dosya \"%2$s\" konumuna gönderiliyor</string>
+    <string name="bt_toast_6">\"%1$s\" konumuna gönderimi durdur</string>
+    <string name="bt_sm_2_1">\"%1$s\" konumundan gelen dosyayı kaydetmek için SD kartta yeterli alan yok</string>
+    <string name="bt_sm_2_2">Gerekli alan: %1$s</string>
+    <string name="ErrorTooManyRequests">Çok fazla istek işleniyor. Daha sonra yeniden deneyin.</string>
+    <string name="status_pending">Dosya aktarımı henüz başlamadı</string>
+    <string name="status_running">Dosya aktarımı devam etmektedir</string>
+    <string name="status_success">Dosya aktarımı tamamlandı</string>
+    <string name="status_not_accept">Bu içerik desteklenmiyor</string>
+    <string name="status_forbidden">Bu transfer hedef aygıt tarafından yasaklanmıştır</string>
+    <string name="status_canceled">Bu Aktarım kullanıcı tarafından iptal edildi</string>
+    <string name="status_file_error">Depolama sorunu</string>
+    <string name="status_no_sd_card">Sd kart yok. Aktarılan dosyaları kaydetmek için bir sd kartı takın.</string>
+    <string name="status_connection_error">Bağlantı hatası</string>
+    <string name="status_protocol_error">Protokol hatası</string>
+    <string name="status_unknown_error">Bilinmeyen hata</string>
+    <string name="btopp_live_folder">Bluetooth</string>
+    <string name="download_success">%1$s aktarım tamamlandı.</string>
+    <string name="upload_success">%1$s gönderildi.</string>
+    <string name="inbound_history_title">Gelen transferler</string>
+    <string name="outbound_history_title">Giden Transferler</string>
+    <string name="no_transfers">Transfer geçmişi boş.</string>
+    <string name="transfer_clear_dlg_msg">Tüm öğeler listeden silinir.</string>
+    <string name="outbound_noti_title">Bluetooth Paylaşımı: Gönderilen dosyalar</string>
+    <string name="inbound_noti_title">Bluetooth Paylaşımı: Alınan dosyalar</string>
+    <string name="noti_caption" formatted="false">%1$s başarılı, %2$s hatalı.</string>
+    <string name="transfer_menu_clear_all">Listeyi Temizle</string>
+    <string name="transfer_menu_open">Aç</string>
+    <string name="transfer_menu_clear">Listeden Temizle</string>
+    <string name="transfer_clear_dlg_title">Temizle</string>
+    <string name="bluetooth_share_file_name">bluetooth_content_share</string>
+    <string name="sharedUserId" />
+    <string name="process" />
+    <string name="pbap_session_key_dialog_title">%1$S oturum anahtarını yazın</string>
+    <string name="pbap_session_key_dialog_header">Bluetooth oturum anahtarı gerekir</string>
+    <string name="pbap_acceptance_timeout_message">%1$S ile bağlantı kabul etmek için zaman aşımı oluştu</string>
+    <string name="pbap_authentication_timeout_message">%1$s Oturum anahtarı girişi için zaman aşımı oluştu</string>
+    <string name="auth_notif_ticker">OBEX kimlik doğrulama isteği</string>
+    <string name="auth_notif_title">Oturum anahtarı</string>
+    <string name="auth_notif_message">%1$S oturum anahtarını yazın</string>
+    <string name="defaultname">Araç kiti</string>
+    <string name="unknownName">Bilinmeyen ad</string>
+    <string name="localPhoneName">Adım</string>
+    <string name="defaultnumber">000000</string>
+    <string name="hello">Merhaba Dünya, Test uygulaması</string>
+    <string name="app_name">Bluetooth Paylaşımı</string>
+    <string name="insert_record">Kayıt ekleme</string>
+    <string name="update_record">Kaydı Onayla</string>
+    <string name="ack_record">ACK kaydı</string>
+    <string name="deleteAll_record">Tüm kayıtları sil</string>
+    <string name="ok_button">Tamam</string>
+    <string name="delete_record">Kaydı sil</string>
+    <string name="start_server">Tcp sunucuyu başlat</string>
+    <string name="notify_server">TCP sunucusu bildir</string>
+    <string name="pbap_acceptance_dialog_title" formatted="false">%1$s rehber ve arama geçmişine erişmek istiyor. %2$s erişimine izni ver?</string>
+    <string name="pbap_acceptance_dialog_header">Telefon defterine erişim</string>
+    <string name="pbap_notif_ticker">Telefon Rehberi erişim isteği</string>
+    <string name="pbap_notif_title">Pbap isteği</string>
+    <string name="pbap_notif_message">"%1$s konumundan gelen Telefon defteri erişimi isteğine
+ izin ver"</string>
+    <string name="alwaysallowed">Her zaman izinli?</string>
+</resources>

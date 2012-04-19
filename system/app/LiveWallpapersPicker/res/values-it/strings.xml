@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="application_name">Selettore Sfondi Animati</string>
+    <string name="live_wallpaper_picker_title">Sfondi Animati</string>
+    <string name="live_wallpaper_preview_title">Anteprima Sfondi Animati</string>
+    <string name="configure_wallpaper">Impostazioni…</string>
+    <string name="wallpaper_instructions">Imposta sfondo</string>
+    <string name="live_wallpaper_empty">Nessuno sfondo animato.</string>
+    <string name="set_live_wallpaper">Imposta sfondo</string>
+    <string name="wallpaper_title_and_author" formatted="false">%1$s di %2$s</string>
+    <string name="live_wallpaper_loading">Caricamento sfondo animato…</string>
+</resources>

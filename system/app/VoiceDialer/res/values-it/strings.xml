@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="voiceDialer">Compositore Vocale</string>
+    <string name="tool_tip_title">Lo sapevi che…</string>
+    <string name="tool_tip_message">Tenendo &amp; premuto il pulsante verde di chiamata si avvia il compositore vocale.</string>
+    <string name="examples">" Esempi: "<b>" 
+\"Chiama Mish\" 
+\"Chiama Mish a casa, …\" 
+\"Chiama casella vocale\" 
+\"Componi (866) 555 0123\" 
+\"Componi 911, 811, …\" 
+\"Componi +44 7333 444 555\" 
+\"Ricomponi\" 
+\"Apri Calendario\" "</b>" "</string>
+    <string name="title">Compositore Vocale</string>
+    <string name="bluetooth_title">Compositore Vocale Bluetooth</string>
+    <string name="initializing">Avvio.</string>
+    <string name="listening">In ascolto…</string>
+    <string name="please_try_again">Riprovare, grazie.</string>
+    <string name="failure">Errore</string>
+    <string name="recognition_error">Puoi provare inoltre a riavvviare il telefono.</string>
+    <string name="headset_connection_lost">Connessione auricolare persa.</string>
+    <string name="at_home">" a casa"</string>
+    <string name="on_mobile">" su cellulare"</string>
+    <string name="at_work">" a lavoro"</string>
+    <string name="at_other">"  altro"</string>
+    <string name="logging_enabled">Controllo Compositore Vocale abilitato.</string>
+    <string name="logging_disabled">Controllo Compositore Vocale disabilitato.</string>
+    <string name="speak_now_tts">Parla ora.</string>
+    <string name="no_results_tts">Nessun risultato, riprova.</string>
+    <string name="invalid_choice_tts">Scelta non valida.</string>
+    <string name="goodbye_tts">Arrivederci.</string>
+</resources>

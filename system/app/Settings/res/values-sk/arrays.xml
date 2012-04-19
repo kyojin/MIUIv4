@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>Amerika</item>
+        <item>Európa</item>
+        <item>Afrika</item>
+        <item>Ázia</item>
+        <item>Austrália</item>
+        <item>Pacifik</item>
+        <item>Všetko</item>
+    </string-array>
+    <string-array name="date_format_values">
+        <item>yyyy-MM-dd</item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>30 s</item>
+        <item>1 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="screen_timeout_values">
+        <item>30000</item>
+        <item>60000</item>
+        <item>300000</item>
+        <item>600000</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Veľmi pomaly</item>
+        <item>Pomalu</item>
+        <item>Normálne</item>
+        <item>Rýchle</item>
+        <item>Velmi rýchle</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Veľmi pomaly</item>
+        <item>Pomaly</item>
+        <item>Normálne</item>
+        <item>Rýchlo</item>
+        <item>Veľmi rýchlo</item>
+    </string-array>
+    <string-array name="tts_pitch_values">
+        <item>50</item>
+        <item>80</item>
+        <item>100</item>
+        <item>120</item>
+        <item>150</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Vyhľadávam...</item>
+        <item>Pripájam...</item>
+        <item>Overujem...</item>
+        <item>Získavam IP adresu...</item>
+        <item>Pripojené</item>
+        <item>Pozastavené</item>
+        <item>Odpájam...</item>
+        <item>Odpojené</item>
+        <item>Neúspešné</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Vyhľadávam...</item>
+        <item>Pripájam k %1$s...</item>
+        <item>Overujem s %1$s...</item>
+        <item>Získavam IP adresu od %1$s...</item>
+        <item>Pripojené k %1$s</item>
+        <item>Pozastavené</item>
+        <item>Odpájam od %1$s...</item>
+        <item>Odpojené</item>
+        <item>Neúspešné</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Nezabezpečená</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Nezabezpečená</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 minúty</item>
+        <item>5 minút</item>
+        <item>1 hodina</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Slabý</item>
+        <item>Dostatočný</item>
+        <item>Dobrý</item>
+        <item>Výborný</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Keď je displej vypnutý</item>
+        <item>Nikdy pri dobíjaní</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Čas behu</item>
+        <item>Počet spustení</item>
+        <item>Meno aplikácie</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Žiadny</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Vypnuté</item>
+        <item>Poplašný tón</item>
+        <item>Vibrácia</item>
+    </string-array>
+    <string-array name="emergency_tone_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="special_locale_codes">
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+    </string-array>
+    <string-array name="special_locale_names">
+        <item>Chinese (Simplified)</item>
+        <item>Chinese (Traditional)</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Žiadna</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP nebo CHAP</item>
+    </string-array>
+    <string-array name="apn_auth_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="apn_protocol_values">
+        <item>IP</item>
+        <item>IPV6</item>
+        <item>IPV4V6</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Vnútorná pamäť telefónu</item>
+        <item>Výmenená SD karta</item>
+        <item>Nechať rozhodnúť systém</item>
+    </string-array>
+    <string-array name="app_install_location_values">
+        <item>device</item>
+        <item>sdcard</item>
+        <item>auto</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>Slabý</item>
+        <item>Dostatočný</item>
+        <item>Dobrý</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Klasický</item>
+        <item>Percentá</item>
+        <item>Pruh v oznamovacej lište</item>
+    </string-array>
+    <string-array name="battery_indicator_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Biela (predvolené)</item>
+        <item>Zelená</item>
+        <item>Červená</item>
+        <item>Modrá</item>
+        <item>Žltá</item>
+        <item>Azúrová</item>
+        <item>Purpurová</item>
+        <item>Řužová</item>
+        <item>Oranžová</item>
+        <item>Zafírová</item>
+    </string-array>
+    <string-array name="led_color_values">
+        <item>white</item>
+        <item>green</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>cyan</item>
+        <item>\#800080</item>
+        <item>\#ffc0cb</item>
+        <item>\#ffa500</item>
+        <item>\#add8e6</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>9 s (výchozí)</item>
+        <item>2 s</item>
+        <item>3 s</item>
+        <item>4 s</item>
+        <item>5 s</item>
+        <item>6 s</item>
+        <item>7 s</item>
+        <item>8 s</item>
+    </string-array>
+    <string-array name="led_freq_values">
+        <item>9000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>6000</item>
+        <item>7000</item>
+        <item>8000</item>
+    </string-array>
+    <string-array name="led_color_values_for_mione">
+        <item>blue</item>
+        <item>red</item>
+        <item>green</item>
+        <item>\#FFFF0033</item>
+        <item>\#FF5500FF</item>
+        <item>\#FFAA00AA</item>
+        <item>\#FF00FF55</item>
+        <item>\#FF00AAAA</item>
+        <item>\#FF0033FF</item>
+    </string-array>
+    <string-array name="led_color_entries_for_mione">
+        <item>Modrá</item>
+        <item>Červená</item>
+        <item>Zelená</item>
+        <item>Pink</item>
+        <item>Violet</item>
+        <item>Purple</item>
+        <item>Emerald</item>
+        <item>Cyan</item>
+        <item>Sapphire</item>
+    </string-array>
+    <string-array name="date_format_titles">
+        <item>Rok-Mesiac-Deň</item>
+        <item>Mesiac-Deň-Rok</item>
+        <item>Deň-Mesiac-Rok</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>0</item>
+        <item>1/2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="access_control_privacy_mode_entries">
+        <item>Nechránené</item>
+        <item>Chránené</item>
+    </string-array>
+    <string-array name="access_control_app_entries">
+        <item>Nechránené</item>
+        <item>Schovať ikonu aplikácie</item>
+        <item>Chránené heslom</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>Nezobrazí sa žiadna animácia okien</item>
+        <item>Zobrazia sa len niektoré animácie okien</item>
+        <item>Zobrazia sa všetky animácie okien</item>
+    </string-array>
+    <string-array name="vibrate_entries">
+        <item>Vždy</item>
+        <item>Nikdy</item>
+        <item>V tichom režime</item>
+        <item>Pokiaľ nie je v tichom režime</item>
+    </string-array>
+    <string-array name="vibrate_values">
+        <item>Vždy</item>
+        <item>Nikdy</item>
+        <item>V tichom režime</item>
+        <item>Pokiaľ nie je v tichom režime</item>
+    </string-array>
+    <string-array name="animations_values">
+        <item>00</item>
+        <item>01</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="tts_lang_entries">
+        <item>Americká angličtina</item>
+        <item>Britská angličtina</item>
+        <item>Francouzština</item>
+        <item>Nemčina</item>
+        <item>Talianština</item>
+        <item>Španielština</item>
+    </string-array>
+    <string-array name="tts_lang_values">
+        <item>eng-USA</item>
+        <item>eng-GBR</item>
+        <item>fra-FRA</item>
+        <item>deu-DEU</item>
+        <item>ita-ITA</item>
+        <item>spa-ESP</item>
+    </string-array>
+    <string-array name="tts_engine_entries">
+        <item>Pico TTS</item>
+    </string-array>
+    <string-array name="tts_engine_values">
+        <item>com.svox.pico</item>
+    </string-array>
+    <string-array name="wifi_wps_method">
+        <item>PBC (tlačítkom)</item>
+        <item>PIN</item>
+    </string-array>
+    <string-array name="wifi_wps_ssid">
+        <item>Ľubovoľné ssid</item>
+    </string-array>
+    <string-array name="wifi_wapi_psk_type">
+        <item>WAPI PSK ASCII</item>
+        <item>WAPI PSK hexadecimal</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_values">
+        <item>twomin</item>
+        <item>fivemin</item>
+        <item>onehour</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="battery_history_type_spinner">
+        <item>CPU</item>
+        <item>Sieť</item>
+        <item>GPS</item>
+        <item>Senzory</item>
+        <item>Pri prebudení</item>
+        <item>Ostatní</item>
+    </string-array>
+    <string-array name="battery_history_which_spinner">
+        <item>Od posledného dobíjania</item>
+        <item>Od reštartu</item>
+        <item>Celkom</item>
+    </string-array>
+    <string-array name="vpn_openvpn_protocol_entries">
+        <item>udp</item>
+        <item>tcp</item>
+    </string-array>
+    <string-array name="vpn_openvpn_device_entries">
+        <item>tun</item>
+        <item>tap</item>
+    </string-array>
+    <string-array name="battery_low_level_entries">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+    <string-array name="battery_low_level_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+    <string-array name="usage_screen_power_slices">
+        <item>Zapnutý displej</item>
+        <item>Vypnutý displej</item>
+        <item>Nízky jas</item>
+        <item>Stredný jas</item>
+        <item>Vysoký jas</item>
+        <item>Jas naplno</item>
+    </string-array>
+    <string-array name="usage_radio_power_slices">
+        <item>1 čiarka</item>
+        <item>2 čiarky</item>
+        <item>3 čiarky</item>
+        <item>4 čiarky</item>
+        <item>Žiadny signál</item>
+        <item>Vyhľadávam</item>
+    </string-array>
+    <string-array name="usage_wifi_power_slices">
+        <item>Otvoriť Wi-Fi využitie energie</item>
+        <item>Wi-Fi prenos využitia energie</item>
+    </string-array>
+    <string-array name="usage_bluetooth_power_slices">
+        <item>Otvoríť Bluetooth využitie energie</item>
+        <item>Využitie energie Bluetooth</item>
+    </string-array>
+    <string-array name="usage_app_power_slices">
+        <item>Audio energie</item>
+        <item>Video energie</item>
+        <item>CPU využitie energie</item>
+        <item>Prenos dát využitie energie</item>
+        <item>Využitie energie senzory</item>
+    </string-array>
+    <string-array name="overscroll_mode_entries">
+        <item>Vždy flexibilné</item>
+        <item>Flexibilné keď je obsah plný</item>
+        <item>Žiadna flexibilita</item>
+    </string-array>
+    <string-array name="overscroll_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="menu_style_entries">
+        <item>Mriežka s ikonami</item>
+        <item>Zoznam s tlačítkami</item>
+    </string-array>
+    <string-array name="menu_style_values">
+        <item>0</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="led_color_values_for_milestone">
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Cyan</item>
+        <item>\#800080</item>
+        <item>\#ffa500</item>
+    </string-array>
+    <string-array name="led_color_entries_for_milestone">
+        <item>Zelená (predvolené)</item>
+        <item>Červená</item>
+        <item>Modrá</item>
+        <item>Žltá</item>
+        <item>Azúrová</item>
+        <item>Purpurová</item>
+        <item>Oranžová</item>
+    </string-array>
+    <string-array name="entries_light_filter_window">
+        <item>10 s</item>
+        <item>20 s</item>
+        <item>30 s</item>
+        <item>40 s</item>
+        <item>50 s</item>
+        <item>60 s</item>
+    </string-array>
+    <string-array name="values_light_filter_window">
+        <item>10000</item>
+        <item>20000</item>
+        <item>30000</item>
+        <item>40000</item>
+        <item>50000</item>
+        <item>60000</item>
+    </string-array>
+    <string-array name="entries_light_filter_reset">
+        <item>Vypnuté</item>
+        <item>400 lux</item>
+        <item>500 lux</item>
+        <item>600 lux</item>
+        <item>700 lux</item>
+        <item>800 lux</item>
+        <item>900 lux</item>
+        <item>1000 lux</item>
+        <item>1500 lux</item>
+        <item>2000 lux</item>
+        <item>2500 lux</item>
+    </string-array>
+    <string-array name="values_light_filter_reset">
+        <item>-1</item>
+        <item>400</item>
+        <item>500</item>
+        <item>600</item>
+        <item>700</item>
+        <item>800</item>
+        <item>900</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+        <item>2500</item>
+    </string-array>
+    <string-array name="entries_light_filter_interval">
+        <item>0.5 s</item>
+        <item>1 s</item>
+        <item>2 s</item>
+        <item>5 s</item>
+        <item>10 s</item>
+    </string-array>
+    <string-array name="values_light_filter_interval">
+        <item>500</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+    <string-array name="entries_light_levels_dim">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20 (predvolené)</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+    </string-array>
+    <string-array name="values_light_levels_dim">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+    </string-array>
+    <string-array name="entries_light_decrease_hysteresis">
+        <item>0 %</item>
+        <item>10 %</item>
+        <item>20 %</item>
+        <item>30 %</item>
+        <item>40 %</item>
+        <item>50 %</item>
+        <item>60 %</item>
+        <item>70 %</item>
+        <item>80 %</item>
+        <item>90 %</item>
+    </string-array>
+    <string-array name="values_light_decrease_hysteresis">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+    </string-array>
+</resources>

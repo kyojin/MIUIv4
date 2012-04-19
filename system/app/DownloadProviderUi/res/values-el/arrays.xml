@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>Όλες οι λήψεις</item>
+        <item>App Share</item>
+        <item>Μουσική</item>
+        <item>Θέματα</item>
+        <item>Browser</item>
+        <item>Λοιπά</item>
+    </string-array>
+</resources>

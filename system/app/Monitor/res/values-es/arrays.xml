@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="counter_names">
+        <item>Hoy</item>
+        <item>Semanal</item>
+        <item>Mensual</item>
+        <item>Mes anterior</item>
+    </string-array>
+</resources>

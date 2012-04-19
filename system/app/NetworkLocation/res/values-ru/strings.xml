@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Местоположение сети</string>
+    <string name="location_warning_title">Разрешить отслеживание?</string>
+    <string name="location_warning_message">Разрешить службе местоположений Google собирать данные о положении без определения личности. Сбор данных будет осуществляться, даже если не будет запущено ни одного приложения.</string>
+    <string name="agree">Принимаю</string>
+    <string name="disagree">Не принимаю</string>
+</resources>

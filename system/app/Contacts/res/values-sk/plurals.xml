@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Zobrazujem %d kontaktov s telefónnym číslom</item>
+        <item quantity="one">Zobrazujem 1 kontakt s telefónnym číslom</item>
+        <item quantity="few">Zobrazujem %d kontakty s telefónnym číslom</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Zobrazujem %d kontaktov</item>
+        <item quantity="one">Zobrazujem 1 kontakt</item>
+        <item quantity="few">Zobrazujem %d kontakty</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">Nájdených %d kontaktov</item>
+        <item quantity="one">Nájdený 1 kontakt</item>
+        <item quantity="few">Nájdené %d kontakty</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d kontaktov</item>
+        <item quantity="one">1 kontakt</item>
+        <item quantity="few">%d kontakty</item>
+    </plurals>
+    <plurals name="groupDescrip">
+        <item quantity="other">%0$d kontaktov</item>
+        <item quantity="one">%0$d kontakt</item>
+        <item quantity="few">%0$d kontakty</item>
+    </plurals>
+    <plurals name="groupDescripPhones">
+        <item quantity="other">%1$1$d kontaktov, %2$2$d s telefónom</item>
+        <item quantity="one">%1$1$d kontakt, %2$2$d s telefónom</item>
+        <item quantity="few">%1$1$d kontakty, %2$2$d s telefónom</item>
+    </plurals>
+</resources>

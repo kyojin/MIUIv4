@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="callrecordview_menu_show_values">
+        <item>@string/callrecordview_menu_show_all</item>
+        <item>@string/callrecordview_menu_show_missed</item>
+        <item>@string/callrecordview_menu_show_called</item>
+        <item>@string/callrecordview_menu_show_accepted</item>
+        <item>@string/callrecordview_menu_show_stranger</item>
+    </array>
+    <string-array name="pick_photo_values">
+        <item>"Neem foto's met de camera"</item>
+        <item>Bladeren in fotogalerij</item>
+        <item>"Systeem foto's"</item>
+        <item>Herstel standaard</item>
+    </string-array>
+    <string-array name="pick_incoming_call_photo_values">
+        <item>"Neem foto's met de camera"</item>
+        <item>Bladeren in fotogalerij</item>
+    </string-array>
+    <string-array name="edit_incoming_call_photo_values">
+        <item>"Neem foto's met de camera"</item>
+        <item>Bladeren in fotogalerij</item>
+        <item>Afbeelding bewerken</item>
+        <item>Wissen</item>
+    </string-array>
+    <string-array name="click_shortcut_entries">
+        <item>Bel</item>
+        <item>Bekijk contact</item>
+        <item>Toon keuze menu</item>
+    </string-array>
+    <string-array name="click_shortcut_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <array name="dialer_item_click_guide_options">
+        <item>@string/dialer_item_click_guide_call</item>
+        <item>@string/dialer_item_click_guide_view_contacts</item>
+    </array>
+</resources>

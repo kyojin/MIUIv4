@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_format_values">
+        <item>yyyy-MM-dd</item>
+        <item>MM-dd-yyyy</item>
+        <item>dd-MM-yyyy</item>
+    </string-array>
+    <string-array name="date_format_titles">
+        <item>Yıl-Ay-Gün</item>
+        <item>Ay-Gün-Yıl</item>
+        <item>Gün-Ay-Yıl</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>Kapalı</item>
+        <item>Dengeli</item>
+        <item>Tüm</item>
+    </string-array>
+    <string-array name="access_control_privacy_mode_entries">
+        <item>Ücretsiz Modu</item>
+        <item>Şifre Korumalı</item>
+    </string-array>
+    <string-array name="access_control_app_entries">
+        <item>Ücretsiz Modu</item>
+        <item>Masaüstü Simgelerini Gizle</item>
+        <item>Şifre Korumalı</item>
+    </string-array>
+    <string-array name="animations_summaries">
+        <item>Hiçbir canlandırmalar gösterilmez</item>
+        <item>Bazı canlandırmalar gösterilir</item>
+        <item>Tüm canlandırmalar gösterilir</item>
+    </string-array>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Gerenciador de downloads</string>
+    <string name="permlab_downloadManager">Acessar o gerenciador de download.</string>
+    <string name="permdesc_downloadManager">Permite que o aplicativo acesse o gerenciador de download e use-o para fazer o download de arquivos. Aplicativos maliciosos podem usar isso para interromper os downloads e acessar informações particulares.</string>
+    <string name="permlab_downloadManagerAdvanced">Funções avançadas do gerenciador de download.</string>
+    <string name="permdesc_downloadManagerAdvanced">Permite que o aplicativo acesse as funções avançadas do gerenciador de downloads. Aplicativos maliciosos podem usar isso para interromper os downloads e acessar informações particulares.</string>
+    <string name="permlab_downloadCompletedIntent">Enviar notificações de download.</string>
+    <string name="permdesc_downloadCompletedIntent">Permite que o aplicativo envie notificações sobre downloads concluídos. Aplicativos maliciosos podem usar isso para confundir outros aplicativos que fazem download de arquivos.</string>
+    <string name="permlab_seeAllExternal">Ver todos os downloads para o cartão SD</string>
+    <string name="permdesc_seeAllExternal">Permite que o aplicativo veja todos os downloads feitos no cartão SD, independentemente do aplicativo que fez o download.</string>
+    <string name="permlab_downloadCacheNonPurgeable">Reservar espaço no cache de download</string>
+    <string name="permdesc_downloadCacheNonPurgeable">Permite que o aplicativo faça download de arquivos no cache de downloads, que não pode ser excluído automaticamente quando o gerenciador precisa de mais espaço.</string>
+    <string name="permlab_downloadWithoutNotification">fazer download de arquivos sem notificação</string>
+    <string name="permdesc_downloadWithoutNotification">Permite que o aplicativo faça download de arquivos por meio do gerenciador de download sem exibir notificações ao usuário.</string>
+    <string name="permlab_accessAllDownloads">Acessar todos os downloads do sistema</string>
+    <string name="permdesc_accessAllDownloads">Permite que o aplicativo visualize e modifique todos os processos iniciados por qualquer aplicativo no sistema.</string>
+    <string name="download_unknown_title">&lt;Sem título></string>
+    <string name="notification_filename_separator">", "</string>
+    <string name="notification_filename_extras">" e %d mais"</string>
+    <string name="notification_download_complete">Download concluído</string>
+    <string name="notification_download_failed">Falha no download</string>
+    <string name="notification_need_wifi_for_size">O tamanho requer Wi-Fi</string>
+    <string name="wifi_required_title">Download muito grande para a rede da operadora</string>
+    <string name="wifi_required_body" formatted="false">"Você deve usar uma rede WiFi para concluir este download de %s . 
+
+Clique em %s  para iniciar este download na próxima vez que estiver conectado a uma rede WiFi."</string>
+    <string name="wifi_recommended_title">Colocar em fila para download mais tarde?</string>
+    <string name="wifi_recommended_body" formatted="false">"O download de %s  reduz a bateria e/ou usa excessivamente a conexão de dados móveis podendo gerar custos com sua operadora móvel.
+
+ Clique em %s e inicie o download na próxima vez que conectar à uma rede Wi-Fi."</string>
+    <string name="button_queue_for_wifi">Fila</string>
+    <string name="button_cancel_download">Cancelar</string>
+    <string name="button_start_now">Iniciar agora</string>
+</resources>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sao lưu</string>
+    <string name="local_app_name">Sao lưu</string>
+    <string name="local_home_title">Trên máy</string>
+    <string name="button_backup">Sao lưu</string>
+    <string name="start_backup">Sao lưu</string>
+    <string name="button_cancel">Hủy</string>
+    <string name="backup_empty">Không có tập tin sao lưu</string>
+    <string name="backup_items_sysdata_tailer">Tập tin Dữ liệu hệ thống</string>
+    <string name="backup_items_app_tailer">Tập tin Dữ liệu ứng dụng</string>
+    <string name="backup_failed">Sao lưu thất bại, xin thử lại</string>
+    <string name="backup_recently">(Mới nhất)</string>
+    <string name="sdcard_unmounted">Không có thẻ nhớ hoặc đã tháo thẻ nhớ!</string>
+    <string name="backup_progress">Đang sao lưu...</string>
+    <string name="button_ok">Đồng ý</string>
+    <string name="backup_finished">Sao lưu hoàn thành</string>
+    <string name="backup_report">Báo cáo khôi phục</string>
+    <string name="backup_hint">Không nên tắt điện thoại vì có thể làm mất dữ liệu</string>
+    <string name="menu_patch_delete">Xóa Sao lưu</string>
+    <string name="delete">Xóa</string>
+    <string name="cancel">Hủy</string>
+    <string name="delete_backup">Xóa sao lưu</string>
+    <string name="delete_backup_confirm">Sao lưu đã chọn sẽ bị xóa, bạn có chắc chắn muốn như vậy không?</string>
+    <string name="delete_backup_process">Đang xóa sao lưu, vui lòng đợi...</string>
+    <string name="backup_error">Backup Error</string>
+    <string name="delete_failed_backup_confirm">The backup has error, cannot restore from this backup</string>
+    <string name="batch_delete_backup_confirm">Xóa các sao lưu đã chọn?</string>
+    <string name="start_restore">Khôi phục</string>
+    <string name="backup_file_error">Có vấn đề với sao lưu, các hoạt động không hợp lệ.</string>
+    <string name="unit_byte">Bytes</string>
+    <string name="unit_piece">Mục</string>
+    <string name="restore_finished">Việc khôi phục đã hoàn thành</string>
+    <string name="restore_report">Báo cáo khôi phục</string>
+    <string name="restore_progress">Đang khôi phục...</string>
+    <string name="restore_contacts_hit">(Lưu ý: bạn cần phải tự làm lại Danh bạ được thành lập với tài khoản của bạn mà bạn đã có trước khi bạn tiến hành Khôi phục)</string>
+    <string name="restore_telephony_hit">(Lưu ý: Quá trình phục hồi sẽ khởi động lại các ứng dụng liên quan)</string>
+    <string name="restore_launcher_layout_hit">(Lưu ý: Chỉ phục hồi sự sắp xếp màn hình)</string>
+    <string name="settings_summary">Sao lưu thiết lập Cuộc gọi và Tin nhắn</string>
+    <string name="cloud_app_name">Sao lưu trực tuyến</string>
+    <string name="cloud_home_title">Trực tuyến</string>
+    <string name="prompt_reading">Đang đọc...</string>
+    <string name="prompt_sending">Đang tải lên...</string>
+    <string name="prompt_writing">Đang ghi...</string>
+    <string name="backup_new">Mới</string>
+    <string name="backup_update">Cập nhật</string>
+    <string name="backup_delete">Xóa</string>
+    <string name="findlost_contact">Khôi phục lại các số liên lạc đã xóa</string>
+    <string name="findlost_contact_online">Tìm danh bạ trực tuyến</string>
+    <string name="cloud_backup_login">Tài khoản MIUI</string>
+    <string name="cloud_backup_hint">"You need to be logged in
+ to back up, restore data, and
+do automatic backup to ensure data security"</string>
+    <string name="cloud_backup_window_title">Sao lưu trực tuyến</string>
+    <string name="cloud_restore_window_title">Khôi phục trực tuyến</string>
+    <string name="cloud_restore_title">Restore backup data</string>
+    <string name="local_backup_window_title">Trên máy</string>
+    <string name="local_restore_window_title">Khôi phục trên máy</string>
+    <string name="account_login">Đăng nhập</string>
+    <string name="miliao_account_login">Login MiTalk</string>
+    <string name="miliao_account_guide">"MiTalk upgraded to Xiaomi account
+ Enjoy all Xiaomi online services"</string>
+    <string name="auto_backup">Sao lưu tự động</string>
+    <string name="contact_title">Danh bạ</string>
+    <string name="call_title">Nhật ký cuộc gọi</string>
+    <string name="sms_title">Tin nhắn</string>
+    <string name="wifi_title">Thiết lập Wifi</string>
+    <string name="note_title">Ghi chép</string>
+    <string name="compute_backup_info">Lấy thông tin Sao lưu</string>
+    <string name="compute_delete_contact_info">Đang tìm tên liên lạc...</string>
+    <string name="unknown_hint">Không biết</string>
+    <string name="task_progress">Tiến độ</string>
+    <string name="task_pending">Đang chờ</string>
+    <string name="task_pre_running">Đang chuẩn bị</string>
+    <string name="task_post_running">Quá trình hậu sử lý</string>
+    <string name="task_finished">Hoàn thành</string>
+    <string name="task_canceled">Đã hủy</string>
+    <string name="task_failed">Thất bại</string>
+    <string name="task_canceled_local">%1$s tiến trình bị hủy</string>
+    <string name="task_canceled_all_local">Hủy tất cả tiến trình</string>
+    <string name="task_failed_local">Hủy %1$s không thành công</string>
+    <string name="task_failed_all_local">Không hủy được</string>
+    <string name="task_backup_finished_local">Sao lưu hoàn tất</string>
+    <string name="task_restore_finished_local">Khôi phục hoàn tất</string>
+    <string name="task_stopped_exception">Đã bỏ qua tiến trình</string>
+    <string name="sdcard_no_enough_space">Không đử dung lượng trên thẻ nhớ</string>
+    <string name="sdcard_no_enough_space_warning">Dung lượng thẻ nhớ thấp, việc sao lưu có thể thất bại, bạn có chắc muốn tiếp tục?</string>
+    <string name="data_no_enough_space">Không đủ dung lượng bộ nhớ trong, giải phóng bộ nhớ sau đó thử lại</string>
+    <string name="data_no_enough_space_warning">Bộ nhớ trong nhỏ hơn 30MB trống, việc phục hồi có thể thất bại, bạn vẫn muốn tiếp tục?</string>
+    <string name="task_running_hint">Dịch vụ đang chạy nền, hãy thử một lần nữa để khôi phục lại bản sao lưu này!</string>
+    <string name="task_running_dialog">Tiến trình sao lưu và phục hồi đang đang chạy nền, bạn muốn xem nó, nhấn vào OK</string>
+    <string name="task_service_not_launched">Dịch vụ không khởi chạy, xin vui lòng đợi!</string>
+    <string name="task_local_backup_cancel_dialog">"Sao lưu không hoàn thành
+Nhấn Đồng ý để hủy bỏ sao lưu"</string>
+    <string name="task_cloud_backup_cancel_dialog">"Sao lưu không hoàn thành
+Nhấn Đồng ý để hủy bỏ sao lưu"</string>
+    <string name="task_restore_cancel_dialog">"Việc khôi phục không hoàn thành
+ Việc hủy bỏ tại thời điểm này sẽ gây mất dữ liệu"</string>
+    <string name="task_backup_cancel_progress">Đang hủy tiến trình...</string>
+    <string name="task_restore_cancel_progress">Đang dừng...</string>
+    <string name="nothing_searched">Tìm kiếm không có kết quả, không tìm thấy gì</string>
+    <string name="restore_counts">Khôi phục:</string>
+    <string name="service_stoped">Đã dừng dịch vụ</string>
+    <string name="sc_network_unavailable">Kết nối mạng bị lỗi</string>
+    <string name="sc_bad_request">Yêu cầu không đúng</string>
+    <string name="sc_unaccess_password_file">Không lưu trữ chi tiết mật khẩu Wifi</string>
+    <string name="sc_service_unavailable">Dịch vụ có thể không có sẵn</string>
+    <string name="sc_unauthorized">Chứng nhận không hợp lệ</string>
+    <string name="sc_request_timeout">Hết thời gian yêu cầu</string>
+    <string name="sc_precondition_failed">Your Xiaomi account has not been bound with any email address</string>
+    <string name="sc_internal_server_error">Máy chủ nội bộ bị lỗi</string>
+    <string name="sc_others">Chương trình ngoại lệ</string>
+    <string name="button_return">Quay lại</string>
+    <string name="button_next">Tiếp tục</string>
+    <string name="button_finish">Kết thúc</string>
+    <string name="progress_backup_hint">Đang sao lưu dữ liệu...</string>
+    <string name="cancel_backup">Hủy Sao lưu</string>
+    <string name="restore_contact">Phục hồi danh bạ</string>
+    <string name="restore_contact_content">"Danh bạ có thể bị trùng lặp sau khi phục hồi, bạn muốn tiếp tục không?.
+ Chú ý: Bạn có thể nhập những số liên lạc bị trùng ở phần cài đặt"</string>
+    <string name="progress_restore_hint">Đang khôi phục dữ liệu...</string>
+    <string name="cancel_restore">Hủy Khôi phục</string>
+    <string name="local_select_sysdata">Hệ thống</string>
+    <string name="local_select_userapp">Ứng dụng</string>
+    <string name="local_no_backup">No local backup(s)</string>
+    <string name="auto_backup_setting_title">Thiết lập Tự động sao lưu</string>
+    <string name="auto_backup_open">Bật Tự động sao lưu</string>
+    <string name="auto_backup_only_wifi">Chỉ sử dụng Wifi</string>
+    <string name="auto_backup_interval">Tần xuất sao lưu (trong ngày)</string>
+    <string name="auto_backup_interval_hint">%d ngày</string>
+    <string name="auto_backup_time">Định kỳ sao lưu</string>
+    <string name="auto_backup_choose_title">Chọn tên sao lưu</string>
+    <string name="auto_backup_choose">Tự động sao lưu</string>
+    <string name="auto_backup_choose_empty">Không có sao lưu</string>
+    <string name="auto_backup_progress">Đang thực hiện sao lưu tự động, xin vui lòng chờ...</string>
+    <string name="auto_backup_interval_min">Hằng ngày</string>
+    <string name="auto_backup_interval_max">30 ngày</string>
+    <string name="cloud_last_backup">Lần khôi phục cuối:</string>
+    <string name="cloud_search">Đang tìm dữ liệu...</string>
+    <string name="cloud_no_backup">Không có dữ liệu sao lưu</string>
+    <string name="current_account">Tài khoản:%s</string>
+    <string name="current_sim">SIM</string>
+    <string name="date_format">yyyy/MM/dd HH:mm:ss</string>
+    <string name="dir_date_format">yyyy-MM-dd-HH-mm-ss</string>
+    <string name="no_network">"Không có mạng
+Vui lòng kiểm tra đường truyền và thử lại"</string>
+    <string name="retry">Thử lại</string>
+    <string name="select_all">Chọn tất cả</string>
+    <string name="reverse_all">Xóa tất cả</string>
+    <string name="refresh">Làm mới</string>
+    <string name="cloud_item_info_summary" formatted="false">(Local %1$s | Trực tuyến %2$s)</string>
+    <string name="total_num">%d record(s) in total</string>
+    <string name="cloud_restore_guide">"Click Start restoring to restore data
+ You may also restore %s in Backup"</string>
+    <string name="import_from_xiaomi_account_hint1">"1. Start a phone with contacts
+
+2. Install MiTalk and log in.
+ http://www.miliao.com
+
+3. Enter MiTalk settings and choose â€\u009dBack up contacts to Xiaomi accountâ€\u009d"</string>
+    <string name="import_from_xiaomi_account_hint2">Note: Go to next step if backup has already existed</string>
+    <string name="import_from_xiaomi_account_hint_title">Use MiTalk to back up contacts on other devices, not MI-ONE</string>
+    <string name="task_backup_succeed">Sao lưu thành công</string>
+    <string name="task_backup_failed">Sao lưu thất bại</string>
+    <string name="task_restore_succeed">Khôi phục thành công</string>
+    <string name="task_restore_failed">Khôi phục thất bại</string>
+    <string name="cloud_backup">Sao lưu</string>
+    <string name="cloud_restore">Khôi phục</string>
+</resources>
