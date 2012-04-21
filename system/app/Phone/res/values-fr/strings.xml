@@ -624,6 +624,9 @@ terminer l'appel en attente"</string>
     <string name="description_target_answer">Réponse</string>
     <string name="description_target_send_sms">Envoyer un SMS</string>
     <string name="description_target_decline">Refuser</string>
+    <string name="voicemail_notification_vibrate_when_title">Vibrer</string>
+    <string name="voicemail_notification_vibarte_when_dialog_title">Vibrer</string>
+    <string name="voicemail_notification_vibrate_when_default">never</string>
     <string name="add_button_miui">Ajouter</string>
     <string name="always_enable_mms_miui">Toujours recevoir les MMS</string>
     <string name="always_enable_mms_summary_miui">Toujours recevoir les MMS, même si la connexion DATA est désactivée</string>
@@ -954,6 +957,7 @@ Veuillez noter que la carte SIM sera caduque en cas d\'échec !"</string>
     <string name="nw_unlock_failed">Demande du déblocage réseau SIM échouée.</string>
     <string name="nw_subset_unlock_failed">Demande du déblocage SIM sous-ensemble réseau échouée..</string>
     <string name="sp_unlock_failed">Demande du déblocage SIM fournisseur de réseau échouée.</string>
+    <string name="xdivert_imsi_not_read">Initialisation de la SIM, veuillez attendre puis réessayer</string>
     <string name="callFailed_dialToDial">Requête DIAL changée en DIAL avec un numéro différent.</string>
     <string name="callFailed_dialToSs">Requête DIAL changée en requête SS.</string>
     <string name="callFailed_dialToUssd">Requête DIAL changée en requête USSD.</string>
@@ -1056,8 +1060,4 @@ Veuillez noter que la carte SIM sera caduque en cas d\'échec !"</string>
     <string name="xdivert_sub_absent">Les 2 abonnements doivent être activés pour traiter X-Divert</string>
     <string name="xdivert_summary">Paramètres CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
-    <string name="requesting_unlock">Demande de déblocage réseau...</string>
-    <string name="unlock_failed">Demande de déblocage réseau échouée.</string>
-    <string name="unlock_success">Déblocage réseau réussi.</string>
-    <string name="preferred_network_mode_lte_cdma_summary">Mode de réseau préféré: LTE / CDMA</string>
 </resources>

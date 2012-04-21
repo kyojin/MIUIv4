@@ -181,6 +181,16 @@
         <item>0</item>
         <item>1</item>
     </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Toujours</item>
+        <item>Uniq. si silencieux</item>
+        <item>Jamais</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_values">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+    </string-array>
     <array name="answer_widget_entries_miui">
         <item>@string/answer_widget_sliding_vertical_miui</item>
         <item>@string/answer_widget_sliding_horizontal_miui</item>

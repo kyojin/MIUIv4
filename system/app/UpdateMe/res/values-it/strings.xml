@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MegatronPartsActivity!</string>
+    <string name="app_name">Update Me</string>
+    <string name="enable_quick_apps">Abilita Quick Apps</string>
+    <string name="enable_recent_screenshoot">Abilita screenshoot su applicazioni recenti</string>
+    <string name="enable_recent_screenshoot_desc">Il bottone delle applicazioni recenti effettua uno screenshoot</string>
+    <string name="check_rom_update">Controlla aggiornamenti della ROM</string>
+    <string name="exit">Esci</string>
+    <string name="info">Informazioni</string>
+    <string name="kernel">Kernel</string>
+    <string name="costumization">Customizzazione</string>
+    <string name="settings">Configurazione</string>
+    <string name="downloading_file">Downloading file....</string>
+    <string name="md5_ok">Controllo MD5 passato</string>
+    <string name="md5_error">Errore nel controllo MD5</string>
+    <string name="file_downloaded">File scaricato in:</string>
+    <string name="reboot_to_recovery">Vuoi riavviare in recovery?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Annulla</string>
+    <string name="new_rom">Nuova versione della ROM disponibile</string>
+    <string name="download_new_rom">Scarica la nuova versione della ROM</string>
+    <string name="changelog">Cambiamenti</string>
+    <string name="reload_apps">Ricarica applicazioni</string>
+    <string name="check_rom_startup">"Controlla aggiornamenti ROM all'avvio"</string>
+    <string name="choose_download_dir">Scegli cartella per il download</string>
+    <string name="reboot_recovery">Riavvia in recovery</string>
+    <string name="donate">Donate</string>
+    <string name="no_update_available">Nessun aggiornamento disponibile</string>
+</resources>

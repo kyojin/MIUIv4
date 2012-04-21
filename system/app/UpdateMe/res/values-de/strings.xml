@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Update Me</string>
+    <string name="enable_quick_apps">Aktiviere QuickApps</string>
+    <string name="enable_recent_screenshoot">Aktiviere Bildschirmfoto durch letztem Button der App</string>
+    <string name="enable_recent_screenshoot_desc">Macht ein Bildschirmfoto durch langes drücken des letzten Button der App</string>
+    <string name="check_rom_update">Nach ROM-Update suchen</string>
+    <string name="exit">Beenden</string>
+    <string name="info">Informationen</string>
+    <string name="kernel">Kernel</string>
+    <string name="costumization">Anpassungen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="downloading_file">Downloade Datei....</string>
+    <string name="md5_ok">MD5-Pürfung erfolgreich</string>
+    <string name="md5_error">MD5-Pürfung fehlgeschlagen</string>
+    <string name="file_downloaded">Dateidownload nach:</string>
+    <string name="reboot_to_recovery">Jetzt ins Recovey booten?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="new_rom">Neue ROM-Version verfügbar</string>
+    <string name="download_new_rom">Downloade neue ROM-Version</string>
+    <string name="changelog">Änderungshistorie</string>
+    <string name="reload_apps">Apps neu laden</string>
+    <string name="check_rom_startup">Beim Start auf neues ROM prüfen</string>
+    <string name="choose_download_dir">Downloadverzeichnis wählen</string>
+    <string name="reboot_recovery">Neustart ins Recovery</string>
+    <string name="donate">Spenden</string>
+    <string name="no_update_available">Kein Update verfügbar</string>
+</resources>

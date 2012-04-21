@@ -220,6 +220,7 @@
     <string name="other_category">Autres paramètres</string>
     <string name="show_hidden_album">Afficher les albums cachés</string>
     <string name="auto_create_recent_album">Créer auto. les albums récents</string>
+    <string name="auto_create_recent_album_over_ten_times">Assigner auto. un album en favori si ouvert plus de 10 fois</string>
     <string name="not_auto_create_recent_album">Ne pas créer auto. les albums récents</string>
     <string name="auto_create_recent_album_confirm">Si cette option est désactivée, La Galerie effacera les données des albums récents. Les albums récents définis par l\'utilisateur ne seront pas affectés. Vous pouvez aussi le définir manuellement avec un appui long sur un album.</string>
     <string name="expand_album_in_home_page">Étendre l\'album en page d\'accueil</string>

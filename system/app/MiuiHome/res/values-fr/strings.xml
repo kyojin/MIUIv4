@@ -40,7 +40,7 @@
     <string name="cant_remove_retained_app">Impossible de supprimer une application de l\'opérateur</string>
     <string name="uninstall_body_format">Voulez-vous désinstaller \"%s\"?</string>
     <string name="uninstall">Désinstaller</string>
-    <string name="install_body_format">Installer l\'application \"%s\"?</string>
+    <string name="starting_preset_app">Démarrage...</string>
     <string name="install">Installer</string>
     <string name="cant_remove_folder">Impossible de supprimer le dossier</string>
     <string name="failed_to_drop">Déplacement échoué</string>
@@ -101,5 +101,6 @@
     <string name="select_photo">Photo</string>
     <string name="select_frame">Cadre</string>
     <string name="photo_confirm">Confirmer</string>
-    <string name="photo_load_failed">Échec du chargement de la photo!</string>
+    <string name="photo_load_failed">Échec du chargement de la photo !</string>
+	<string name="install_body_format">Installer l\'application \"%s\"?</string>
 </resources>

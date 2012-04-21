@@ -212,7 +212,7 @@ Dernière tentative : %s."</string>
     <string name="attach_video">Vidéos</string>
     <string name="attach_record_video">Prendre une vidéo</string>
     <string name="attach_sound">Fichier audio</string>
-    <string name="attach_record_sound">Enregistrer message</string>
+    <string name="attach_record_sound">Audio</string>
     <string name="attach_slideshow">Diaporama</string>
     <string name="select_bottom_text">"Texte en bas de l'écran"</string>
     <string name="select_top_text">"Texte en haut de l'écran"</string>
@@ -302,7 +302,6 @@ Dernière tentative : %s."</string>
     <string name="festival_sms_category_count_format">(%s)</string>
     <string name="festival_sms_loading">Chargement en cours ...</string>
     <string name="festival_sms_push">Recommandés</string>
-    <string name="festival_sms_sdcard_unready">Impossible de charger la liste, assurez-vous que la carte SD en place</string>
     <string name="random_pick">Aléatoire</string>
 	<string name="refresh">Actualiser</string>
     <string name="refresh_failed">La mise à jour a échoué</string>
@@ -352,6 +351,7 @@ Dernière tentative : %s."</string>
     <string name="full_phrase">Vous avez atteint la limite de 50 phrases</string>
     <string name="delete_phrase">Supprimer phrase</string>
     <string name="phrase_confirm_delete_message">La phrase sera supprimée</string>
+    <string name="phrase_from">De %1s</string>
     <string name="pref_title_notification_body_enabled">Afficher</string>
     <string name="pref_summary_notification_body_enabled">Afficher le contenu dans la barre de notification et sur l\'écran de verrouillage</string>
     <string name="pref_summary_notification_body_enabled_when_secure">La configuration d\'un mot de passe ne permettra pas de prévisualiser le contenu des nouveaux SMS</string>
@@ -363,7 +363,7 @@ Dernière tentative : %s."</string>
     <string name="pref_title_delivery_reports">Accusé de réception</string>
     <string name="pref_summary_delivery_reports">Accusé de réception pour chaque SMS et MMS</string>
     <string name="pref_title_ringtone_repeat">Nombre de rappels</string>
-    <string name="pref_summary_ringtone_repeat">Répeter toutes les 5 minutes</string>
+    <string name="pref_summary_ringtone_repeat">Répéter toutes les 5 minutes</string>
     <string name="pref_other_title">Autres</string>
     <string name="pref_advanced_settings_title">Paramètres avancés</string>
     <string name="pref_title_delivery_ringtone">Rapport de récéption</string>
@@ -415,6 +415,7 @@ Dernière tentative : %s."</string>
     <string name="wap_push_title">"[Push WAP] "</string>
     <string name="message_too_big_for_audio">Le message est trop gros pour attacher de l\'audio.</string>
     <string name="add_timing">Temps</string>
+    <string name="menu_view_original_message">Voir le message original</string>
     <string name="title_timed_message_dialog">Veuillez configurer la date pour ce message</string>
     <string name="will_send_at">Envoi à: %s</string>
     <string name="error_timed_msg">Impossible de planifier un temps passé</string>
@@ -428,6 +429,7 @@ Dernière tentative : %s."</string>
     <string name="timed_message_in_total">... (%d au total)</string>
     <string name="confirm_delete_RUIM_message">Ce message sera supprimé de la carte RUIM.</string>
     <string name="confirm_delete_all_RUIM_messages">Tous les messages sur la carte RUIM seront supprimés.</string>
+    <string name="festival_sms_sdcard_unready">Impossible de charger la liste, assurez-vous que la carte SD en place</string>
     <string name="pref_summary_manage_ruim_messages">Gérer les messages stockés sur votre carte RUIM</string>
     <string name="pref_title_manage_ruim_messages">Gérer les messages de la carte RUIM</string>
     <string name="ruim_empty">Aucun message sur la carte RUIM.</string>

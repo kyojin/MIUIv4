@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Update Me</string>
+    <string name="app_version">1.1.0</string>
+    <string name="enable_quick_apps">Activer les apps rapides</string>
+    <string name="enable_recent_screenshoot">Activer les screenshots sur le bouton Apps Récentes</string>
+    <string name="enable_recent_screenshoot_desc">Prendre un screenshot en restant appuyé sur le boutons Apps Récentes</string>
+    <string name="check_rom_update">Vérifier les màj de la ROM</string>
+    <string name="exit">Quitter</string>
+    <string name="info">Info</string>
+    <string name="kernel">Kernel</string>
+    <string name="costumization">Personnalisation</string>
+    <string name="settings">Paramètres</string>
+    <string name="downloading_file">Téléchargement du fichier....</string>
+    <string name="md5_ok">Vérification MD5 passée</string>
+    <string name="md5_error">Vérification MD5 échouée</string>
+    <string name="file_downloaded">Fichier téléchargé vers:</string>
+    <string name="reboot_to_recovery">Voulez-vous redémarrer en recovery ?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Annuler</string>
+    <string name="new_rom">Nouvelle version de la ROM disponible</string>
+    <string name="download_new_rom">Télécharger la nouvelle version de la ROM</string>
+    <string name="changelog">Changelog</string>
+    <string name="reload_apps">Recharger les apps</string>
+    <string name="check_rom_startup">Verifier les màj au démarrage</string>
+    <string name="choose_download_dir">Choisir le dossier de téléchargement</string>
+    <string name="reboot_recovery">Redémarrer en recovery</string>
+    <string name="donate">Faire un don</string>
+    <string name="no_update_available">Pas de màj</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Update Me</string>
+    <string name="enable_quick_apps">Ativar Quick Apps</string>
+    <string name="enable_recent_screenshoot">Ativar Captura de Ecrã no botão de Aplicações Recentes</string>
+    <string name="enable_recent_screenshoot_desc">Captura o Ecrã quando o botão de Aplicações é carregado continuamente</string>
+    <string name="check_rom_update">Verificar por updates da ROM</string>
+    <string name="exit">Sair</string>
+    <string name="info">Informações</string>
+    <string name="kernel">Kernel</string>
+    <string name="costumization">Costumização</string>
+    <string name="settings">Definições</string>
+    <string name="downloading_file">A transferir ficheiro....</string>
+    <string name="md5_ok">Verificação MD5 terminada com sucesso</string>
+    <string name="md5_error">Verificação MD5 falhada</string>
+    <string name="file_downloaded">Ficheiro transferido para:</string>
+    <string name="reboot_to_recovery">Queres reniciar e entrar no recovery?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="new_rom">Nova versão da ROM disponivel</string>
+    <string name="download_new_rom">Transferir nova versão da ROM</string>
+    <string name="changelog">Alteraçoes</string>
+    <string name="reload_apps">Recarregar Aplicações</string>
+    <string name="check_rom_startup">Check new Rom on startup</string>
+    <string name="choose_download_dir">Choose download dir</string>
+    <string name="reboot_recovery">Reboot to recovery</string>
+    <string name="donate">Donate</string>
+</resources>

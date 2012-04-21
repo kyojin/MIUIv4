@@ -426,4 +426,6 @@
     <string name="android_volume_icon_description_notification">@android:string/volume_icon_description_notification</string>
     <string name="android_volume_alarm">@android:string/volume_alarm</string>
     <string name="sim_account_name">SIM</string>
+    <string name="android_yesterday">@android:string/yesterday</string>
+    <string name="android_tomorrow">@android:string/tomorrow</string>
 </resources>

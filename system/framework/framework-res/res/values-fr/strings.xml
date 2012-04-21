@@ -1250,4 +1250,5 @@ pour le compte %s"</string>
     <string name="sending">Envoi en cours…</string>
     <string name="launchBrowserDefault">Lancer le navigateur ?</string>
     <string name="SetupCallDefault">"Prendre l'appel ?"</string>
-</resources>
+    <string name="enablePin">Échec. Activez le verrouillage SIM/RUIM.</string>
+	</resources>

@@ -10,8 +10,6 @@
     <string name="tab_most_visited">Les + visités</string>
     <string name="tab_history">Historique</string>
     <string name="tab_snapshots">Pages enreg.</string>
-    <string name="tab_yellowpage">Top sites</string>
-    <string name="tab_quicklinks">Liens rapides</string>
     <string name="added_to_bookmarks">Ajouté aux favoris.</string>
     <string name="removed_from_bookmarks">Supprimé des favoris.</string>
     <string name="sign_in_to" formatted="false">Connectez-vous à %s1 \"%s2\"</string>
@@ -128,8 +126,6 @@
     <string name="pref_general_title">Général</string>
     <string name="pref_general_sync_title">Synchronisation</string>
     <string name="pref_general_autofill_title">Saisie automatique</string>
-    <string name="pref_exit_on_closing_last_tab_enabled_title">Quitter en fermant l\'onglet</string>
-    <string name="pref_exit_on_closing_last_tab_enabled_summary">Cocher pour quitter le navigateur en fermant le dernier onglet. Déchocher pour afficher la page d\'accueil plutôt.</string>
     <string name="pref_autofill_enabled">Saisie auto du formulaire</string>
     <string name="pref_autofill_enabled_summary">Remplir les formulaires Web en un seul geste</string>
     <string name="pref_autofill_profile_editor">Texte de saisie automatique</string>
@@ -226,6 +222,7 @@
     <string name="pref_development_visual_indicator">Activer l\'indicateur visuel</string>
     <string name="pref_development_cpu_upload_path">Activer le chemin d\'upload CPU</string>
     <string name="js_engine_flags">Définir des drapeaux JS</string>
+    <string name="pref_development_uastring">User-Agent</string>
     <string name="pref_development_error_console">Afficher la console JavaScript</string>
     <string name="pref_development_reset_prelogin">Réinitialiser prelogin</string>
     <string name="pref_default_text_encoding">Codage du texte</string>
@@ -357,6 +354,12 @@
     <string name="accessibility_state_incognito">Page de navigation privée</string>
     <string name="accessibility_state_frozen">Page enregistrée</string>
     <string name="accessibility_transition_navscreen">Gestion des onglets</string>
+    <string name="tab_yellowpage">Top sites</string>
+    <string name="tab_quicklinks">Liens rapides</string>
+    <string name="pref_content_night_read_mode">Activer le mode nuit</string>
+    <string name="pref_exit_on_closing_last_tab_enabled_title">Quitter en fermant l\'onglet</string>
+    <string name="pref_exit_on_closing_last_tab_enabled_summary">Cocher pour quitter le navigateur en fermant le dernier onglet. Déchocher pour afficher la page d\'accueil plutôt.</string>
+    <string name="url_hint">Rechercher ou entrer URL</string>
     <string name="file_picker_new_folder">Nouveau dossier</string>
     <string name="file_picker_sdcard_not_found">Carte SD non détéctée, vérifiez si l\'appareil est actuellement monté ou en cours d\'utilisation</string>
     <string name="export_bookmark_sucess">Importation des favoris vers la carte SD réussie!</string>
@@ -382,7 +385,14 @@
     <string name="pref_reading_mode_enabled_title">Mode lecture</string>
     <string name="menu_exit">Quitter</string>
     <string name="exit_browser_warning">Quitter le navigateur?</string>
-    <string name="pref_content_night_read_mode">Activer le mode nuit</string>
+    <string name="tab_opened_background">Onglet ouvert en arrière-plan.</string>
+    <string name="tab_closed">Onglet fermé.</string>
+    <string name="navigator_permissions_prompt_message" formatted="false">%s veut accéder à %s sur votre appareil</string>
+    <string name="navigator_permissions_prompt_remember">Se souvenir du choix</string>
+    <string name="navigator_permissions_prompt_share">Autoriser</string>
+    <string name="navigator_permissions_prompt_dont_share">Refuser</string>
+    <string name="pref_development_woff">Activer WOFF</string>
+    <string name="pref_lab_slide_tab_transitions">Transitions entre onglets</string>
+    <string name="pref_lab_slide_tab_transitions_summary">Glisser sur le côté pour afficher l\'onglet suivant/précédent dans la liste.</string>
     <string name="help_page">Aide</string>
-    <string name="url_hint">Rechercher ou entrer URL</string>
 </resources>
