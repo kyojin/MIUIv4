@@ -42,6 +42,7 @@
     <string name="keep_quit_position_settings">Sauvegarder la position</string>
     <string name="keep_quit_position_summary">Garde en mémoire la position dans la piste en lecture au relancement de l\'application</string>
     <string name="shake_settings">Secouer pour passer</string>
+	<string name="shake_while_screen_on_title">Passer uniq. si l\'écran est actif</string>
     <string name="shake_summary">Secouer l\'appareil pour passer à la piste suivante</string>
     <string name="shake_sensitivity_settings">Ajuster la sensibilité</string>
     <string name="shake_sensitivity_summary">Régler la sensibilité du secouement</string>

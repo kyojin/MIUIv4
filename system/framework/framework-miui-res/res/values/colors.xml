@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="secondary_tab_text_color">#b2000000</color>
+    <color name="secondary_tab_text_pressed_color">#ff000000</color>
+    <color name="guide_popup_window_textColor">@android:color/white</color>
+    <color name="alphabet_indexer_overlay_text_color">#ffffffff</color>
+    <color name="button_text_color">#cc000000</color>
+    <color name="button_text_color_disabled">#53000000</color>
+    <color name="button_text_shadow">@color/primary_text_color_shadow</color>
+    <color name="primary_text_holo_light">#cc000000</color>
+    <color name="secondary_text_holo_light">#66000000</color>
+    <color name="android_config_defaultNotificationColor">@android:color/config_defaultNotificationColor</color>
+    <color name="primary_text_holo_dark">#fff9f9f9</color>
+    <color name="secondary_text_holo_dark">#ffbebebe</color>
+    <color name="information_error">@android:color/holo_red_dark</color>
+    <color name="information_warning">#ffff7e00</color>
+    <color name="information_in_progress">@android:color/holo_purple</color>
+    <color name="information_done">@android:color/holo_green_light</color>
+    <color name="information_normal">@android:color/holo_blue_light</color>
+    <color name="alphabet_indexer_text_color">#4c000000</color>
+    <color name="primary_text_color_inverse">@android:color/white</color>
+    <color name="secondary_text_color_inverse">@android:color/white</color>
+    <color name="primary_text_color_shadow">#80ffffff</color>
+    <color name="secondary_text_color_shadow">#80ffffff</color>
+    <color name="android_listseparator_text_holo_light">@android:color/listseparator_text_holo_light</color>
+    <color name="alphabet_indexer_highlight_text_color">#ffff7e00</color>
+    <color name="primary_tab_text_pressed_color">@color/primary_text_color_inverse</color>
+    <color name="primary_tab_text_selected_color">#ffff7e00</color>
+    <color name="primary_tab_text_color">@color/primary_text_holo_light</color>
+</resources>

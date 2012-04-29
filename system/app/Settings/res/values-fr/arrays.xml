@@ -467,27 +467,9 @@
     </string-array>
     <string-array name="led_color_entries">
         <item>Blanche</item>
-        <item>Verte</item>
-        <item>Rouge</item>
-        <item>Bleue</item>
-        <item>Jaune</item>
-        <item>Cyan</item>
-        <item>Magenta</item>
-        <item>Rose</item>
-        <item>Orange</item>
-        <item>Saphir</item>
     </string-array>
     <string-array name="led_color_values">
         <item>white</item>
-        <item>green</item>
-        <item>red</item>
-        <item>blue</item>
-        <item>yellow</item>
-        <item>cyan</item>
-        <item>\#800080</item>
-        <item>\#ffc0cb</item>
-        <item>\#ffa500</item>
-        <item>\#add8e6</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 secondes</item>

@@ -281,7 +281,8 @@
     <string name="crypt_keeper_encrypt_title">Chiffrer le téléphone</string>
     <string name="crypt_keeper_encrypt_summary">"Exiger un code PIN ou un mot de passe numérique pour déchiffrer le téléphone à chaque fois qu'il est allumé"</string>
     <string name="crypt_keeper_encrypted_summary">Chiffré</string>
-    <string name="crypt_keeper_desc">"Vous pouvez chiffrer vos comptes, vos paramètres, vos applications téléchargées, ainsi que leurs données, supports et autres fichiers. Une fois votre téléphone chiffré, vous devez saisir un code PIN ou un mot de passe numérique pour le déchiffrer à chaque fois que vous l'allumez. Vous ne pouvez déchiffrer votre téléphone qu'en rétablissant la configuration d'usine, ce qui effacera l'ensemble de vos données
+    <string name="crypt_keeper_desc">"Vous pouvez chiffrer vos comptes, vos paramètres, vos applications téléchargées, ainsi que leurs données, supports et autres fichiers. Une fois votre téléphone chiffré, vous devez saisir un code PIN ou un mot de passe numérique pour le déchiffrer à chaque fois que vous l'allumez. Vous ne pouvez déchiffrer votre téléphone qu'en rétablissant la configuration d'usine, ce qui effacera l'ensemble de vos donnée
+
 
 Le chiffrement peut prendre une heure au minimum. La batterie doit être chargée lors du démarrage du processus et le téléphone doit rester branché jusqu'à la fin de celui-ci. Si vous l'interrompez, vous perdrez certaines de vos données, voire la totalité."</string>
     <string name="crypt_keeper_button_text">Chiffrer le téléphone</string>
@@ -1550,6 +1551,7 @@ L’utilisation des données étant mesurée par le téléphone, celle mesurée 
     <string name="device_internal_memory">Mém. Int.:</string>
     <string name="device_sd_memory">Carte SD:</string>
     <string name="device_cpu2_info">"Double Coeur "</string>
+    <string name="device_cpu4_info">"Quad-Core "</string>
     <string name="available_size">%s dispo</string>
     <string name="total_size">%s total</string>
     <string name="xiaomi_account">Compte Xiaomi</string>
@@ -1621,7 +1623,10 @@ L’utilisation des données étant mesurée par le téléphone, celle mesurée 
     <string name="timezone_settings">Fuseau horaire</string>
     <string name="security_privacy_settings_title">Sécurité et confidentialité</string>
     <string name="nearby_wifi">Sélectionner un Wi-Fi proche</string>
+	<string name="unlock_set_enter_system">Accès direct au système</string>
+	<string name="unlock_set_enter_system_summary">Le thème du lockscreen ne sera pas utilisé après son activation. Allumez l\'écran pour accéder directement au système</string>
     <string name="forget_wifi_message">Oublier ce réseau Wi-Fi ? Vous pourrez avoir besoin de ré-entrer le MdP en vous y connectant</string>
+    <string name="no_nearby_wifi">Pas de Wi-Fi proches détectés.</string>
     <string name="manually_add_network">Ajout manuel de réseau</string>
     <string name="network_detail">%s détail de réseau</string>
     <string name="incoming_call_vibrate_abbreviation">Appels</string>
@@ -1643,9 +1648,15 @@ L’utilisation des données étant mesurée par le téléphone, celle mesurée 
     <string name="apn_new">Nouveau point d\'accès</string>
     <string name="apn_save">Enregistrer le point d\'accès ?</string>
     <string name="apn_save_msg">Les paramètres ont été modifiés, voulez-vous sauvegarder ?</string>
+	<string name="activating">Activation...</string>
+	<string name="default_input_method">Choisir la méthode de saisie par défaut</string>
+	<string name="volume_category_title">Volume</string>
+	<string name="vibrate_category_title">Vibration</string>
+	<string name="vibrate_in_normal_title">Vibrer en mode normal</string>
     <string name="APKTOOL_DUMMY_0614">false</string>
     <string name="APKTOOL_DUMMY_0615">false</string>
     <string name="APKTOOL_DUMMY_0616">false</string>
+    <string name="APKTOOL_DUMMY_0617">false</string>
     <string name="sim_absent">Pas de SIM/RUIM</string>
     <string name="bluetooth_enter_pin_msg_hs">Entrer le PIN pour appairer \"%1$s\". [Haute sécurité activée: Nécessite une clé de 16 caractères]</string>
     <string name="bluetooth_ftp_acceptance_dialog_text" formatted="false">%1$s voudrait accéder à vos fichiers et dossiers. Accorder l\'accès à %2$s ?</string>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="notification_icon_size">28.0dip</dimen>
+    <dimen name="list_primary_text_size">@dimen/text_font_size_huge</dimen>
+    <dimen name="list_secondary_text_size">@dimen/text_font_size_small</dimen>
+    <dimen name="text_handle_visible_height">40.0dip</dimen>
+    <dimen name="lock_screen_default_control_view_height">53.0dip</dimen>
+    <dimen name="alphabet_indexer_text_size">12.0dip</dimen>
+    <dimen name="alphabet_indexer_overlay_text_size">28.0dip</dimen>
+    <dimen name="alphabet_indexer_overlay_padding_top">5.0dip</dimen>
+    <dimen name="button_bar_text_size">17.0sp</dimen>
+    <dimen name="alphabet_indexer_overlay_offset">20.0dip</dimen>
+    <dimen name="thememanager_detail_page_title_and_bottom_height">104.66dip</dimen>
+    <dimen name="text_font_size_huge">18.0sp</dimen>
+    <dimen name="text_font_size_large">16.0sp</dimen>
+    <dimen name="text_font_size_medium">14.0sp</dimen>
+    <dimen name="text_font_size_small">12.0sp</dimen>
+    <dimen name="text_font_size_tiny">10.0sp</dimen>
+    <item type="dimen" name="android_navigation_bar_height">@android:dimen/navigation_bar_height</item>
+    <item type="dimen" name="android_status_bar_icon_size">@android:dimen/status_bar_icon_size</item>
+    <item type="dimen" name="android_status_bar_height">@android:dimen/status_bar_height</item>
+    <item type="dimen" name="android_system_bar_height">@android:dimen/system_bar_height</item>
+    <item type="dimen" name="android_system_bar_icon_size">@android:dimen/system_bar_icon_size</item>
+    <item type="dimen" name="android_preference_item_padding_side">@android:dimen/preference_item_padding_side</item>
+    <item type="dimen" name="android_navigation_bar_width">@android:dimen/navigation_bar_width</item>
+    <item type="dimen" name="android_multiwaveview_target_placement_radius">@android:dimen/multiwaveview_target_placement_radius</item>
+    <item type="dimen" name="android_multiwaveview_snap_margin">@android:dimen/multiwaveview_snap_margin</item>
+    <item type="dimen" name="android_multiwaveview_hit_radius">@android:dimen/multiwaveview_hit_radius</item>
+    <item type="dimen" name="android_preference_fragment_padding_side">@android:dimen/preference_fragment_padding_side</item>
+    <item type="dimen" name="android_preference_fragment_padding_bottom">@android:dimen/preference_fragment_padding_bottom</item>
+    <item type="dimen" name="android_preference_item_padding_inner">@android:dimen/preference_item_padding_inner</item>
+    <item type="dimen" name="android_preference_widget_width">@android:dimen/preference_widget_width</item>
+    <item type="dimen" name="android_volume_panel_top">@android:dimen/volume_panel_top</item>
+    <dimen name="list_touch_padding">7.0dip</dimen>
+    <item type="dimen" name="android_default_app_widget_padding_left">@android:dimen/default_app_widget_padding_left</item>
+    <item type="dimen" name="android_default_app_widget_padding_right">@android:dimen/default_app_widget_padding_right</item>
+    <item type="dimen" name="android_default_app_widget_padding_top">@android:dimen/default_app_widget_padding_top</item>
+    <item type="dimen" name="android_default_app_widget_padding_bottom">@android:dimen/default_app_widget_padding_bottom</item>
+    <dimen name="two_floors_action_bar_height">46.332977dip</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="symmetry" format="boolean" />
+    <attr name="sliding_dot_bar" format="reference" />
+    <attr name="sliding_shadow_dot_bar" format="reference" />
+    <attr name="sliding_panel" format="reference" />
+    <attr name="alpha_width" format="integer" />
+    <attr name="update_enable" format="boolean" />
+    <attr name="care_streamactive" format="boolean" />
+    <attr name="targetDrawablesLight" format="reference" />
+    <attr name="buttonFrame" format="reference" />
+    <attr name="buttonSlider" format="reference" />
+    <attr name="buttonSliderPressed" format="reference" />
+    <attr name="buttonOnDisable" format="reference" />
+    <attr name="buttonOffDisable" format="reference" />
+    <attr name="buttonMask" format="reference" />
+    <attr name="buttonBar" format="reference" />
+    <attr name="rightHintAnimationDrawable" format="reference" />
+</resources>

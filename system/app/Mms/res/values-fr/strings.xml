@@ -416,6 +416,9 @@ Dernière tentative : %s."</string>
     <string name="message_too_big_for_audio">Le message est trop gros pour attacher de l\'audio.</string>
     <string name="add_timing">Temps</string>
     <string name="menu_view_original_message">Voir le message original</string>
+	<string name="pref_title_system_mms_priority">Priorité SMS</string>
+	<string name="pref_summary_on_system_mms_priority">L\'app SMS du système recevra le message en premier</string>
+	<string name="pref_summary_off_system_mms_priority">Les autres apps SMS recevront le message en premier</string>
     <string name="title_timed_message_dialog">Veuillez configurer la date pour ce message</string>
     <string name="will_send_at">Envoi à: %s</string>
     <string name="error_timed_msg">Impossible de planifier un temps passé</string>

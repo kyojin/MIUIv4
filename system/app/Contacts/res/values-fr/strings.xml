@@ -528,6 +528,11 @@ Veuillez sélectionner l'une des options suivantes :"</string>
     <string name="callrecordview_item_op_time_short_incoming">"Entrant: "</string>
     <string name="callrecordview_item_op_time_missed">Non connecté</string>
     <string name="callrecordview_item_op_time_rejected">Appel rejeté</string>
+	<string name="no_contact_name">Aucun nom de contact stocké</string>
+	<string name="contact_pick_photo">Photo</string>
+	<string name="select_photo_from_photo_package">Sélectionner une photo d\'un paquet</string>
+	<string name="select_new_photo_from_photo_package">Sélectionner une nouvelle photo d\'un paquet</string>
+	<string name="photo_package_activity_title">Paquet de photos</string>
     <string name="callrecordview_menu_show_title">Sélectionner le type de journal d\'appel à être affiché</string>
     <string name="callrecordview_menu_show_all">Afficher tous les appels</string>
     <string name="callrecordview_menu_show_missed">Afficher uniq. les appels manqués</string>
@@ -612,8 +617,6 @@ Veuillez sélectionner l'une des options suivantes :"</string>
     <string name="display_only_phones">Afficher les contacts avec numéro</string>
     <string name="display_sim_contacts">Afficher les contacts de la SIM</string>
     <string name="preference_sim">Carte SIM</string>
-    <string name="sim_contacts_visiable">Afficher contacts SIM</string>
-    <string name="sim_contacts_invisiable">Masquer contacts SIM</string>
     <string name="preference_remove_duplicate">Fusionner les doublons</string>
     <string name="scan_duplicate">"Recherche des données dupliquées, veuillez patienter... "</string>
     <string name="scan_merge">Recherche de contacts éventuellement dupliqués, veuillez patienter...</string>
@@ -630,4 +633,6 @@ Veuillez sélectionner l'une des options suivantes :"</string>
     <string name="raw_contact_list_title">Ce contact inclut ces %1$d contacts bruts, cliquez pour choisir un contact à éditer</string>
     <string name="raw_contact_account_label">Compte: %1$s</string>
     <string name="menu_call_ip_number">Composer appel IP (composer %s)</string>
+    <string name="sim_contacts_visiable">Afficher contacts SIM</string>
+    <string name="sim_contacts_invisiable">Masquer contacts SIM</string>
 </resources>

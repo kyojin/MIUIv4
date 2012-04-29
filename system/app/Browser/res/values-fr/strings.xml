@@ -382,15 +382,16 @@
     <string name="dump_dom_tree">Créer un dump de l\'arbre DOM</string>
     <string name="dump_render_tree">Créer un dump de l\'arbre de rendu</string>
     <string name="dump_display_tree">Créer un dump de l\'arbre d\'affichage</string>
-    <string name="pref_reading_mode_enabled_title">Mode lecture</string>
+	<string name="pref_reading_mode_enabled_title">Mode lecture</string>
+	<string name="pref_reading_mode_enabled_title_summary">JavaScript doit être activé</string>
     <string name="menu_exit">Quitter</string>
     <string name="exit_browser_warning">Quitter le navigateur?</string>
     <string name="tab_opened_background">Onglet ouvert en arrière-plan.</string>
     <string name="tab_closed">Onglet fermé.</string>
+    <string name="navigator_permissions_prompt_dont_share">Refuser</string>
     <string name="navigator_permissions_prompt_message" formatted="false">%s veut accéder à %s sur votre appareil</string>
     <string name="navigator_permissions_prompt_remember">Se souvenir du choix</string>
     <string name="navigator_permissions_prompt_share">Autoriser</string>
-    <string name="navigator_permissions_prompt_dont_share">Refuser</string>
     <string name="pref_development_woff">Activer WOFF</string>
     <string name="pref_lab_slide_tab_transitions">Transitions entre onglets</string>
     <string name="pref_lab_slide_tab_transitions_summary">Glisser sur le côté pour afficher l\'onglet suivant/précédent dans la liste.</string>
