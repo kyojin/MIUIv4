@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Backup completato</string>
+    <string name="restore_confirm_title">Ripristino completato</string>
+    <string name="backup_confirm_text">"Un backup completo di tutti i dati a un computer è stato richiesto. Avviarlo?
+
+Se non hai richiesto il Backup annulla l'operazione."</string>
+    <string name="allow_backup_button_label">Permetti Backup</string>
+    <string name="deny_backup_button_label">Annulla Backup</string>
+    <string name="restore_confirm_text">"Un ripristino completo è stato richiesto da un computer, avviarlo?
+	Se non hai richiesto tu questa operazione annullala"</string>
+    <string name="allow_restore_button_label">Permetti ripristino</string>
+    <string name="deny_restore_button_label">Annulla ripristino</string>
+    <string name="current_password_text">Password Backup attuale:</string>
+    <string name="device_encryption_restore_text">Password per la crittografia del telefono:</string>
+    <string name="device_encryption_backup_text">Inserire password per la crittografia. Sarà usata per crittografare il Backup:</string>
+    <string name="backup_enc_password_text">Inserire una password per la crittografia del telefono, se si lascia vuoto verrà utilizzata la password di default</string>
+    <string name="backup_enc_password_optional">Se si desidera crittografare un Backup completato, immettere una password:</string>
+    <string name="restore_enc_password_text">Se il backup è criptato inserire la password per il ripristino</string>
+    <string name="toast_backup_started">Backup avviato...</string>
+    <string name="toast_backup_ended">Backup terminato</string>
+    <string name="toast_restore_started">Ripristino avviato...</string>
+    <string name="toast_restore_ended">Ripristino terminato</string>
+    <string name="toast_timeout">Timeout raggiunto</string>
+</resources>
