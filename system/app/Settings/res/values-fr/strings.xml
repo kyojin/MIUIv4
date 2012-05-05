@@ -1653,6 +1653,15 @@ L’utilisation des données étant mesurée par le téléphone, celle mesurée 
 	<string name="volume_category_title">Volume</string>
 	<string name="vibrate_category_title">Vibration</string>
 	<string name="vibrate_in_normal_title">Vibrer en mode normal</string>
+    <string name="wifi_wapi_fail_to_init">Impossible d\'ouvrir les certificats WAPI. Le stockage des informations d\'identification ne peut être activé</string>
+    <string name="wifi_wapi_fail_to_auth">Authentication WAPI échouée, veuillez vérifier vos certificats</string>
+    <string name="wifi_wapi_psk_type">Type de MdP</string>
+    <string name="wifi_wapi_as_certificate">Certificat AS</string>
+    <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
+    <string name="wifi_security_wapi_psk">WAPI PSK</string>
+    <string name="wifi_security_wapi_cert">WAPI CERT</string>
+    <string name="wifi_security_wapi_psk_ascii">WAPI PSK ASCII</string>
+    <string name="wifi_security_wapi_psk_hexadecimal">WAPI PSK hexadécimal</string>
     <string name="APKTOOL_DUMMY_0614">false</string>
     <string name="APKTOOL_DUMMY_0615">false</string>
     <string name="APKTOOL_DUMMY_0616">false</string>
