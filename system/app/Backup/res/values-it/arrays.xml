@@ -5,25 +5,25 @@
         <item>Tutte le applicazioni</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Gallery</item>
-        <item>Music</item>
-        <item>Recorder</item>
+        <item>Galleria</item>
+        <item>Musica</item>
+        <item>Registratore</item>
         <item>Browser</item>
-        <item>Camera</item>
+        <item>Fotocamera</item>
         <item>File Explorer</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Contatti</item>
         <item>Registro Chiamate</item>
         <item>Messaggi</item>
-        <item>Multimedia Messages</item>
+        <item>Messaggi multimediali</item>
         <item>Impostazioni di sistema</item>
         <item>Impostazioni Wi-Fi</item>
         <item>Layout Desktop</item>
         <item>Impostazioni Sveglie</item>
         <item>Note</item>
-        <item>Block Settings</item>
-        <item>CurrentTheme</item>
+        <item>Impostazioni blocco</item>
+        <item>Tema</item>
         <item>Superuser</item>
     </string-array>
     <string-array name="app_type_desc">
@@ -39,12 +39,12 @@
         <item>Note</item>
     </string-array>
     <string-array name="cloud_account_data">
-        <item>Contacts</item>
-        <item>WLAN Settings</item>
-        <item>Notes</item>
+        <item>Contatti</item>
+        <item>Impostazioni WLAN</item>
+        <item>Note</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Call Logs</item>
-        <item>Messages</item>
+        <item>Registro chiamate</item>
+        <item>Messaggi</item>
     </string-array>
 </resources>
