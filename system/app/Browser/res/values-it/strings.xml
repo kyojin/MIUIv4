@@ -79,7 +79,7 @@
     <string name="browserFrameNetworkErrorLabel">Errore di connessione rete</string>
     <string name="browserFrameFileErrorLabel">Problema con il file</string>
     <string name="browserFrameFormResubmitLabel">Conferma</string>
-    <string name="browserFrameFormResubmitMessage">The page you are trying to view contains data that has already been submitted (\"POSTDATA\"). If you resend the data, any action the form on the page carried out (such as a search or online purchase) will be repeated.</string>
+    <string name="browserFrameFormResubmitMessage">LLa pagina che stai tentando di visualizzare contiene dati già inviati. (\"POSTDATA\"). Se ri-invii i dati qualunque azione compiuta dal sito( ad es: ricerca o acquisto online) sarà ripetuta dal sito.</string>
     <string name="too_many_subwindows_dialog_title">Finestra pop-ip già aperta</string>
     <string name="too_many_subwindows_dialog_message">Le pagine in un tab non possono aprire finestre pop-up multiple</string>
     <string name="download_no_sdcard_dlg_title">Scheda SD non trovata</string>

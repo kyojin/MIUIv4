@@ -20,7 +20,7 @@
     <string name="incoming_file_confirm_ok">Accetta</string>
     <string name="incoming_file_confirm_timeout_ok">Ok</string>
     <string name="incoming_file_confirm_timeout_content">Tempo per la ricezione del file da \"%1$s\" scaduto</string>
-    <string name="incoming_file_confirm_Notification_title">CondivisioneBluetooth: file in arrivo</string>
+    <string name="incoming_file_confirm_Notification_title">Condivisione Bluetooth: file in arrivo</string>
     <string name="incoming_file_confirm_Notification_caption">Confermare che si desidera ricevere questo file</string>
     <string name="incoming_file_toast_msg">"E' in arrivo un file da un altro dispositivo, confermare che si desidera ricevere questo file"</string>
     <string name="notification_receiving">Condivisione Bluetooth: Ricezione %1$s</string>
@@ -55,7 +55,7 @@
     <string name="upload_fail_cancel">Chiudi</string>
     <string name="bt_error_btn_ok">OK</string>
     <string name="unknown_file">File sconosciuto</string>
-    <string name="unknown_file_desc">"Nesuna applicazione per gestiore questo tipo file. 
+    <string name="unknown_file_desc">"Nessuna applicazione per gestiore questo tipo file. 
 "</string>
     <string name="not_exist_file">Il file non esiste</string>
     <string name="not_exist_file_desc">"Il file non esiste! 
@@ -68,17 +68,17 @@
     <string name="bt_toast_4">Invio file a \"%1$s\"</string>
     <string name="bt_toast_5" formatted="false">Invio %1$s file a \"%2$s\"</string>
     <string name="bt_toast_6">Invio file a \"%1$s\" interrotto</string>
-    <string name="bt_sm_2_1">Spazio insufficente sulla card SD per salvare il file ricevuto da \"%1$s\"</string>
+    <string name="bt_sm_2_1">Spazio insufficente sulla scheda SD per salvare il file ricevuto da \"%1$s\"</string>
     <string name="bt_sm_2_2">Spazio necessario: %1$s</string>
-    <string name="ErrorTooManyRequests">Troppo richieste inoltrate. Riprovare in seguito.</string>
+    <string name="ErrorTooManyRequests">Troppe richieste inoltrate. Riprovare in seguito.</string>
     <string name="status_pending">Trasferimento file non avviato</string>
     <string name="status_running">Trasferimento file in corso</string>
-    <string name="status_success">Trasferimento file in corso completato con successo</string>
+    <string name="status_success">Trasferimento file completato con successo</string>
     <string name="status_not_accept">Il telefono non può gestire questo tipo di contenuto</string>
     <string name="status_forbidden">Trasferimento rifiutato dal dispositivo remoto</string>
     <string name="status_canceled">"Trasferimento cancellatto dall'utente"</string>
     <string name="status_file_error">Problema di archiviazione</string>
-    <string name="status_no_sd_card">Nessuna card SD. Inserire una card SD per salvare i file trasferiti.</string>
+    <string name="status_no_sd_scheda">Nessuna scheda SD. Inserire una scheda SD per salvare i file trasferiti.</string>
     <string name="status_connection_error">Errore di connessione</string>
     <string name="status_protocol_error">La richiesta non può essere gestita correttamente</string>
     <string name="status_unknown_error">Errore sconosciuto</string>
@@ -96,10 +96,10 @@
     <string name="transfer_menu_open">Apri</string>
     <string name="transfer_menu_clear">Elimina dalla lista</string>
     <string name="transfer_clear_dlg_title">Elimina</string>
-    <string name="bluetooth_share_file_name">contenuto_bluetooth_condiviso</string>
+    <string name="bluetooth_share_file_name">contenuto bluetooth condiviso</string>
     <string name="sharedUserId" />
     <string name="process" />
-    <string name="pbap_session_key_dialog_title">Digita la chiava per la sessione %1$s</string>
+    <string name="pbap_session_key_dialog_title">Digita la chiave per la sessione %1$s</string>
     <string name="pbap_session_key_dialog_header">Chiave sessione Bluetooth necessaria</string>
     <string name="pbap_acceptance_timeout_message">Tempo per la connessione con %1$s esaurito</string>
     <string name="pbap_authentication_timeout_message">"Tempo per l'immissione della chiave per la sessione con %1$s esaurito"</string>
@@ -120,7 +120,7 @@
     <string name="delete_record">Cancella record</string>
     <string name="start_server">Avvia server TCP</string>
     <string name="notify_server">Notifica server TCP</string>
-    <string name="pbap_acceptance_dialog_title" formatted="false">%1$s vuole accedere ai tuoi contattie al registro chiamate. Consenti %2$s?</string>
+    <string name="pbap_acceptance_dialog_title" formatted="false">%1$s vuole accedere ai tuoi contatti e al registro chiamate. Consenti %2$s?</string>
     <string name="pbap_acceptance_dialog_header">Accesso Rubrica</string>
     <string name="pbap_notif_ticker">Richiesta accesso Rubrica</string>
     <string name="pbap_notif_title">Richiesta PBAP</string>
